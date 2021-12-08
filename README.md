@@ -4,44 +4,45 @@ The oxford 3000 is the list of the 3000 most important words to learn in English
 
 ## List
 
-- [A](#A)
-- [B](#B)
-- [C](#C)
-- [D](#D)
-- [E](#E)
-- [F](#F)
-- [G](#G)
-- [H](#H)
-- [I](#I)
-- [J](#J)
-- [K](#K)
-- [L](#L)
-- [M](#M)
-- [N](#N)
-- [O](#O)
-- [P](#P)
-- [Q](#Q)
-- [R](#R)
-- [S](#S)
-- [T](#T)
-- [U](#U)
-- [V](#V)
-- [W](#W)
-- [Y](#Y)
-- [Z](#Z)
+1. [A](#A)
+2. [B](#B)
+3. [C](#C)
+4. [D](#D)
+5. [E](#E)
+6. [F](#F)
+7. [G](#G)
+8. [H](#H)
+9. [I](#I)
+10. [J](#J)
+11. [K](#K)
+12. [L](#L)
+13. [M](#M)
+14. [N](#N)
+15. [O](#O)
+16. [P](#P)
+17. [Q](#Q)
+18. [R](#R)
+19. [S](#S)
+20. [T](#T)
+21. [U](#U)
+22. [V](#V)
+23. [W](#W)
+24. X
+25. [Y](#Y)
+26. [Z](#Z)
 
 ### A
 
-a, an indefinite article. 一个
-abandon v. 放弃
-ability n. 能力
-able adj. 能够的
-about prep., adv. 关于
-above prep., adv. 以上
-abroad adv. 国外
-absolute adj. 绝对的
-absolutely adv. 绝对
-academic adj., n. 学术的
+- a, an indefinite article. 一个
+- abandon v. 放弃
+- ability n. 能力
+- able adj. 能够的
+- about prep., adv. 关于
+- above prep., adv. 以上
+- abroad adv. 国外
+- absolute adj. 绝对的
+- absolutely adv. 绝对
+- academic adj., n. 学术的
 accept v. 接受
 acceptable adj. 可接受的
 access n., v. 访问
