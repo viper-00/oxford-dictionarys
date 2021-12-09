@@ -3085,26 +3085,26 @@ writing n. 写作
 written adj. 书面的
 wrong adj. , adv. , n. 错误的
 
-### y
+### Y
 
-yard n. 院子
-yeah exclam. 是啊
-year n. 年
-yellow adj., n. 黄色
-yes exclam. 是的
-yesterday adv., n. 昨天
-yet adv. , conj. 然而
-you pron. 你
-young adj. , n. 年轻的
-your det. 你
-yours pron. 你的
-yourself pron. 你自己
-youth n. 青年
+- yard n. 院子
+- yeah exclam. 是啊
+- year n. 年
+- yellow adj., n. 黄色
+- yes exclam. 是的
+- yesterday adv., n. 昨天
+- yet adv. , conj. 然而
+- you pron. 你
+- young adj. n. 年轻的
+- your det. 你
+- yours pron. 你的
+- yourself pron. 你自己
+- youth n. 青年
 
 ### Z
 
-zero number 零号
-zone n. 区
+- zero number 零号
+- zone n. 区
 
 ## LICENSE
 
