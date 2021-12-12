@@ -38,7 +38,7 @@
 
 ### A
 
-- a,an indefinite article. 一个
+- a, an indefinite article. 一个
 - abandon v. 放弃
 - ability n. 能力
 - able adj. 能够的
