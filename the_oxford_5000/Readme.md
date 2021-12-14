@@ -37,159 +37,159 @@
 
 ### A
 
-- abolish v. 
-- abortion n. 
-- absence n. 
-- absent adj. 
-- absorb v. 
-- abstract adj. 
-- absurd adj. 
-- abundance n. 
-- abuse n., v. 
-- academy n. 
-- accelerate v. 
-- accent n. 
-- acceptance n. 
-- accessible adj. 
-- accidentally adv. 
-- accommodate v. 
-- accomplish v. 
-- accomplishment n. 
-- accordance n. 
-- accordingly adv. 
-- accountability n. 
-- accountable adj. 
-- accountant n. 
-- accumulate v. 
-- accumulation n. 
-- accuracy n. 
-- accurately adv. 
-- accusation n. 
-- accused n. 
-- acid n. , adj. 
-- acquisition n. 
-- acre n. 
-- activate v. 
-- activation n. 
-- activist n. 
-- acute adj. 
-- adaptation n. 
-- addiction n. 
-- additionally adv. 
-- adequate adj. 
-- adequately adv. 
-- adhere v. 
-- adjacent adj. 
-- adjust v. 
-- adjustment n. 
-- administer v. 
-- administrative adj. 
-- administrator n. 
-- admission n. 
-- adolescent n. 
-- adoption n. 
-- adverse adj. 
-- advocate n., v. 
-- aesthetic adj. 
-- affection n. 
-- affordable adj. 
-- aftermath n. 
-- aggression n. 
-- agricultural adj. 
-- agriculture n. 
-- aide n. 
-- AIDS n. 
-- albeit conj. 
-- alert v., n., adj. 
-- alien n. , adj. 
-- align v. 
-- alignment n. 
-- alike adv., adj. 
-- allegation n. 
-- allege v. 
-- allegedly adv. 
-- alliance n. 
-- allocate v. 
-- allocation n. 
-- allowance n. 
-- ally n. 
-- alongside prep. 
-- altogether adv. 
-- aluminium n. 
-- amateur adj., n. 
-- ambassador n. 
-- ambulance n. 
-- amend v. 
-- amendment n. 
-- amid prep. 
-- amusing adj. 
-- analogy n. 
-- analyst n. 
-- ancestor n. 
-- anchor n. 
-- angel n. 
-- animation n. 
-- annually adv. 
-- anonymous adj. 
-- anticipate v. 
-- anxiety n. 
-- apology n. 
-- apparatus n. 
-- appealing adj. 
-- appetite n. 
-- applaud v. 
-- applicable adj. 
-- applicant n. 
-- appoint v. 
-- appreciation n. 
-- appropriately adv. 
-- arbitrary adj. 
-- architectural adj. 
-- archive n. 
-- arena n. 
-- arguably adv. 
-- arm v. 
-- array n. 
-- arrow n. 
-- articulate v. 
-- artwork n. 
-- ash n. 
-- aside adv. 
-- aspiration n. 
-- aspire v. 
-- assassination n. 
-- assault n., v. 
-- assemble v. 
-- assembly n. 
-- assert v. 
-- assertion n. 
-- asset n. 
-- assign v. 
-- assistance n. 
-- assumption n. 
-- assurance n. 
-- assure v. 
-- astonishing adj. 
-- asylum n. 
-- atrocity n. 
-- attachment n. 
-- attain v. 
-- attendance n. 
-- attorney n. 
-- attribute v., n. 
-- auction n. 
-- audio adj. 
-- audit n. 
-- authentic adj. 
-- authorize v. 
-- auto n. 
-- automatic adj. 
-- automatically adv. 
-- autonomy n. 
-- availability n. 
-- await v. 
-- awareness n. 
-- awkward adj. 
+- abolish v. 废除
+- abortion n. 堕胎
+- absence n. 缺席
+- absent adj. 缺席
+- absorb v. 吸收
+- abstract adj. 抽象的
+- absurd adj. 荒谬的
+- abundance n. 丰富的
+- abuse n., v. 滥用
+- academy n. 学院
+- accelerate v. 加速
+- accent n. 口音
+- acceptance n. 接受
+- accessible adj. 可访问的
+- accidentally adv. 不小心
+- accommodate v. 容纳
+- accomplish v. 完成
+- accomplishment n. 成就
+- accordance n. 根据
+- accordingly adv. 相应地
+- accountability n. 责任制
+- accountable adj. 负责的
+- accountant n. 会计师
+- accumulate v. 积累
+- accumulation n. 积累
+- accuracy n. 准确性
+- accurately adv. 准确地
+- accusation n. 指控
+- accused n. 被告人
+- acid n. , adj. 酸
+- acquisition n. 收购
+- acre n. 英亩
+- activate v. 激活
+- activation n. 激活
+- activist n. 活动家
+- acute adj. 急性
+- adaptation n. 适应
+- addiction n. 成瘾
+- additionally adv. 另外
+- adequate adj. 足够的
+- adequately adv. 充分
+- adhere v. 坚持
+- adjacent adj. 相邻的
+- adjust v. 调整
+- adjustment n. 调整
+- administer v. 管理
+- administrative adj. 行政
+- administrator n. 管理员
+- admission n. 入场
+- adolescent n. 青少年
+- adoption n. 收养
+- adverse adj. 不利的
+- advocate n., v. 倡导者
+- aesthetic adj. 审美
+- affection n. 感情
+- affordable adj. 负担得起的
+- aftermath n. 后果
+- aggression n. 侵略性
+- agricultural adj. 农业
+- agriculture n. 农业
+- aide n. 帮助
+- AIDS n. 艾滋病
+- albeit conj. 尽管
+- alert v., n., adj. 警报
+- alien n. , adj. 外星人
+- align v. 对齐
+- alignment n. 对齐
+- alike adv., adj. 相似的
+- allegation n. 指控
+- allege v. 指控诉
+- allegedly adv. 据称
+- alliance n. 联盟
+- allocate v. 分配
+- allocation n. 分配
+- allowance n. 津贴
+- ally n. 盟友
+- alongside prep. 与...准备一起
+- altogether adv. 完全
+- aluminium n. 铝
+- amateur adj., n.业余 
+- ambassador n. 大使
+- ambulance n. 救护车
+- amend v. 修正
+- amendment n. 修正
+- amid prep. 在准备中
+- amusing adj. 有趣的
+- analogy n. 类比
+- analyst n. 分析师
+- ancestor n. 祖先
+- anchor n. 锚
+- angel n. 天使
+- animation n. 动画
+- annually adv. 每年
+- anonymous adj. 匿名
+- anticipate v. 预期
+- anxiety n. 焦虑
+- apology n. 道歉
+- apparatus n. 器具
+- appealing adj. 吸引人的
+- appetite n. 食欲
+- applaud v. 鼓掌
+- applicable adj. 适用的
+- applicant n. 申请人
+- appoint v. 补充
+- appreciation n. 欣赏
+- appropriately adv. 适当地
+- arbitrary adj. 任意的
+- architectural adj. 建筑
+- archive n. 存档
+- arena n. 竞技场
+- arguably adv. 可以说是
+- arm v. 手臂
+- array n. 数组
+- arrow n. 箭头
+- articulate v. 表达
+- artwork n. 艺术品
+- ash n. 灰
+- aside adv. 一边
+- aspiration n. 愿望
+- aspire v. 渴望
+- assassination n. 暗杀
+- assault n., v. 攻击
+- assemble v. 大会
+- assembly n. 组装
+- assert v. 断言
+- assertion n. 断言
+- asset n. 资产
+- assign v. 分配
+- assistance n. 帮助
+- assumption n. 假设
+- assurance n. 保证
+- assure v. 保证
+- astonishing adj. 惊人的
+- asylum n. 庇护
+- atrocity n. 暴行
+- attachment n. 附件
+- attain v. 达到
+- attendance n. 出席
+- attorney n. 律师
+- attribute v., n. 属性
+- auction n. 拍卖
+- audio adj. 音频
+- audit n. 审计
+- authentic adj. 真实的
+- authorize v. 授权
+- auto n. 汽车
+- automatic adj. 自动的
+- automatically adv. 自动地
+- autonomy n. 自治
+- availability n. 可用性
+- await v. 等待
+- awareness n. 意识
+- awkward adj. 尴尬的
 
 ### B
 

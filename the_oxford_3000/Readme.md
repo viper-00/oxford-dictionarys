@@ -42,28 +42,28 @@
 - abandon v. 放弃
 - ability n. 能力
 - able adj. 能够的
-- about prep. adv. 关于
-- above prep. adv. 以上
+- about prep., adv. 关于
+- above prep., adv. 以上
 - abroad adv. 国外
 - absolute adj. 绝对的
 - absolutely adv. 绝对
-- academic adj. n. 学术的
+- academic adj., n. 学术的
 - accept v. 接受
 - acceptable adj. 可接受的
-- access n. v. 访问
+- access n., v. 访问
 - accident n. 事故
 - accommodation n. 住宿
 - accompany v. 陪伴
 - according to prep. 根据
-- account n.  v. 账户
+- account n., v. 账户
 - accurate adj. 准确的
 - accuse v. 指责
 - achieve v. 达到
 - achievement n. 成就
 - acknowledge v. 承认
 - acquire v. 获得
-- across prep. adv. 穿过、整个
-- act v.  n. 法案、行为
+- across prep., adv. 穿过、整个
+- act v., n. 法案、行为
 - action n. 动作
 - active adj. 主动的
 - activity n. 活动
@@ -76,13 +76,13 @@
 - add v. 添加
 - addition n. 添加、加法
 - additional adj. 附加
-- address n. v. 地址
+- address n., v. 地址
 - administration n. 行政管理
 - admire v. 佩服
 - admit v. 承认
 - adopt v. 采纳
-- adult n.  adj. 成年人
-- advance n. v. adj. 推进
+- adult n., adj. 成年人
+- advance n., v., adj. 推进
 - advanced adj. 先进的
 - advantage n. 优势
 - adventure n. 冒险
@@ -95,12 +95,12 @@
 - affect v. 影响
 - afford v. 负担得起
 - afraid adj. 害怕的
-- after prep.  conj. adv. 以后
+- after prep., conj., adv. 以后
 - afternoon n. 下午
 - afterwards adv. 然后、之后
 - again adv. 再次
 - against prep. 反对
-- age n.  v. 年龄
+- age n., v. 年龄
 - aged adj. 老年的
 - agency n. 代理商机构
 - agenda n. 议程
@@ -111,27 +111,27 @@
 - agreement n. 协议
 - ah exclam. 啊，感叹！
 - ahead adv. 提前
-- aid n. v. 援助
-- aim v. n. 目标
+- aid n., v. 援助
+- aim v., n. 目标
 - air n. 空气
 - aircraft n. 飞机
 - airline n. 航空公司
 - airport n. 机场
-- alarm n.  v. 警报
+- alarm n., v. 警报
 - album n. 专辑
 - alcohol n. 酒精
 - alcoholic adj. 酗酒的
 - alive adj. 活着的
-- all det. pron.  adv. 所有
-- all right adj./adv. exclam. 好吧
+- all det., pron., adv. 所有
+- all right adj./adv., exclam. 好吧
 - allow v. 允许
 - almost adv. 几乎
 - alone adj./adv. 孤独的
-- along prep. adv. 沿着、往前
+- along prep., adv. 沿着、往前
 - already adv. 已经
 - also adv. 也
 - alter v. 改变
-- alternative n.  adj. 替代品
+- alternative n., adj. 替代品
 - although conj. 虽然
 - always adv. 总是
 - amazed adj. 惊奇的
@@ -139,7 +139,7 @@
 - ambition n. 野心
 - ambitious adj. 野心勃勃的
 - among prep. 在...中
-- amount n.  v. 数量
+- amount n., v. 数量
 - analyse v. 分析
 - analysis n. 分析
 - ancient adj. 古代的
@@ -159,20 +159,20 @@
 - another det./pron. 另一个
 - answer n. v. 回答
 - anxious adj. 焦虑的
-- any det. pron.  adv. 任何
+- any det., pron., adv. 任何
 - anybody pron. 任何人
 - any more adv. 再多的
 - anyone pron. 任何人
 - anything pron. 任何
 - anyway adv. 无论如何
-- anywhere adv. pron. 任何地方
+- anywhere adv., pron. 任何地方
 - apart adv. 除此之外
 - apartment n. 公寓
 - apologize v. 道歉
 - app n. 应用程序
 - apparent adj. 明显的
 - apparently adv. 显然
-- appeal n. v. 上诉
+- appeal n., v. 上诉
 - appear v. 出现
 - appearance n. 外观
 - apple n. 苹果
@@ -180,7 +180,7 @@
 - apply v. 申请
 - appointment n. 约会
 - appreciate v. 欣赏、感激
-- approach n. v. 方法
+- approach n., v. 方法
 - appropriate adj. 适当的
 - approval n. 批准
 - approve v. 批准
@@ -196,10 +196,10 @@
 - armed adj. 武装的
 - arms n. 武器
 - army n. 军队
-- around prep. adv. 大约、周围
+- around prep., adv. 大约、周围
 - arrange v. 安排
 - arrangement n. 安排
-- arrest v. n. 逮捕
+- arrest v., n. 逮捕
 - arrival n. 到达
 - arrive v. 到达
 - art n. 艺术
@@ -207,7 +207,7 @@
 - artificial adj. 人工的
 - artist n. 艺术家
 - artistic adj. 艺术的
-- as prep.  adv. conj. 作为
+- as prep., adv., conj. 作为
 - ashamed adj. 羞愧的
 - ask v. 问、要求
 - asleep adj. 睡着的
@@ -216,7 +216,7 @@
 - assessment n. 评估
 - assignment n. 赋值
 - assist v. 协助
-- assistant n. adj. 助理
+- assistant n., adj. 助理
 - associate v. 相关
 - associated adj. 联系的
 - association n. 协会
@@ -225,10 +225,10 @@
 - athlete n. 运动员
 - atmosphere n. 气氛
 - attach v. 附上、连接
-- attack n. v. 攻击
-- attempt n. v. 尝试
+- attack n., v. 攻击
+- attempt n., v. 尝试
 - attend v. 参加
-- attention n. exclam. 注意
+- attention n., exclam. 注意
 - attitude n. 态度
 - attract v. 吸引
 - attraction n. 吸引力
@@ -240,9 +240,9 @@
 - authority n. 权威
 - autumn n. 秋天
 - available adj. 可用的
-- average adj. n. v. 平均
+- average adj., n., v. 平均
 - avoid v. 避免
-- award n. v. 奖励、奖章
+- award n., v. 奖励、奖章
 - aware adj. 意识到的
 - away adv. 离开
 - awful adj. 可怕的
@@ -250,7 +250,7 @@
 ### B
 
 - baby n. 宝贝
-- back n. adv.  adj.  v. 回到
+- back n., adv., adj., v. 回到
 - background n. 背景
 - backwards adv. 向后
 - bacteria n. 细菌
@@ -258,16 +258,16 @@
 - badly adv. 糟糕
 - bag n. 袋子
 - bake v. 烘烤
-- balance n. v. 平衡
+- balance n., v. 平衡
 - ball n. 球
-- ban v. n. 禁止
+- ban v., n. 禁止
 - banana n. 香蕉
 - band n. 乐队
 - bank (money) n. 银行
 - bank (river) n. 岸边
-- bar n.  v. 酒吧
+- bar n., v. 酒吧
 - barrier n. 障碍
-- base n. v. 基础、底子
+- base n., v. 基础、底子
 - baseball n. 棒球
 - based adj. 基于的
 - basic adj. 基础的
@@ -277,13 +277,13 @@
 - bath n. 浴、澡
 - bathroom n. 浴室
 - battery n. 电池
-- battle n.  v. 战斗
-- be v. auxiliary v. 是
+- battle n., v. 战斗
+- be v. 是
 - beach n. 海滩
 - bean n. 豆子
 - bear (deal with) v. 承担
 - bear (animal) n. 熊
-- beat v. n. 击败
+- beat v., n. 击败
 - beautiful adj. 美丽的
 - beauty n. 美丽
 - because conj. 因为
@@ -293,28 +293,28 @@
 - bee n. 蜜蜂
 - beef n. 牛肉
 - beer n. 啤酒
-- before prep. conj. adv. 之前
+- before prep., conj., adv. 之前
 - beg v. 乞求
 - begin v. 开始
 - beginning n. 开始
 - behave v. 表现
 - behaviour n. 行为
-- behind prep. adv. 在后面
+- behind prep., adv. 在后面
 - being n. 正在
 - belief n. 信念
 - believe v. 相信
 - bell n. 钟
 - belong v. 属于
-- below adv. prep. 低于
+- below adv., prep. 低于
 - belt n. 腰带
-- bend v. n. 弯曲
-- benefit n.  v. 收益
+- bend v., n. 弯曲
+- benefit n., v. 收益
 - bent adj. 弯曲的
-- best adj.  adv. n. 最好的
-- bet v. n. 打赌
-- better adj.  adv.  n. 更好的
-- between prep.  adv. 两者之间
-- beyond prep. adv. 超过
+- best adj., adv., n. 最好的
+- bet v., n. 打赌
+- better adj., adv., n. 更好的
+- between prep., adv. 两者之间
+- beyond prep., adv. 超过
 - bicycle n. 自行车
 - big adj. 大
 - bike n. 自行车
@@ -327,28 +327,28 @@
 - birthday n. 生日
 - biscuit n. 饼干
 - bit n. 少量
-- bite v. n. 咬
+- bite v., n. 咬
 - bitter adj. 苦涩的
-- black adj. n. 黑色的
-- blame v. n. 责备
-- blank adj. n. 空白
+- black adj., n. 黑色的
+- blame v., n. 责备
+- blank adj., n. 空白
 - blind adj. 盲目的
 - block n. v. 块
 - blog n. 博客
 - blonde adj. 金发的
 - blood n. 血液
 - blow v. 吹、打击
-- blue adj. n. 蓝色的
-- board n. v. 木板
+- blue adj., n. 蓝色的
+- board n., v. 木板
 - boat n. 船
 - body n. 身体
 - boil v. 煮沸
-- bomb n. v. 炸弹
+- bomb n., v. 炸弹
 - bond n. 债劵
 - bone n. 骨头
-- book n.  v. 书本
+- book n., v. 书本
 - boot n. 引导
-- border n.  v. 边界
+- border n., v. 边界
 - bored adj. 无聊的
 - boring adj. 无聊的
 - born v. 出生
@@ -357,17 +357,17 @@
 - both det./pron. 两者都
 - bother v. 打扰
 - bottle n. 瓶子
-- bottom n. adj. 底部
+- bottom n., adj. 底部
 - bowl n. 碗
 - box n. 盒子
 - boy n. 男孩
 - boyfriend n. 男朋友
 - brain n. 大脑
 - branch n. 分支
-- brand n. v. 品牌
+- brand n., v. 品牌
 - brave adj. 勇敢的
 - bread n. 面包
-- break v. n. 打破
+- break v., n. 打破
 - breakfast n. 早晨
 - breast n. 乳房
 - breath n. 呼吸
@@ -380,29 +380,29 @@
 - brilliant adj. 辉煌的
 - bring v. 带来
 - broad adj. 广泛的
-- broadcast v. n. 广播
+- broadcast v., n. 广播
 - broken adj. 破碎的
 - brother n. 兄弟
-- brown adj. n. 棕色的
-- brush v. n. 刷子
+- brown adj., n. 棕色的
+- brush v., n. 刷子
 - bubble n. 泡泡
 - budget n. 预算
 - build v. 建造
 - building n. 建筑物
 - bullet n. 子弹
 - bunch n. 一堆
-- burn v. n. 燃烧
+- burn v., n. 燃烧
 - bury v. 埋伏
 - bus n. 公共汽车
 - bush n. 衬套，灌木
 - business n. 商业
 - businessman n. 商人
 - busy adj. 忙碌的
-- but conj. prep. 但是
+- but conj., prep. 但是
 - butter n. 黄油
 - button n. 按钮
 - buy v. 买
-- by prep.  adv. 通过
+- by prep., adv. 通过
 - bye exclam. 再见
 
 ### C
@@ -411,11 +411,11 @@
 - cafe n. 咖啡馆
 - cake n. 蛋糕
 - calculate v. 计算
-- call v. n. 呼叫
-- calm adj. v. n. 平静的
+- call v., n. 呼叫
+- calm adj., v., n. 平静的
 - camera n. 照相机
-- camp n. v. 营地
-- campaign n. v. 运动、活动
+- camp n., v. 营地
+- campaign n., v. 运动、活动
 - camping n. 露营
 - campus n. 校园
 - can modal v. 可以
@@ -427,12 +427,12 @@
 - cap n. 帽子
 - capable adj. 能干的
 - capacity n. 容量
-- capital n. adj. 大写的、首都
+- capital n., adj. 大写的、首都
 - captain n. 船长
-- capture v. n. 捕获
+- capture v., n. 捕获
 - car n. 车
 - card n. 卡片
-- care n. v. 照护
+- care n., v. 照护
 - career n. 职业生涯
 - careful adj. 小心的
 - carefully adv. 小心
@@ -443,12 +443,12 @@
 - cartoon n. 卡通
 - case n. 案例
 - cash n. 现金
-- cast n. v. 投掷
+- cast n., v. 投掷
 - castle n. 城堡
 - cat n. 猫
-- catch v.  n. 抓住
+- catch v., n. 抓住
 - category n. 类别
-- cause n. v. 原因
+- cause n., v. 原因
 - CD n. 光盘
 - ceiling n. 天花板
 - celebrate v. 庆祝
@@ -457,37 +457,37 @@
 - cell n. 细胞
 - cent n. 分
 - central adj. 中心的
-- centre n.  v. 中心
+- centre n., v. 中心
 - century n. 世纪
 - ceremony n. 仪式
 - certain adj. 某些
 - certainly adv. 当然
-- chain n. v. 链子
-- chair n. v. 椅子
+- chain n., v. 链子
+- chair n., v. 椅子
 - chairman n. 主席
-- challenge n. v. 挑战
+- challenge n., v. 挑战
 - champion n. 冠军
 - chance n. 机会
-- change v. n. 改变
+- change v., n. 改变
 - channel n. 渠道、频道
 - chapter n. 章节
 - character n. 字符
-- characteristic n. adj. 特性的
-- charge n. v. 收费
+- characteristic n., adj. 特性的
+- charge n., v. 收费
 - charity n. 慈善机构
-- chart n.  v. 图表
-- chat v. n. 聊天
-- cheap adj.  adv. 便宜的
-- cheat v. n. 欺骗
-- check v.  n. 检查
+- chart n., v. 图表
+- chat v., n. 聊天
+- cheap adj., adv. 便宜的
+- cheat v., n. 欺骗
+- check v., n. 检查
 - cheerful adj. 开朗的、快乐的
 - cheese n. 奶酪
 - chef n. 厨师
-- chemical adj. n. 化学的
+- chemical adj., n. 化学的
 - chemistry n. 化学
 - chest n. 胸部
 - chicken n. 鸡
-- chief adj. n. 首席
+- chief adj., n. 首席
 - child n. 孩子
 - childhood n. 童年
 - chip n. 芯片
@@ -497,29 +497,29 @@
 - church n. 教堂
 - cigarette n. 香烟
 - cinema n. 电影院
-- circle n. v. 圆圈
+- circle n., v. 圆圈
 - circumstance n. 情况、环境
 - cite v. 引用
 - citizen n. 公民
 - city n. 城市
 - civil adj. 民事的
-- claim v. n. 要求、声称
+- claim v., n. 要求、声称
 - class n. 类
-- classic adj. n. 经典的
+- classic adj., n. 经典的
 - classical adj. 古典的
 - classroom n. 教室
 - clause n. 条款
-- clean adj. v. 干净的
-- clear adj.  v. 清楚的
+- clean adj., v. 干净的
+- clear adj.,  v. 清楚的
 - clearly adv. 清楚
 - clever adj. 聪明的
-- click v. n. 点击
+- click v., n. 点击
 - client n. 客户
 - climate n. 气候
-- climb v.  n. 攀登
+- climb v., n. 攀登
 - clock n. 时钟
-- close1 v.  n. 关闭
-- close2 adj.  adv. 紧密的、不远
+- close1 v., n. 关闭
+- close2 adj., adv. 紧密的、不远
 - closed adj. 紧闭的
 - closely adv. 紧密地
 - loth n. 布
@@ -528,15 +528,15 @@
 - cloud n. 云
 - club n. 俱乐部
 - clue n. 线索
-- coach n.  v. 教练
+- coach n., v. 教练
 - coal n. 煤
 - coast n. 海岸
 - coat n. 外滩
 - code n. 代码
 - coffee n. 咖啡
 - coin n. 硬币
-- cold adj. n. 冷的
-- collapse v. n. 崩溃
+- cold adj., n. 冷的
+- collapse v., n. 崩溃
 - colleague n. 同事
 - collect v. 收集
 - collection n. 集合
@@ -548,16 +548,16 @@
 - combine v. 结合
 - come v. 来
 - comedy n. 喜剧
-- comfort n. v. 舒适
+- comfort n., v. 舒适
 - comfortable adj. 舒适的
-- command n. v. 命令
-- comment n.  v. 评论
-- commercial adj. n. 商业
-- commission n. v. 委员会
+- command n., v. 命令
+- comment n., v. 评论
+- commercial adj., n. 商业
+- commission n., v. 委员会
 - commit v. 提交
 - commitment n. 承诺
 - committee n. 委员会
-- common adj. n. 共同的
+- common adj., n. 共同的
 - commonly adv. 通常
 - communicate v. 沟通
 - communication n. 沟通
@@ -571,27 +571,27 @@
 - competitor n. 竞争者
 - complain v. 抱怨
 - complaint n. 投诉
-- complete adj. v. 完整的
+- complete adj., v. 完整的
 - completely adv. 完全
-- complex adj.  n. 复杂的
+- complex adj., n. 复杂的
 - complicated adj. 复杂的
 - component n. 组件
 - computer n. 计算机
 - concentrate v. 集中
 - concentration n. 浓度
 - concept n. 概念
-- concern n. v. 关注
+- concern n., v. 关注
 - concerned adj. 关心的
 - concert n. 音乐会
 - conclude v. 总结
 - conclusion n. 结论
 - condition n. 条件
-- conduct v. n. 行为
+- conduct v., n. 行为
 - conference n. 会议
 - confidence n. 信心
 - confident adj. 自信的
 - confirm v. 确认
-- conflict n. v. 冲突
+- conflict n., v. 冲突
 - confuse v. 混淆
 - confused adj. 困惑的
 - confusing adj. 令人困惑的
@@ -600,7 +600,7 @@
 - connection n. 连接
 - conscious adj. 有意识的
 - consequence n. 后果
-- conservative adj. n. 保守的
+- conservative adj., n. 保守的
 - consider v. 考虑
 - consideration n. 考虑
 - consist v. 组成
@@ -616,38 +616,38 @@
 - container n. 容器
 - contemporary adj. 当代的
 - content n. 内容
-- contest n. v. 比赛
+- contest n., v. 比赛
 - context n. 上下文
 - continent n. 大陆
 - continue v. 继续
 - continuous adj. 连续的
-- contract n. v. 合同
-- contrast n. v. 对比
+- contract n., v. 合同
+- contrast n., v. 对比
 - contribute v. 贡献
 - contribution n. 贡献
-- control n. v. 控制
+- control n., v. 控制
 - convenient adj. 方便的
 - conversation n. 交流、谈话
 - convert v. 转换
 - convince v. 说服
 - convinced adj. 确信的
-- cook v.  n. 厨师
+- cook v., n. 厨师
 - cooker n. 炊具
 - cooking n. 烹饪
-- cool adj.  v. 酷的
-- copy n. v. 拷贝、负责
-- core n. adj. 核心
+- cool adj., v. 酷的
+- copy n., v. 拷贝、负责
+- core n., adj. 核心
 - corner n. 角、拐角
 - corporate adj. 公司的
-- correct adj. v. 正确的
+- correct adj., v. 正确的
 - correctly adv. 正确
-- cost n. v. 成本
+- cost n., v. 成本
 - costume n. 服装
 - cottage n. 小屋
 - cotton n. 棉花
 - could modal v. 可以
 - council n. 理事会
-- count v.  n. 计数
+- count v., n. 计数
 - country n. 国家
 - countryside n. 家乡
 - county n. 县
@@ -656,20 +656,20 @@
 - course n. 课程
 - court n. 法庭
 - cousin n. 堂兄
-- cover v.  n. 覆盖
+- cover v., n. 覆盖
 - covered adj. 覆盖的
 - cow n. 牛
-- crash n. v. 崩溃
+- crash n., v. 崩溃
 - crazy adj. 疯狂的
 - cream n. adj. 奶油
 - create v. 创造
 - creation n. 创造
 - creative adj. 创造性的
 - creature n. 生物
-- credit n.  v. 信用
+- credit n., v. 信用
 - crew n. 船员
 - crime n. 犯罪
-- criminal n.  adj. 犯罪的
+- criminal n., adj. 犯罪的
 - crisis n. 危机
 - criterion n. 标准
 - critic n. 评论家
@@ -677,28 +677,28 @@
 - criticism n. 批评
 - criticize v. 批评
 - crop n. 作物
-- cross v. n. 交叉
+- cross v., n. 交叉
 - crowd n. 人群
 - crowded adj. 拥挤的
 - crucial adj. 关键的
 - cruel adj. 残忍的
-- cry v.  n. 哭泣
+- cry v., n. 哭泣
 - cultural adj. 文化的
 - culture n. 文化
 - cup n. 杯子
 - cupboard n. 厨具
-- cure v. n. 治愈
+- cure v., n. 治愈
 - curly adj. 弯曲的
 - currency n. 货币
-- current adj.  n. 当前的
+- current adj., n. 当前的
 - currently adv. 目前
 - curtain n. 窗帘
-- curve n. v. 曲线
+- curve n., v. 曲线
 - curved adj. 弯曲的
 - custom n. 风俗、习惯
 - customer n. 顾客
-- cut v.  n. 切
-- cycle n. v. 循环
+- cut v., n. 切
+- cycle n., v. 循环
 
 ### D
 
