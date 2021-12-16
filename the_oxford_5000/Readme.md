@@ -193,319 +193,319 @@
 
 ### B
 
-- backdrop n. 
-- backing n. 
-- backup n. 
-- badge n. 
-- bail n. 
-- balanced adj. 
-- ballet n. 
-- balloon n. 
-- ballot n. 
-- banner n. 
-- bare adj. 
-- barely adv. 
-- bargain n. 
-- barrel n. 
-- basement n. 
-- basket n. 
-- bass1 n. 
-- bat n. , v. 
-- battlefield n. 
-- bay n. 
-- beam n. 
-- beast n. 
-- behalf n. 
-- beloved adj. 
-- bench n. 
-- benchmark n. 
-- beneath prep. 
-- beneficial adj. 
-- beneficiary n. 
-- beside prep. 
-- besides prep., adv. 
-- betray v. 
-- bias n. 
-- bid n., v. 
-- bind v. 
-- biography n. 
-- biological adj. 
-- bishop n. 
-- bizarre adj. 
-- blade n. 
-- blanket n. 
-- blast n., v. 
-- bleed v. 
-- blend v., n. 
-- bless v. 
-- blessing n. 
-- blow n. 
-- boast v. 
-- bold adj. 
-- bombing n. 
-- bonus n. 
-- booking n. 
-- boom n. 
-- boost v., n. 
-- bounce v. 
-- bound adj. 
-- boundary n. 
-- bow1 v., n. 
-- breach n., v. 
-- breakdown n. 
-- breakthrough n. 
-- breed v., n. 
-- brick n. 
-- briefly adv. 
-- broadband n. 
-- broadcaster n. 
-- broadly adv. 
-- browser n. 
-- brutal adj. 
-- buck n. 
-- buddy n. 
-- buffer n. 
-- bug n. 
-- bulk n. 
-- burden n. 
-- bureaucracy n. 
-- burial n. 
-- burst v. 
+- backdrop n. 背景
+- backing n. 支持
+- backup n. 备份
+- badge n. 徽章
+- bail n. 租凭
+- balanced adj. 平衡的
+- ballet n. 芭蕾舞
+- balloon n. 气球
+- ballot n. 捆绑
+- banner n. 横幅
+- bare adj. 裸
+- barely adv. 几乎没有
+- bargain n. 讨价还价
+- barrel n. 桶
+- basement n. 基础
+- basket n. 篮球
+- bass1 n. 低音
+- bat n. , v. 蝙蝠
+- battlefield n. 战场
+- bay n. 海湾
+- beam n. 梁
+- beast n. 野兽
+- behalf n. 代表
+- beloved adj. 亲爱的
+- bench n. 长凳
+- benchmark n. 基准
+- beneath prep. 准备不足
+- beneficial adj. 有益的
+- beneficiary n. 受益人
+- beside prep. 除了
+- besides prep., adv. 除了
+- betray v. 背叛
+- bias n. 偏见
+- bid n., v. 祈祷
+- bind v. 绑定
+- biography n. 传记号
+- biological adj. 生物
+- bishop n. 主教
+- bizarre adj. 奇怪的
+- blade n. 表
+- blanket n. 毯子
+- blast n., v. 爆炸
+- bleed v. 流血
+- blend v., n. 混合
+- bless v. 祝福
+- blessing n. 祝福
+- blow n. 吹
+- boast v. 夸耀
+- bold adj. 粗体
+- bombing n. 轰炸
+- bonus n. 奖金
+- booking n. 预定号
+- boom n. 树
+- boost v., n. 促进
+- bounce v. 弹跳
+- bound adj. 绑定
+- boundary n. 边界
+- bow1 v., n. 弓
+- breach n., v. 违约
+- breakdown n. 故障
+- breakthrough n. 突破
+- breed v., n. 广泛的
+- brick n. 砖
+- briefly adv. 简短的
+- broadband n. 宽带
+- broadcaster n. 广播员
+- broadly adv. 广义的
+- browser n. 浏览器
+- brutal adj. 残酷的
+- buck n. 元、钱
+- buddy n. 伙计
+- buffer n. 缓冲
+- bug n. 错误
+- bulk n. 散装
+- burden n. 负担
+- bureaucracy n. 官僚主义
+- burial n. 埋葬
+- burst v. 爆裂
 
 ### C
 
-- cabin n. 
-- cabinet n. 
-- calculation n. 
-- canal n. 
-- candle n. 
-- canvas n. 
-- capability n. 
-- capitalism n. 
-- capitalist adj. 
-- carbon n. 
-- cargo n. 
-- carriage n. 
-- carve v. 
-- casino n. 
-- casual adj. 
-- casualty n. 
-- catalogue n. 
-- cater v. 
-- cattle n. 
-- caution n. 
-- cautious adj. 
-- cave n. 
-- cease v. 
-- cemetery n. 
-- certainty n. 
-- certificate n. 
-- challenging adj. 
-- chamber n. 
-- championship n. 
-- chaos n. 
-- characterize v. 
-- charm n. 
-- charming adj. 
-- charter n. 
-- chase v., n. 
-- cheek n. 
-- cheer v., n. 
-- choir n. 
-- chop v. 
-- chronic adj. 
-- chunk n. 
-- circuit n. 
-- circulate v. 
-- circulation n. 
-- citizenship n. 
-- civic adj. 
-- civilian n., adj. 
-- civilization n. 
-- clarify v. 
-- clarity n. 
-- clash n. 
-- classification n. 
-- classify v. 
-- clerk n. 
-- cliff n. 
-- cling v. 
-- clinic n. 
-- clinical adj. 
-- clip n. 
-- closure n. 
-- cluster n. 
-- coalition n. 
-- coastal adj. 
-- cocktail n. 
-- cognitive adj. 
-- coincide v. 
-- coincidence n. 
-- collaborate v. 
-- collaboration n. 
-- collective adj. 
-- collector n. 
-- collision n. 
-- colonial adj. 
-- colony n. 
-- colourful adj. 
-- columnist n. 
-- combat n., v. 
-- comic adj., n. 
-- commander n. 
-- commence v. 
-- commentary n. 
-- commentator n. 
-- commerce n. 
-- commissioner n. 
-- commodity n. 
-- communist adj. 
-- companion n. 
-- comparable adj. 
-- comparative adj. 
-- compassion n. 
-- compel v. 
-- compelling adj. 
-- compensate v. 
-- compensation n. 
-- competence n. 
-- competent adj. 
-- compile v. 
-- complement v. 
-- completion n. 
-- complexity n. 
-- compliance n. 
-- complication n. 
-- comply v. 
-- compose v. 
-- composer n. 
-- composition n. 
-- compound n. 
-- comprehensive adj. 
-- comprise v. 
-- compromise n., v. 
-- compulsory adj. 
-- compute v. 
-- conceal v. 
-- concede v. 
-- conceive v. 
-- conception n. 
-- concession n. 
-- concrete adj., n. 
-- condemn v. 
-- confer v. 
-- confess v. 
-- confession n. 
-- configuration n. 
-- confine v. 
-- confirmation n. 
-- confront v. 
-- confrontation n. 
-- confusion n. 
-- congratulate v. 
-- congregation n. 
-- congressional adj. 
-- conquer v. 
-- conscience n. 
-- consciousness n. 
-- consecutive adj. 
-- consensus n. 
-- consent n., v. 
-- consequently adv. 
-- conservation n. 
-- conserve v. 
-- considerable adj. 
-- considerably adv. 
-- consistency n. 
-- consistently adv. 
-- consolidate v. 
-- conspiracy n. 
-- constituency n. 
-- constitute v. 
-- constitution n. 
-- constitutional adj. 
-- constraint n. 
-- consult v. 
-- consultant n. 
-- consultation n. 
-- consumption n. 
-- contemplate v. 
-- contempt n. 
-- contend v. 
-- contender n. 
-- content2 adj. 
-- contention n. 
-- continually adv. 
-- contractor n. 
-- contradiction n. 
-- contrary adj., n. 
-- contributor n. 
-- controversial adj. 
-- controversy n. 
-- convenience n. 
-- convention n. 
-- conventional adj. 
-- conversion n. 
-- convey v. 
-- convict v. 
-- conviction n. 
-- convincing adj. 
-- cooperate v. 
-- cooperative adj. 
-- coordinate v. 
-- coordination n. 
-- coordinator n. 
-- cop n. 
-- cope v. 
-- copper n. 
-- copyright n. 
-- corporation n. 
-- correction n. 
-- correlate v. 
-- correlation n. 
-- correspond v. 
-- correspondence n. 
-- correspondent n. 
-- corresponding adj. 
-- corridor n. 
-- corrupt adj. 
-- corruption n. 
-- costly adj. 
-- councillor n. 
-- counselling n. 
-- counsellor n. 
-- counter (long flat surface) n. 
-- counter (argue against) v. 
-- counterpart n. 
-- countless adj. 
-- coup n. 
-- courtesy n. 
-- coverage n. 
-- crack v., n. 
-- craft n. , v. 
-- crawl v. 
-- creativity n. 
-- creator n. 
-- credibility n. 
-- credible adj. 
-- creep v. 
-- critically adv. 
-- critique n. 
-- crown n. 
-- crude adj. 
-- cruise n., v. 
-- crush v. 
-- crystal n. 
-- cue n. 
-- cult n., adj. 
-- cultivate v. 
-- curiosity n. 
-- curious adj. 
-- curriculum n. 
-- custody n. 
-- cute adj. 
-- cutting n. 
-- cynical adj. 
+- cabin n. 小屋
+- cabinet n. 柜子
+- calculation n. 计算
+- canal n. 通道
+- candle n. 蜡烛
+- canvas n. 帆布
+- capability n. 能力
+- capitalism n. 资本主义
+- capitalist adj. 资本家
+- carbon n. 碳
+- cargo n. 货物
+- carriage n. 马车
+- carve v. 雕刻
+- casino n. 赌场
+- casual adj. 随意的
+- casualty n. 伤亡
+- catalogue n. 目录
+- cater v. 迎合
+- cattle n. 牛
+- caution n. 存款
+- cautious adj. 谨慎的
+- cave n. 地窖
+- cease v. 停止
+- cemetery n. 墓地
+- certainty n. 确定性
+- certificate n. 证书
+- challenging adj. 具有挑战性的
+- chamber n. 房间
+- championship n. 冠军
+- chaos n. 混乱
+- characterize v. 描述
+- charm n. 魅力
+- charming adj. 迷人的
+- charter n. 宪章
+- chase v., n. 追逐
+- cheek n. 脸颊
+- cheer v., n. 欢呼
+- choir n. 合唱团
+- chop v. 砍
+- chronic adj. 慢性
+- chunk n. 大块
+- circuit n. 电路
+- circulate v. 流通
+- circulation n. 流通
+- citizenship n. 公民身份
+- civic adj. 公民
+- civilian n., adj. 平民
+- civilization n. 文明
+- clarify v. 澄清
+- clarity n. 清晰度
+- clash n. 冲突
+- classification n. 分类
+- classify v. 分类
+- clerk n. 文员
+- cliff n. 悬崖
+- cling v. 坚持
+- clinic n. 诊所
+- clinical adj. 临床
+- clip n. 剪辑
+- closure n. 关闭
+- cluster n. 集群
+- coalition n. 联盟
+- coastal adj. 沿海
+- cocktail n. 鸡尾酒
+- cognitive adj. 认知
+- coincide v. 巧合
+- coincidence n. 巧合
+- collaborate v. 合作
+- collaboration n. 合作
+- collective adj. 集体
+- collector n. 收藏夹
+- collision n. 碰撞
+- colonial adj. 殖民的
+- colony n. 殖民地
+- colourful adj. 五颜六色的
+- columnist n. 专栏作家
+- combat n., v. 战斗
+- comic adj., n. 漫画
+- commander n. 指挥官
+- commence v. 开始
+- commentary n. 评论
+- commentator n. 评论员
+- commerce n. 商业
+- commissioner n. 专员
+- commodity n. 商品
+- communist adj. 共产主义
+- companion n. 同伴
+- comparable adj. 可比的
+- comparative adj. 比较
+- compassion n. 同情心
+- compel v. 强制
+- compelling adj. 引人注目的
+- compensate v. 补偿
+- compensation n. 补偿
+- competence n. 能力
+- competent adj. 称职的
+- compile v. 编译
+- complement v. 补充
+- completion n. 完成
+- complexity n. 复杂性
+- compliance n. 合规性
+- complication n. 并发症
+- comply v. 遵守
+- compose v. 撰写
+- composer n. 作曲家
+- composition n. 组合
+- compound n. 复合词
+- comprehensive adj. 综合
+- comprise v. 理解
+- compromise n., v. 妥协的
+- compulsory adj. 强制性
+- compute v. 计算
+- conceal v. 隐藏
+- concede v. 承认
+- conceive v. 设想
+- conception n. 设计
+- concession n. 特许权
+- concrete adj., n. 具体
+- condemn v. 谴责
+- confer v. 授予
+- confess v. 承认
+- confession n. 忏悔
+- configuration n. 配置
+- confine v. 限制
+- confirmation n. 确认
+- confront v. 面对
+- confrontation n. 对抗
+- confusion n. 混乱
+- congratulate v. 祝贺
+- congregation n. 会众
+- congressional adj. 国会
+- conquer v. 征服
+- conscience n. 意识
+- consciousness n. 意识
+- consecutive adj. 连续
+- consensus n. 共识
+- consent n., v. 同意
+- consequently adv. 因此
+- conservation n. 保护
+- conserve v. 保留
+- considerable adj. 相当的
+- considerably adv. 相当
+- consistency n. 一致性
+- consistently adv. 始终如一
+- consolidate v. 巩固
+- conspiracy n. 阴谋
+- constituency n. 选区
+- constitute v. 构成
+- constitution n. 宪法
+- constitutional adj. 宪法
+- constraint n. 受约束的
+- consult v. 咨询
+- consultant n. 顾问
+- consultation n. 咨询
+- consumption n. 消费
+- contemplate v. 考虑
+- contempt n. 蔑视
+- contend v. 争辩
+- contender n. 竞争者
+- content adj. 满意的
+- contention n. 争论
+- continually adv. 不断地
+- contractor n. 承包商
+- contradiction n. 矛盾的
+- contrary adj., n. 相反的
+- contributor n. 贡献者
+- controversial adj. 有争论的
+- controversy n. 争论
+- convenience n. 方便
+- convention n. 公约
+- conventional adj. 传统的
+- conversion n. 转换
+- convey v. 传达
+- convict v. 定罪诉
+- conviction n. 信念
+- convincing adj. 令人信服的
+- cooperate v. 合作
+- cooperative adj. 合作的
+- coordinate v. 坐标
+- coordination n. 协调
+- coordinator n. 协调员
+- cop n. 警察
+- cope v. 应付
+- copper n. 铜
+- copyright n. 版权
+- corporation n. 公司
+- correction n. 修正
+- correlate v. 关联
+- correlation n. 相关性
+- correspond v. 匹配
+- correspondence n. 通信
+- correspondent n. 对应
+- corresponding adj. 相应的
+- corridor n. 走廊
+- corrupt adj. 腐败
+- corruption n. 腐败
+- costly adj. 昂贵的
+- councillor n. 议员
+- counselling n. 咨询
+- counsellor n. 顾问
+- counter (long flat surface) n. 柜台
+- counter (argue against) v. 反驳
+- counterpart n. 对应的
+- countless adj. 无数的
+- coup n. 射击
+- courtesy n. 礼貌的
+- coverage n. 覆盖面
+- crack v., n. 裂纹
+- craft n., v. 工艺
+- crawl v. 爬行
+- creativity n. 创造力
+- creator n. 创造者
+- credibility n. 可信度
+- credible adj. 可信的
+- creep v. 蠕变
+- critically adv. 批判性的
+- critique n. 评论
+- crown n. 冠
+- crude adj. 粗制的
+- cruise n., v. 乘船游览
+- crush v. 粉碎
+- crystal n. 水晶
+- cue n. 提示
+- cult n., adj. 狂热
+- cultivate v. 培养
+- curiosity n. 好奇心
+- curious adj. 好奇的
+- curriculum n. 课程
+- custody n. 监护
+- cute adj. 可爱的
+- cutting n. 切割
+- cynical adj. 愤世嫉俗的
 
 ### D
 

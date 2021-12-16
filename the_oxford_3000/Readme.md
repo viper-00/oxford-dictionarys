@@ -2730,28 +2730,28 @@
 - tale n. 故事
 - talent n. 天赋
 - talented adj. 有才华的
-- talk v.  n. 谈话
+- talk v., n. 谈话
 - tall adj. 高的
 - tank n. 坦克
 - tape n. 磁带
-- target n.  v. 目标
+- target n., v. 目标
 - task n. 任务
-- taste n. v. 味道
-- tax n. v. 税收
+- taste n., v. 味道
+- tax n., v. 税收
 - taxi n. 出租车
 - tea n. 茶
 - teach v. 教
 - teacher n. 老师
 - teaching n. 教学
 - team n. 团队
-- tear1 v. n. 撕破
+- tear1 v., n. 撕破
 - tear2 n. 眼泪
 - technical adj. 技术的
 - technique n. 技术
 - technology n. 技术
 - teenage adj. 青少年
 - teenager n. 青少年
-- telephone n. v. 电话
+- telephone n., v. 电话
 - television n. 电视
 - tell v. 告诉
 - temperature n. 温度
@@ -2760,14 +2760,14 @@
 - tend v. 倾向于
 - tennis n. 网球
 - tent n. 帐篷
-- term n.  v. 术语
+- term n., v. 术语
 - terrible adj. 可怕的
-- test n. v. 测试
-- text n.  v. 文字
+- test n., v. 测试
+- text n., v. 文字
 - than conj. 比
 - thank v. 感谢
 - thanks exclam. n. 感谢
-- that det. pron. conj.  adv. 那个
+- that det., pron., conj.,  adv. 那个
 - the definite article 定冠词
 - theatre n. 剧院
 - their det. 他们的
@@ -2791,102 +2791,102 @@
 - thirsty adj. 口渴的
 - thirteen number 十三号
 - thirty number 三十号
-- this det./pron.  adv. 这个
-- though conj. adv. 虽然
+- this det./pron.,  adv. 这个
+- though conj., adv. 虽然
 - thought n. 认为
 - thousand number 千号
 - threat n. 威胁
 - threaten v. 威胁
 - three number 三号
 - throat n. 喉咙
-- through prep. adv. 通过
+- through prep., adv. 通过
 - throughout prep./adv. 始终
 - throw v. 扔
 - Thursday n. 星期四
 - thus adv. 因此
 - ticket n. 票
-- tidy adj. v. 整洁的
-- tie v. n. 领带
+- tidy adj., v. 整洁的
+- tie v., n. 领带
 - tight adj. 紧的
 - till conj./prep. 直到
-- time n.  v. 时间
+- time n., v. 时间
 - tin n. 锡
 - tiny adj. 微小的
-- tip n.  v. 小费
+- tip n., v. 小费
 - tired adj. 疲倦的
-- title n.  v. 标题
-- to prep. infinitive marker 去
+- title n., v. 标题
+- to prep., infinitive marker 去
 - today adv. n. 今天
 - toe n. 脚趾
 - together adv. 一起
 - toilet n. 厕所
 - tomato n. 番茄
-- tomorrow adv. n. 明天
+- tomorrow adv., n. 明天
 - tone n. 语气、音调
 - tongue n. 舌头
-- tonight adv. n. 今晚
+- tonight adv., n. 今晚
 - too adv. 太
 - tool n. 工具
 - tooth n.牙齿
-- top n. adj. 顶部
+- top n., adj. 顶部
 - topic n. 话题
-- total adj. n. 总计
+- total adj., n. 总计
 - totally adv. 完全
-- touch v.  n. 触摸
+- touch v., n. 触摸
 - tough adj. 强硬的
-- tour n.  v. 旅游
+- tour n., v. 旅游
 - tourism n. 旅游
 - tourist n. 旅游者
 - towards prep. 向
 - towel n. 毛巾
 - tower n. 塔
 - town n. 小镇
-- toy n. adj. 玩具
-- track n.  v. 轨道
-- trade n. v. 贸易
+- toy n., adj. 玩具
+- track n., v. 轨道
+- trade n., v. 贸易
 - tradition n. 传统
 - traditional adj. 传统的
 - traffic n. 交通
-- train n.  v. 火车
+- train n., v. 火车
 - trainer n. 教练员
 - training n. 训练
-- transfer v. n. 转移
+- transfer v., n. 转移
 - transform v. 变换
 - transition n. 过渡
 - translate v. 翻译
 - translation n. 翻译
-- transport n.  v. 运输
-- travel v. n. 旅游
+- transport n., v. 运输
+- travel v., n. 旅游
 - traveller n. 旅游者
 - treat v. 对待
 - treatment n. 治疗
 - tree n. 树
 - trend n. 趋势
 - trial n. 审判
-- trick n. v. 把戏
-- trip n.  v. 旅行
+- trick n., v. 把戏
+- trip n., v. 旅行
 - tropical adj. 热带的
-- trouble n.  v. 麻烦
+- trouble n., v. 麻烦
 - trousers n. 裤子
 - truck n. 卡车
 - true adj. 真
 - truly adv. 真的
-- trust n. v. 信任
+- trust n., v. 信任
 - truth n. 真相
-- try v.  n. 尝试
+- try v., n. 尝试
 - T-shirt n. T恤
 - tube n. 管子
 - Tuesday n. 星期二
 - tune n. 曲调
 - tunnel n. 隧道
-- turn v. n. 转
+- turn v., n. 转
 - TV n. 电视
 - twelve number 十二号
 - twenty number 二十号
 - twice adv. 两次
-- twin n. adj. 双胞胎
+- twin n., adj. 双胞胎
 - two number 二号
-- type n.  v. 类型
+- type n., v. 类型
 - typical adj. 典型的
 - typically adv. 通常
 - tyre n. 轮胎
@@ -2901,7 +2901,7 @@
 - uncomfortable adj. 不舒服的
 - unconscious adj. 无意识的
 - under prep. adv. 在下面
-- underground adj. adv. 地下
+- underground adj., adv. 地下
 - understand v. 理解
 - understanding n. 理解
 - underwear n. 内衣
@@ -2926,17 +2926,17 @@
 - unpleasant adj. 令人不快的
 - until conj./prep. 直到
 - unusual adj. 不寻常的
-- up adv. prep. 向上
-- update v. n. 更新
+- up adv., prep. 向上
+- update v., n. 更新
 - upon prep. 在...之上
 - upper adj. 上
-- upset adj. v. 沮丧的
-- upstairs adv.  adj. 楼上
+- upset adj., v. 沮丧的
+- upstairs adv., adj. 楼上
 - upwards adv. 向上
 - urban adj. 城市的
 - urge v. 敦促
 - us pron. 我们
-- use v.  n. 使用
+- use v., n. 使用
 - used1 adj. 用过的，旧的
 - used to modal v. 习惯模型
 - useful adj. 有用的
@@ -2949,7 +2949,7 @@
 - vacation n. 假期
 - valley n. 山谷
 - valuable adj. 有价值的
-- value n.  v. 价值
+- value n., v. 价值
 - van n. 货车
 - variety n. 品种
 - various adj. 各种的
@@ -2959,12 +2959,12 @@
 - vehicle n. 车辆
 - venue n. 地点
 - version n. 版本
-- very adv.  adj. 非常
+- very adv., adj. 非常
 - via prep. 通过
 - victim n. 受害者
 - victory n. 胜利者
 - video n. 视频
-- view n.  v. 查看
+- view n., v. 查看
 - viewer n. 观众
 - village n. 村庄
 - violence n. 暴力
@@ -2972,36 +2972,36 @@
 - virtual adj. 虚拟的
 - virus n. 病毒
 - vision n. 愿景
-- visit v. n. 访问
+- visit v., n. 访问
 - visitor n. 访客
 - visual adj. 视觉
 - vital adj. 必不可少的
 - vitamin n. 维他命
 - voice n. 声音
 - volume n. 体积
-- volunteer n. v. 志愿者
-- vote n. v. 投票
+- volunteer n., v. 志愿者
+- vote n., v. 投票
 
 ### W
 
 - wage n. 工资
-- wait v. n. 等待
+- wait v., n. 等待
 - waiter n. 服务员
 - wake v. 唤醒
-- walk v. n. 步行
+- walk v., n. 步行
 - wall n. 墙
 - want v. 想要
 - war n. 战争
-- warm adj.  v. 温暖的
+- warm adj., v. 温暖的
 - warn v. 警告
 - warning n. 警告
-- wash v. n. 洗涤
+- wash v., n. 洗涤
 - washing n. 洗涤
-- waste n. v. adj. 浪费
-- watch v. n. 看
-- water n.  v. 水
-- wave n. v. 波浪
-- way n.  adv. 方式
+- waste n., v. adj. 浪费
+- watch v., n. 看
+- water n., v. 水
+- wave n., v. 波浪
+- way n., adv. 方式
 - we pron. 我们
 - weak adj. 弱的
 - weakness n. 弱点
@@ -3018,37 +3018,37 @@
 - weekend n. 周末
 - weigh v. 称重
 - weight n. 重量
-- welcome exclam. v. adj. n. 欢迎
-- well adv. adj. exclam. 好
-- west n. adj. adv. 西
+- welcome exclam., v., adj., n. 欢迎
+- well adv., adj., exclam. 好
+- west n., adj., adv. 西
 - western adj. 西方的
 - wet adj. 湿的
 - what pron./det. 什么
 - whatever det./pron. 无论什么
 - wheel n. 轮子
-- when adv. pron. conj. 当
+- when adv., pron., conj. 当
 - whenever conj. 每当
-- where adv. conj. 哪里
+- where adv., conj. 哪里
 - whereas conj. 然而
 - wherever conj. 无论在哪里
 - whether conj. 是否
 - which pron./det. 哪个
-- while conj. n. 尽管
-- whisper v. n. 耳语
-- white adj. n. 白色
+- while conj., n. 尽管
+- whisper v., n. 耳语
+- white adj., n. 白色
 - who pron. 谁
-- whole adj. n. 整个
+- whole adj., n. 整个
 - whom pron. 谁
 - whose det./pron. 谁的
 - why adv. 为什么
 - wide adj. 宽的
-- widely adv 广泛的
+- widely adv. 广泛的
 - wife n. 妻子
 - wild adj. 狂野的
 - wildlife n. 野生动物
-- will modal v. n. 将来模型
+- will modal v., n. 将来模型
 - willing adj. 愿意的
-- win v. n. 赢、胜利
+- win v., n. 赢、胜利
 - wind1 n. 风
 - wind2 v. 缠绕
 - window n. 窗户
@@ -3058,49 +3058,49 @@
 - winter n. 冬天
 - wire n. 电线
 - wise adj. 明智的
-- wish v. n. 希望
+- wish v., n. 希望
 - with prep. 和
 - within prep. 之内
 - without prep. 没有
-- witness n. v. 证人
+- witness n., v. 证人
 - woman n. 女人
-- wonder v. n. 奇迹
+- wonder v., n. 奇迹
 - wonderful adj. 美妙的
 - wood n. 木头
 - wooden adj. 木的
 - wool n. 羊毛
 - word n. 词
-- work v. n. 工作 
+- work v., n. 工作 
 - worker n. 工人
 - working adj. 工作的
 - world n. 世界
-- worldwide adj. adv. 全球
+- worldwide adj., adv. 全球
 - worried adj. 担心的
-- worry v. n. 担心
-- worse adj. adv. n. 更糟的
-- worst adj. adv. n. 值得的
-- worth adj. n. 价值
+- worry v., n. 担心
+- worse adj., adv., n. 更糟的
+- worst adj., adv., n. 值得的
+- worth adj., n. 价值
 - would modal v. 将来模型
-- wound n. v. 伤口
+- wound n., v. 伤口
 - wow exclam. 哇
 - wrap v. 包裹
 - write v. 写
 - writer n. 作家
 - writing n. 写作
 - written adj. 书面的
-- wrong adj. adv. n. 错误的
+- wrong adj., adv., n. 错误的
 
 ### Y
 
 - yard n. 院子
 - yeah exclam. 是啊
 - year n. 年
-- yellow adj. n. 黄色
+- yellow adj., n. 黄色
 - yes exclam. 是的
-- yesterday adv. n. 昨天
-- yet adv. conj. 然而
+- yesterday adv., n. 昨天
+- yet adv., conj. 然而
 - you pron. 你
-- young adj. n. 年轻的
+- young adj., n. 年轻的
 - your det. 你
 - yours pron. 你的
 - yourself pron. 你自己
