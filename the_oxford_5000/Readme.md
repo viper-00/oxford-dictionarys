@@ -509,150 +509,150 @@
 
 ### D
 
-- dairy n., adj. 
-- dam n. 
-- damaging adj. 
-- dare v. 
-- darkness n. 
-- database n. 
-- dawn n. 
-- deadline n. 
-- deadly adj. 
-- dealer n. 
-- debris n. 
-- debut n. 
-- decision-making n. 
-- decisive adj. 
-- deck n. 
-- declaration n. 
-- dedicated adj. 
-- dedication n. 
-- deed n. 
-- deem v. 
-- default n. 
-- defect n. 
-- defender n. 
-- defensive adj. 
-- deficiency n. 
-- deficit n. 
-- defy v. 
-- delegate n. 
-- delegation n. 
-- delete v. 
-- delicate adj. 
-- democracy n. 
-- democratic adj. 
-- demon n. 
-- demonstration n. 
-- denial n. 
-- denounce v. 
-- dense adj. 
-- density n. 
-- depart v. 
-- dependence n. 
-- dependent adj. 
-- depict v. 
-- deploy v. 
-- deployment n. 
-- deposit n. , v. 
-- depression n. 
-- deprive v. 
-- deputy n. 
-- derive v. 
-- descend v. 
-- descent n. 
-- designate v. 
-- desirable adj. 
-- desktop n. 
-- desperately adv. 
-- destruction n. 
-- destructive adj. 
-- detain v. 
-- detection n. 
-- detention n. 
-- deteriorate v. 
-- determination n. 
-- devastate v. 
-- devil n. 
-- devise v. 
-- devote v. 
-- diagnose v. 
-- diagnosis n. 
-- dictate v. 
-- dictator n. 
-- differ v. 
-- differentiate v. 
-- dignity n. 
-- dilemma n. 
-- dimension n. 
-- diminish v. 
-- dip v. 
-- diplomat n. 
-- diplomatic n. 
-- directory n. 
-- disability n. 
-- disabled adj. 
-- disagreement n. 
-- disappoint v. 
-- disappointment n. 
-- disastrous adj. 
-- discard v. 
-- discharge v. 
-- disclose v. 
-- disclosure n. 
-- discourage v. 
-- discourse n. 
-- discretion n. 
-- discrimination n. 
-- dismissal n. 
-- disorder n. 
-- displace v. 
-- disposal n. 
-- dispose v. 
-- dispute n., v. 
-- disrupt v. 
-- disruption n. 
-- dissolve v. 
-- distant adj. 
-- distinct adj. 
-- distinction n. 
-- distinctive adj. 
-- distinguish v. 
-- distort v. 
-- distract v. 
-- distress n., v. 
-- disturb v. 
-- disturbing adj. 
-- dive v., n. 
-- diverse adj. 
-- diversity n. 
-- divert v. 
-- divine adj. 
-- divorce n., v. 
-- doctrine n. 
-- documentation n. 
-- domain n. 
-- dominance n. 
-- dominant adj. 
-- donation n. 
-- donor n. 
-- dose n. 
-- dot n. 
-- downtown n., adj., adv. 
-- drain v. 
-- dramatically adv. 
-- drift v. 
-- driving adj. 
-- drought n. 
-- drown v. 
-- dual adj. 
-- dub v. 
-- dull adj. 
-- dumb adj. 
-- dump v. 
-- duo n. 
-- duration n. 
-- dynamic adj. , n. 
+- dairy n., adj. 乳制品
+- dam n. 该死
+- damaging adj. 破坏性的
+- dare v. 敢
+- darkness n. 黑暗
+- database n. 数据库
+- dawn n. 黎明
+- deadline n. 截止日期
+- deadly adj. 致命的
+- dealer n. 经销商
+- debris n. 碎片
+- debut n. 首次亮相
+- decision-making n. 决策
+- decisive adj. 决定性的
+- deck n. 甲板
+- declaration n. 声明
+- dedicated adj. 奉献
+- dedication n. 奉献精神
+- deed n. 契约
+- deem v. 认为
+- default n. 默认
+- defect n. 缺陷
+- defender n. 后卫
+- defensive adj. 防御
+- deficiency n. 缺乏
+- deficit n. 赤字
+- defy v. 蔑视
+- delegate n. 委托
+- delegation n. 委托
+- delete v. 删除
+- delicate adj. 精致的
+- democracy n. 民主
+- democratic adj. 民主
+- demon n. 恶魔
+- demonstration n. 示范
+- denial n. 否认
+- denounce v. 谴责
+- dense adj. 密集的
+- density n. 密度
+- depart v. 离开
+- dependence n. 依赖
+- dependent adj. 依赖的
+- depict v. 描绘
+- deploy v. 部署
+- deployment n. 部署
+- deposit n., v. 存款
+- depression n. 抑郁症
+- deprive v. 剥夺
+- deputy n. 副手
+- derive v. 漂移
+- descend v. 下降
+- descent n. 下降
+- designate v. 指定
+- desirable adj. 可取的
+- desktop n. 桌面
+- desperately adv. 拼命
+- destruction n. 破坏
+- destructive adj. 破坏性的
+- detain v. 拘留
+- detection n. 检测
+- detention n. 拘留
+- deteriorate v. 恶化
+- determination n. 决心
+- devastate v. 摧毁
+- devil n. 恶魔
+- devise v. 货币
+- devote v. 奉献
+- diagnose v. 诊断
+- diagnosis n. 诊断
+- dictate v. 口述
+- dictator n. 独裁者
+- differ v. 不同的
+- differentiate v. 区分
+- dignity n. 尊严
+- dilemma n. 困境
+- dimension n. 维度
+- diminish v. 减少
+- dip v. 浸
+- diplomat n. 外交官
+- diplomatic n. 外交的
+- directory n. 目录
+- disability n. 残疾
+- disabled adj. 禁用
+- disagreement n. 分歧
+- disappoint v. 失望
+- disappointment n. 失望
+- disastrous adj. 灾难性的
+- discard v. 丢弃
+- discharge v. 放电
+- disclose v. 披露
+- disclosure n. 披露
+- discourage v. 劝阻
+- discourse n. 话语
+- discretion n. 谨慎
+- discrimination n. 歧视
+- dismissal n. 解雇
+- disorder n. 混乱
+- displace v. 取代
+- disposal n. 处置
+- dispose v. 处置
+- dispute n., v. 争议
+- disrupt v. 扰乱
+- disruption n. 中断
+- dissolve v. 溶解
+- distant adj. 遥远的
+- distinct adj. 独特的
+- distinction n. 区别
+- distinctive adj. 独特的
+- distinguish v. 区分
+- distort v. 扭曲
+- distract v. 分心
+- distress n., v. 遇险
+- disturb v. 打扰
+- disturbing adj. 令人不安的
+- dive v., n. 潜水
+- diverse adj. 各种的
+- diversity n. 多样性
+- divert v. 转移
+- divine adj. 神圣的
+- divorce n., v. 离婚
+- doctrine n. 教义
+- documentation n. 证明文件
+- domain n. 域
+- dominance n. 支配
+- dominant adj. 主导的
+- donation n. 捐赠
+- donor n. 捐助者
+- dose n. 剂量
+- dot n. 点
+- downtown n., adj., adv. 市中心
+- drain v. 排水沟
+- dramatically adv. 戏剧性的
+- drift v. 漂移
+- driving adj. 驾驶
+- drought n. 干旱
+- drown v. 掩死
+- dual adj. 双重的
+- dub v. 配音
+- dull adj. 沉闷的
+- dumb adj. 愚蠢的
+- dump v. 转储
+- duo n. 二人组
+- duration n. 持续时间
+- dynamic adj. , n. 动态的
 
 ### E
 
