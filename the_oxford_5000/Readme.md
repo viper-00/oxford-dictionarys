@@ -652,260 +652,260 @@
 - dump v. 转储
 - duo n. 二人组
 - duration n. 持续时间
-- dynamic adj. , n. 动态的
+- dynamic adj., n. 动态的
 
 ### E
 
-- eager adj. 
-- earnings n. 
-- ease n., v. 
-- echo v., n. 
-- ecological adj. 
-- economics n. 
-- economist n. 
-- editorial adj. 
-- educator n. 
-- effectiveness n. 
-- efficiency n. 
-- efficiently adv. 
-- ego n. 
-- elaborate adj. 
-- elbow n. 
-- electoral adj. 
-- electronics n. 
-- elegant adj. 
-- elementary adj. 
-- elevate v. 
-- eligible adj. 
-- eliminate v. 
-- elite n. 
-- embark v. 
-- embarrassment n. 
-- embassy n. 
-- embed v. 
-- embody v. 
-- embrace v. 
-- emergence n. 
-- emission n. 
-- emotionally adv. 
-- empire n. 
-- empirical adj. 
-- empower v. 
-- enact v. 
-- encompass v. 
-- encouragement n. 
-- encouraging adj. 
-- endeavour n. 
-- endless adj. 
-- endorse v. 
-- endorsement n. 
-- endure v. 
-- enforce v. 
-- enforcement n. 
-- engagement n. 
-- engaging adj. 
-- enjoyable adj. 
-- enquire v. 
-- enrich v. 
-- enrol v. 
-- ensue v. 
-- enterprise n. 
-- entertaining adj. 
-- enthusiast n. 
-- entitle v. 
-- entity n. 
-- entrepreneur n. 
-- envelope n. 
-- epidemic n. 
-- equality n. 
-- equation n. 
-- equip v. 
-- equivalent n., adj. 
-- era n. 
-- erect v. 
-- erupt v. 
-- escalate v. 
-- essence n. 
-- essentially adv. 
-- establishment n. 
-- eternal adj. 
-- ethic n. 
-- ethnic adj. 
-- evacuate v. 
-- evaluation n. 
-- evident adj. 
-- evoke v. 
-- evolution n. 
-- evolutionary adj. 
-- evolve v. 
-- exaggerate v. 
-- exceed v. 
-- excellence n. 
-- exception n. 
-- exceptional adj. 
-- excess n., adj. 
-- excessive adj. 
-- exclude v. 
-- exclusion n. 
-- exclusive adj. 
-- exclusively adv. 
-- execute v. 
-- execution n. 
-- exert v. 
-- exhibit v., n. 
-- exile n. 
-- exit n. , v. 
-- exotic adj. 
-- expansion n. 
-- expenditure n. 
-- experimental adj. 
-- expertise n. 
-- expire v. 
-- explicit adj. 
-- explicitly adv. 
-- exploit v. 
-- exploitation n. 
-- explosive adj., n. 
-- exposure n. 
-- extension n. 
-- extensive adj. 
-- extensively adv. 
-- extract n. , v. 
-- extremist n. 
+- eager adj. 热切的
+- earnings n. 收入
+- ease n., v. 缓解
+- echo v., n. 回声
+- ecological adj. 生态
+- economics n. 经济学
+- economist n. 经济学家
+- editorial adj. 社论
+- educator n. 教育家
+- effectiveness n. 有效性
+- efficiency n. 效率
+- efficiently adv. 有效地
+- ego n. 自我
+- elaborate adj. 精心设计
+- elbow n. 肘部
+- electoral adj. 选举
+- electronics n. 电子学
+- elegant adj. 优雅的
+- elementary adj. 初级
+- elevate v. 提升
+- eligible adj. 符合条件的
+- eliminate v. 消除
+- elite n. 精英
+- embark v. 登船
+- embarrassment n. 尴尬
+- embassy n. 大使馆
+- embed v. 嵌入
+- embody v. 体现
+- embrace v. 拥抱
+- emergence n. 出现
+- emission n. 问题
+- emotionally adv. 情感上的
+- empire n. 帝国
+- empirical adj. 经验的
+- empower v. 授权
+- enact v. 制定
+- encompass v. 包括
+- encouragement n. 鼓励
+- encouraging adj. 鼓励
+- endeavour n. 努力
+- endless adj. 无尽的
+- endorse v. 赞同
+- endorsement n. 背书
+- endure v. 忍受
+- enforce v. 强制执行
+- enforcement n. 强制执行
+- engagement n. 承诺
+- engaging adj. 引人入胜的
+- enjoyable adj. 愉快的
+- enquire v. 询问
+- enrich v. 丰富
+- enrol v. 注册
+- ensue v. 随着而来
+- enterprise n. 企业
+- entertaining adj. 有趣的
+- enthusiast n. 狂热者
+- entitle v. 授权
+- entity n. 实体
+- entrepreneur n. 企业家
+- envelope n. 信封
+- epidemic n. 流行病
+- equality n. 平等
+- equation n. 方程
+- equip v. 装备
+- equivalent n., adj. 等价的
+- era n. 时代
+- erect v. 直立
+- erupt v. 爆发
+- escalate v. 升级
+- essence n. 汽油
+- essentially adv. 基本上
+- establishment n. 机构
+- eternal adj. 永恒的
+- ethic n. 伦理
+- ethnic adj. 种族
+- evacuate v. 撤离
+- evaluation n. 评价
+- evident adj. 明显的
+- evoke v. 唤起
+- evolution n. 进化
+- evolutionary adj. 进化的
+- evolve v. 进化
+- exaggerate v. 夸大
+- exceed v. 超过
+- excellence n. 卓越
+- exception n. 例外
+- exceptional adj. 特殊的
+- excess n., adj. 多余的
+- excessive adj. 过度的
+- exclude v. 排除
+- exclusion n. 排除
+- exclusive adj. 专属
+- exclusively adv. 独家
+- execute v. 执行
+- execution n. 执行
+- exert v. 施加
+- exhibit v., n. 展出
+- exile n. 流放
+- exit n. , v. 退出
+- exotic adj. 异国情调的
+- expansion n. 扩展
+- expenditure n. 支出
+- experimental adj. 实验的
+- expertise n. 专业知识
+- expire v. 过期
+- explicit adj. 明确的
+- explicitly adv. 明确的
+- exploit v. 利用
+- exploitation n. 剥削
+- explosive adj., n. 爆炸物
+- exposure n. 暴露
+- extension n. 扩展名
+- extensive adj. 广泛的
+- extensively adv. 广泛的
+- extract n. , v. 提取
+- extremist n. 极端主义者
 
 ### F
 
-- fabric n. 
-- fabulous adj. 
-- facilitate v. 
-- faction n. 
-- faculty n. 
-- fade v. 
-- failed adj. 
-- fairness n. 
-- fake adj. 
-- fame n. 
-- fantasy n. 
-- fare n. 
-- fatal adj. 
-- fate n. 
-- favourable adj. 
-- feat n. 
-- federal adj. 
-- feminist adj., n. 
-- fever n. 
-- fibre n. 
-- fierce adj. 
-- film-maker n. 
-- filter n., v. 
-- fine n., v. 
-- firearm n. 
-- firefighter n. 
-- firework n. 
-- firm adj. 
-- firmly adv. 
-- fit n.
-- fixture n. 
-- flavour n. 
-- flaw n. 
-- flawed adj. 
-- flee v. 
-- fleet n. 
-- flesh n. 
-- flexibility n. 
-- flourish v. 
-- fluid n. 
-- fond adj. 
-- fool n. 
-- footage n. 
-- forbid v. 
-- forecast n., v. 
-- foreigner n. 
-- forge v. 
-- format n. 
-- formation n. 
-- formerly adv. 
-- formula n. 
-- formulate v. 
-- forth adv. 
-- forthcoming adj. 
-- fortunate adj. 
-- forum n. 
-- fossil n. 
-- foster v. 
-- foundation n. 
-- founder n. 
-- fraction n. 
-- fragile adj. 
-- fragment n. 
-- framework n. 
-- franchise n. 
-- frankly adv. 
-- fraud n. 
-- freely adv. 
-- frequent adj. 
-- frustrated adj. 
-- frustrating adj. 
-- frustration n. 
-- fulfil v. 
-- full-time adj./adv. 
-- functional adj. 
-- fundamentally adv. 
-- fundraising n. 
-- funeral n. 
-- furious adj. 
+- fabric n. 织物
+- fabulous adj. 美妙的
+- facilitate v. 促进
+- faction n. 派系
+- faculty n. 教师
+- fade v. 褪色
+- failed adj. 失败
+- fairness n. 公平
+- fake adj. 假的
+- fame n. 名声
+- fantasy n. 幻想
+- fare n. 票价
+- fatal adj. 致命的
+- fate n. 命运
+- favourable adj. 有利的
+- feat n. 壮举
+- federal adj. 联邦
+- feminist adj., n. 女权主义者
+- fever n. 发烧
+- fibre n. 纤维
+- fierce adj. 激烈的
+- film-maker n. 电影制作者
+- filter n., v. 过滤器
+- fine n., v. 罚款
+- firearm n. 火器
+- firefighter n. 消防员
+- firework n. 烟花
+- firm adj. 坚定的
+- firmly adv. 坚决反对
+- fit n. 适合
+- fixture n. 固定装置
+- flavour n. 味道
+- flaw n. 缺陷
+- flawed adj. 有缺陷的
+- flee v. 逃离
+- fleet n. 舰队
+- flesh n. 内体
+- flexibility n. 灵活性
+- flourish v. 繁荣
+- fluid n. 流体
+- fond adj. 喜欢
+- fool n. 傻瓜
+- footage n. 镜头
+- forbid v. 禁止
+- forecast n., v. 预测
+- foreigner n. 外国人
+- forge v. 锻造
+- format n. 格式
+- formation n. 形成
+- formerly adv. 以前的
+- formula n. 公式
+- formulate v. 制定
+- forth adv. 以后
+- forthcoming adj. 即将到来
+- fortunate adj. 幸运的
+- forum n. 论坛
+- fossil n. 化石
+- foster v. 教育
+- foundation n. 创始人
+- founder n. 分数
+- fraction n. 脆弱的
+- fragile adj. 片段
+- fragment n. 片段
+- framework n. 框架
+- franchise n. 特许经营权
+- frankly adv. 坦率地说
+- fraud n. 欺诈
+- freely adv. 自由
+- frequent adj. 频繁的
+- frustrated adj. 沮丧的
+- frustrating adj. 令人沮丧的
+- frustration n. 挫折
+- fulfil v. 完成
+- full-time adj./adv. 全职
+- functional adj. 功能
+- fundamentally adv. 从根本上说
+- fundraising n. 筹款
+- funeral n. 葬礼
+- furious adj. 愤怒的
 
 ### G
 
-- gallon n. 
-- gambling n. 
-- gaming n. 
-- gathering n. 
-- gay adj. 
-- gaze n., v. 
-- gear n. 
-- gender n. 
-- gene n. 
-- generic adj. 
-- genetic adj. 
-- genius n. 
-- genocide n. 
-- genuine adj. 
-- genuinely adv. 
-- gesture n. 
-- gig n. 
-- glance n., v. 
-- glimpse n. 
-- globalization n. 
-- globe n. 
-- glorious adj. 
-- glory n. 
-- golden adj. 
-- goodness n. 
-- gorgeous adj. 
-- governance n. 
-- governor n. 
-- grace n. 
-- graphic adj. 
-- graphics n. 
-- grasp v., n. 
-- grave (for dead person) n. 
-- grave (serious) adj. 
-- gravity n. 
-- greatly adv. 
-- greenhouse n. 
-- grid n. 
-- grief n. 
-- grin v., n. 
-- grind v. 
-- grip n., v. 
-- grocery n. 
-- gross adj. 
-- guerrilla n. 
-- guidance n. 
-- guideline n. 
-- guilt n. 
-- gut n. 
+- gallon n. 加仑
+- gambling n. 赌博
+- gaming n. 游戏
+- gathering n. 聚集
+- gay adj. 同性恋
+- gaze n., v. 凝视
+- gear n. 齿轮
+- gender n. 性别
+- gene n. 基因
+- generic adj. 通用
+- genetic adj. 遗传
+- genius n. 天才
+- genocide n. 种族灭绝
+- genuine adj. 真正的
+- genuinely adv. 真正的
+- gesture n. 手势
+- gig n. 演出
+- glance n., v. 匆匆一看
+- glimpse n. 瞥见
+- globalization n. 全球化
+- globe n. 地球
+- glorious adj. 光荣的
+- glory n. 荣耀
+- golden adj. 金色的
+- goodness n. 善良
+- gorgeous adj. 华丽的
+- governance n. 治理
+- governor n. 州长
+- grace n. 恩典
+- graphic adj. 图形
+- graphics n. 图形
+- grasp v., n. 掌握
+- grave (for dead person) n. 坟墓
+- grave (serious) adj. 严重的
+- gravity n. 重力
+- greatly adv. 大大
+- greenhouse n. 温室
+- grid n. 网格
+- grief n. 悲伤
+- grin v., n. 露齿的笑
+- grind v. 研磨
+- grip n., v. 握柄
+- grocery n. 杂货
+- gross adj. 粗鲁的
+- guerrilla n. 游击队
+- guidance n. 指导
+- guideline n. 指导方针
+- guilt n. 内疚
+- gut n. 肠道
 
 ### H
 
