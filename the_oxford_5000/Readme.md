@@ -909,177 +909,177 @@
 
 ### H
 
-- habitat n. 
-- hail v. 
-- halfway adv. 
-- halt v., n. 
-- handful n. 
-- handling n. 
-- handy adj. 
-- harassment n. 
-- harbour n. 
-- hardware n. 
-- harmony n. 
-- harsh adj. 
-- harvest n., v. 
-- hatred n, 
-- haunt v. 
-- hazard n. 
-- headquarters n. 
-- heal v. 
-- healthcare n. 
-- heighten v. 
-- helmet n. 
-- hence adv. 
-- herb n. 
-- heritage n. 
-- hidden adj. 
-- hierarchy n. 
-- high-profile adj. 
-- highway n. 
-- hilarious adj. 
-- hint n., v. 
-- hip n. 
-- historian n. 
-- homeland n. 
-- homeless adj. 
-- honesty n. 
-- hook v. , n. 
-- hopeful adj. 
-- hopefully adv. 
-- horizon n. 
-- horn n. 
-- hostage n. 
-- hostile adj. 
-- hostility n. 
-- humanitarian adj. 
-- humanity n. 
-- humble adj. 
-- hunger n. 
-- hydrogen n. 
-- hypothesis n. 
+- habitat n. 栖息地
+- hail v. 冰雹
+- halfway adv. 半途而废
+- halt v., n. 停止
+- handful n. 少数
+- handling n. 处理
+- handy adj. 方便的
+- harassment n. 骚扰
+- harbour n. 港口
+- hardware n. 硬件
+- harmony n. 和谐
+- harsh adj. 严厉的
+- harvest n., v. 收获
+- hatred n, 仇恨
+- haunt v. 闹鬼
+- hazard n. 危险
+- headquarters n. 总部
+- heal v. 治愈
+- healthcare n. 医疗保健
+- heighten v. 提高
+- helmet n. 头盔
+- hence adv. 因此
+- herb n. 草本
+- heritage n. 遗产
+- hidden adj. 隐藏的
+- hierarchy n. 等级制度
+- high-profile adj. 高调的
+- highway n. 高速公路
+- hilarious adj. 热闹的
+- hint n., v. 提示
+- hip n. 臀部
+- historian n. 历史学家
+- homeland n. 祖国
+- homeless adj. 无家可归的
+- honesty n. 诚实
+- hook v., n. 挂钩
+- hopeful adj. 充满希望的
+- hopefully adv. 希望
+- horizon n. 地平线
+- horn n. 喇叭
+- hostage n. 人质
+- hostile adj. 敌对的
+- hostility n. 敌意
+- humanitarian adj. 人道主义
+- humanity n. 人性
+- humble adj. 谦虚的
+- hunger n. 饥饿
+- hydrogen n. 氢
+- hypothesis n. 假设
 
 ### I
 
-- icon n. 
-- ID n. 
-- identical adj. 
-- identification n. 
-- ideological adj. 
-- ideology n. 
-- idiot n. 
-- ignorance n. 
-- illusion n. 
-- imagery n. 
-- immense adj. 
-- immigration n. 
-- imminent adj. 
-- immune adj. 
-- implement v. 
-- implementation n. 
-- implication n. 
-- imprison v. 
-- imprisonment n. 
-- inability n. 
-- inadequate adj. 
-- inappropriate adj. 
-- incentive n. 
-- incidence n. 
-- inclined adj. 
-- inclusion n. 
-- incorporate v. 
-- incorrect adj. 
-- incur v. 
-- independence n. 
-- index n. 
-- indication n. 
-- indicator n. 
-- indictment n. 
-- indigenous adj. 
-- induce v. 
-- indulge v. 
-- inequality n. 
-- inevitable adj. 
-- inevitably adv. 
-- infamous adj. 
-- infant n. 
-- infect v. 
-- infer v. 
-- inflation n. 
-- inflict v. 
-- influential adj. 
-- info n. 
-- infrastructure n. 
-- inhabitant n. 
-- inherent adj. 
-- inherit v. 
-- inhibit v. 
-- initiate v. 
-- inject v. 
-- injection n. 
-- injustice n. 
-- ink n. 
-- inmate n. 
-- innovation n. 
-- innovative adj. 
-- input n. 
-- insert v. 
-- insertion n. 
-- insider n. 
-- inspect v. 
-- inspection n. 
-- inspector n. 
-- inspiration n. 
-- installation n. 
-- instant adj. 
-- instantly adv. 
-- instinct n. 
-- institutional adj. 
-- instruct v. 
-- instrumental adj. 
-- insufficient adj. 
-- insult n., v. 
-- intact adj. 
-- intake n. 
-- integral adj. 
-- integrate v. 
-- integrated adj. 
-- integration n. 
-- integrity n. 
-- intellectual adj. , n. 
-- intensify v. 
-- intensity n. 
-- intensive adj. 
-- intent n. 
-- interact v. 
-- interaction n. 
-- interactive adj. 
-- interface n. 
-- interfere v. 
-- interference n. 
-- interim adj. 
-- interior adj., n. 
-- intermediate adj. 
-- interpretation n. 
-- interval n. 
-- intervene v. 
-- intervention n. 
-- intimate adj. 
-- intriguing adj. 
-- invade v. 
-- invasion n. 
-- investigator n. 
-- investor n. 
-- invisible adj. 
-- invoke v. 
-- involvement n. 
-- ironic adj. 
-- ironically adv. 
-- irony n. 
-- irrelevant adj. 
-- isolate v. 
-- isolated adj. 
-- isolation n. 
+- icon n. 图标
+- ID n. 身份证号码
+- identical adj. 相同的
+- identification n. 识别
+- ideological adj. 意识形态
+- ideology n. 意识形态
+- idiot n. 白痴
+- ignorance n. 无知
+- illusion n. 幻觉
+- imagery n. 意象
+- immense adj. 巨大的
+- immigration n. 移民
+- imminent adj. 迫在眉睫的
+- immune adj. 免疫
+- implement v. 实施
+- implementation n. 实施
+- implication n. 含义
+- imprison v. 监禁
+- imprisonment n. 监禁
+- inability n. 无能
+- inadequate adj. 不足的
+- inappropriate adj. 不适当的
+- incentive n. 激励
+- incidence n. 发生率
+- inclined adj. 倾斜的
+- inclusion n. 包含
+- incorporate v. 合并
+- incorrect adj. 不正确的
+- incur v. 招致
+- independence n. 独立性
+- index n. 索引
+- indication n. 指示
+- indicator n. 指标
+- indictment n. 起诉书
+- indigenous adj. 土著
+- induce v. 诱导
+- indulge v. 放纵
+- inequality n. 不平等
+- inevitable adj. 不可避免的
+- inevitably adv. 不可避免地
+- infamous adj. 臭名昭著的
+- infant n. 婴儿
+- infect v. 感染
+- infer v. 推断
+- inflation n. 通货膨胀
+- inflict v. 造成
+- influential adj. 有影响力的
+- info n. 信息
+- infrastructure n. 基础设施
+- inhabitant n. 民居
+- inherent adj. 固有的
+- inherit v. 继承
+- inhibit v. 禁止
+- initiate v. 启动
+- inject v. 注入
+- injection n. 注射
+- injustice n. 不公平
+- ink n. 墨水
+- inmate n. 犯人
+- innovation n. 创新
+- innovative adj. 创新的
+- input n. 输入
+- insert v. 插入
+- insertion n. 插入
+- insider n. 内部人士
+- inspect v. 检查
+- inspection n. 检查
+- inspector n. 检查员
+- inspiration n. 灵感
+- installation n. 安装
+- instant adj. 即使
+- instantly adv. 立即
+- instinct n. 本能
+- institutional adj. 机构
+- instruct v. 指示
+- instrumental adj. 对...起重要作用的
+- insufficient adj. 不足
+- insult n., v. 侮辱
+- intact adj. 完整的
+- intake n. 摄入量
+- integral adj. 积分
+- integrate v. 整合
+- integrated adj. 综合
+- integration n. 整合
+- integrity n. 完整性
+- intellectual adj., n. 知识分子
+- intensify v. 加强
+- intensity n. 强度
+- intensive adj. 密集的
+- intent n. 意图
+- interact v. 互动
+- interaction n. 互动
+- interactive adj. 互动
+- interface n. 接口
+- interfere v. 干扰
+- interference n. 干扰
+- interim adj. 临时
+- interior adj., n. 内部
+- intermediate adj. 中间
+- interpretation n. 解释
+- interval n. 间隔
+- intervene v. 干预
+- intervention n. 干预
+- intimate adj. 亲密的
+- intriguing adj. 有趣的
+- invade v. 入侵
+- invasion n. 入侵
+- investigator n. 调查员
+- investor n. 投资者
+- invisible adj. 看不见的
+- invoke v. 调用
+- involvement n. 参与
+- ironic adj. 讽刺的
+- ironically adv. 具有讽刺意味的
+- irony n. 讽刺
+- irrelevant adj. 无关的
+- isolate v. 隔离
+- isolated adj. 孤立的
+- isolation n. 隔离
 
 ### J
 
