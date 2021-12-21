@@ -1083,89 +1083,89 @@
 
 ### J
 
-- jail n., v. 
-- jet n. 
-- joint adj., n. 
-- journalism n. 
-- judicial adj. 
-- junction n. 
-- jurisdiction n. 
-- jury n. 
-- just adj. 
-- justification n. 
+- jail n., v. 监狱
+- jet n. 喷射
+- joint adj., n. 联合
+- journalism n. 新闻
+- judicial adj. 司法
+- junction n. 连接
+- jurisdiction n. 司法管辖权
+- jury n. 陪审团
+- just adj. 只是
+- justification n. 理由
 
 ### K
 
-- kidnap v. 
-- kidney n. 
-- kingdom n. 
-- kit n. 
+- kidnap v. 绑架
+- kidney n. 肾脏
+- kingdom n. 王国
+- kit n. 套件
 
 ### L
 
-- lad n. 
-- ladder n. 
-- landing n. 
-- landlord n. 
-- landmark n. 
-- lane n. 
-- lap n. 
-- large-scale adj. 
-- laser n. 
-- lately adv. 
-- latter adj., n. 
-- lawn n. 
-- lawsuit n. 
-- layout n. 
-- leaflet n. 
-- leak v., n. 
-- leap v., n. 
-- legacy n. 
-- legend n. 
-- legendary adj. 
-- legislation n. 
-- legislative adj. 
-- legislature n. 
-- legitimate adj. 
-- lengthy adj. 
-- lens n. 
-- lesbian adj. 
-- lesser adj. 
-- lethal adj. 
-- liable adj. 
-- liberal adj., n. 
-- liberation n. 
-- liberty n. 
-- license v. 
-- lifelong adj. 
-- lifetime n. 
-- lighting n. 
-- likelihood n. 
-- likewise adv. 
-- limb n. 
-- limitation n. 
-- linear adj. 
-- line-up n. 
-- linger v. 
-- listing n. 
-- literacy n. 
-- literally adv. 
-- literary adj. 
-- litre n. 
-- litter n. 
-- liver n. 
-- lobby n., v. 
-- log n., v. 
-- logic n. 
-- logo n. 
-- long-standing adj. 
-- long-time adj. 
-- loom v. 
-- loop n. 
-- lottery n. 
-- loyal adj. 
-- loyalty n. 
-- lyric n. 
+- lad n. 小伙子
+- ladder n. 梯子
+- landing n. 着陆
+- landlord n. 房东
+- landmark n. 地标
+- lane n. 车道
+- lap n. 大腿部
+- large-scale adj. 大型
+- laser n. 激光
+- lately adv. 最近的
+- latter adj., n. 后者
+- lawn n. 草坪
+- lawsuit n. 诉讼
+- layout n. 布局
+- leaflet n. 传单
+- leak v., n. 泄漏
+- leap v., n. 跳跃
+- legacy n. 遗产
+- legend n. 传说
+- legendary adj. 传奇的
+- legislation n. 授权
+- legislative adj. 立法
+- legislature n. 立法机关
+- legitimate adj. 合法
+- lengthy adj. 长时间的
+- lens n. 镜头
+- lesbian adj. 女同性恋
+- lesser adj. 较小的
+- lethal adj. 致命的
+- liable adj. 有责任的
+- liberal adj., n. 自由主义
+- liberation n. 解放
+- liberty n. 自由
+- license v. 许可证
+- lifelong adj. 终身
+- lifetime n. 终身
+- lighting n. 照明
+- likelihood n. 可能性
+- likewise adv. 同样
+- limb n. 肢体
+- limitation n. 限制
+- linear adj. 线性
+- line-up n. 排队
+- linger v. 徘徊
+- listing n. 清单
+- literacy n. 识字
+- literally adv. 字面上的
+- literary adj. 文学
+- litre n. 升
+- litter n. 垃圾
+- liver n. 肝脏
+- lobby n., v. 大厅
+- log n., v. 日志
+- logic n. 逻辑
+- logo n. 标志
+- long-standing adj. 长期的
+- long-time adj. 长期的
+- loom v. 织机
+- loop n. 循环
+- lottery n. 彩票
+- loyal adj. 忠诚的
+- loyalty n. 忠诚
+- lyric n. 抒情的
 
 ### M
 
