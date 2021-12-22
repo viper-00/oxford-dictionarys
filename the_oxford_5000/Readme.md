@@ -1169,149 +1169,149 @@
 
 ### M
 
-- machinery n. 
-- magical adj. 
-- magistrate n. 
-- magnetic adj. 
-- magnificent adj. 
-- magnitude n. 
-- mainland n. 
-- mainstream n., adj. 
-- maintenance n. 
-- make-up n. 
-- making n. 
-- mandate n. 
-- mandatory adj. 
-- manifest v. 
-- manipulate v. 
-- manipulation n. 
-- manufacture v. 
-- manufacturing n. 
-- manuscript n. 
-- marathon n. 
-- march n., v. 
-- margin n. 
-- marginal adj. 
-- marine adj. 
-- marker n. 
-- marketplace n. 
-- martial adj. 
-- mask n. 
-- massacre n. 
-- mate n., v. 
-- mathematical adj. 
-- mature adj., v. 
-- maximize v. 
-- mayor n. 
-- meaningful adj. 
-- meantime n. 
-- mechanic n. 
-- mechanical adj. 
-- mechanism n. 
-- medal n. 
-- medication n. 
-- medieval adj. 
-- meditation n. 
-- melody n. 
-- membership n. 
-- memo n. 
-- memoir n. 
-- memorable adj. 
-- memorial n. 
-- mentor n. 
-- merchant n. 
-- mercy n. 
-- mere adj. 
-- merely adv. 
-- merge v. 
-- merger n. 
-- merit n. 
-- metaphor n. 
-- methodology n. 
-- midst n. 
-- migration n. 
-- militant n., adj. 
-- militia n. 
-- mill n. 
-- miner n. 
-- minimal adj. 
-- minimize v. 
-- mining n. 
-- ministry n. 
-- minute2 adj. 
-- miracle n. 
-- miserable adj. 
-- misery n. 
-- misleading adj. 
-- missile n. 
-- mob n. 
-- mobility n. 
-- mobilize v. 
-- mode n. 
-- moderate adj. 
-- modest adj. 
-- modification n. 
-- momentum n. 
-- monk n. 
-- monopoly n. 
-- monster n. 
-- monthly adj. 
-- monument n. 
-- morality n. 
-- moreover adv. 
-- mortgage n. 
-- mosque n. 
-- motion n. 
-- motivate v. 
-- motivation n. 
-- motive n. 
-- motorist n. 
-- moving adj. 
-- municipal adj. 
-- mutual adj. 
-- myth n. 
+- machinery n. 无机械
+- magical adj. 神奇的
+- magistrate n. 无知
+- magnetic adj. 磁
+- magnificent adj. 华丽的
+- magnitude n. 强度
+- mainland n. 大陆
+- mainstream n., adj. 主流的
+- maintenance n. 保养
+- make-up n. 弥补、构成
+- making n. 制作
+- mandate n. 发送
+- mandatory adj. 强制性
+- manifest v. 表现
+- manipulate v. 操纵
+- manipulation n. 操纵
+- manufacture v. 制造
+- manufacturing n. 制造
+- manuscript n. 稿件
+- marathon n. 马拉松
+- march n., v. 三月
+- margin n. 边缘
+- marginal adj. 边缘
+- marine adj. 海洋
+- marker n. 标记
+- marketplace n. 市场
+- martial adj. 武术
+- mask n. 面膜
+- massacre n. 大屠杀
+- mate n., v. 伴侣
+- mathematical adj. 数学
+- mature adj., v. 成熟
+- maximize v. 最大化
+- mayor n. 市长
+- meaningful adj. 有意义的
+- meantime n. 同时
+- mechanic n. 机械师
+- mechanical adj. 机械
+- mechanism n. 制作
+- medal n. 奖牌
+- medication n. 药物
+- medieval adj. 中世纪
+- meditation n. 冥想
+- melody n. 旋律
+- membership n. 会员资格
+- memo n. 备忘录
+- memoir n. 回忆录
+- memorable adj. 令人难忘的
+- memorial n. 纪念
+- mentor n. 导师
+- merchant n. 商人
+- mercy n. 怜悯
+- mere adj. 只，不过
+- merely adv. 仅仅
+- merge v. 合并
+- merger n. 合并
+- merit n. 优点
+- metaphor n. 隐喻
+- methodology n. 方法
+- midst n. 中间的
+- migration n. 迁移
+- militant n., adj. 武装分子
+- militia n. 民兵
+- mill n. 磨
+- miner n. 矿工
+- minimal adj. 最小的
+- minimize v. 最小化
+- mining n. 采矿
+- ministry n. 事部
+- minute2 adj. 分钟
+- miracle n. 奇迹
+- miserable adj. 悲惨的
+- misery n. 痛苦
+- misleading adj. 误导性
+- missile n. 导弹
+- mob n. 暴民
+- mobility n. 移动性
+- mobilize v. 动员
+- mode n. 模式
+- moderate adj. 适度的
+- modest adj. 适度的
+- modification n. 修改
+- momentum n. 动量
+- monk n. 僧侣
+- monopoly n. 垄断
+- monster n. 怪物
+- monthly adj. 每月
+- monument n. 纪念碑
+- morality n. 道德
+- moreover adv. 而且
+- mortgage n. 抵押贷款
+- mosque n. 清真寺
+- motion n. 动作
+- motivate v. 激励
+- motivation n. 动机
+- motive n. 动机
+- motorist n. 驾驶者
+- moving adj. 移动
+- municipal adj. 市政
+- mutual adj. 相互
+- myth n. 神话
 
 ### N
 
-- naked adj. 
-- namely adv. 
-- nasty adj. 
-- nationwide adj. 
-- naval adj. 
-- navigation n. 
-- nearby adj., adv. 
-- necessity n. 
-- neglect v., n. 
-- negotiate v. 
-- negotiation n. 
-- neighbouring adj. 
-- nest n. 
-- net adj. 
-- neutral adj. 
-- newly adv. 
-- newsletter n. 
-- niche n. 
-- noble adj. 
-- nod v. 
-- nominate v. 
-- nomination n. 
-- nominee n. 
-- nonetheless adv. 
-- non-profit adj. 
-- nonsense n. 
-- noon n. 
-- norm n. 
-- notable adj. 
-- notably adv. 
-- notebook n. 
-- notify v. 
-- notorious adj. 
-- novel adj. 
-- novelist n. 
-- nowadays adv. 
-- nursery n. 
-- nursing adj. 
-- nutrition n. 
+- naked adj. 裸体的
+- namely adv. 换句话说
+- nasty adj. 讨厌的
+- nationwide adj. 全国范围
+- naval adj. 海军
+- navigation n. 导航
+- nearby adj., adv. 附近的
+- necessity n. 必要性
+- neglect v., n. 忽略
+- negotiate v. 谈判
+- negotiation n. 谈判
+- neighbouring adj. 邻近的
+- nest n. 巢
+- net adj. 网
+- neutral adj. 中性
+- newly adv. 新的
+- newsletter n. 实时通讯
+- niche n. 利基
+- noble adj. 贵族
+- nod v. 点头
+- nominate v. 提名
+- nomination n. 提名
+- nominee n. 被提名人
+- nonetheless adv. 仍然是
+- non-profit adj. 非盈利的
+- nonsense n. 胡说八道
+- noon n. 中午
+- norm n. 规范
+- notable adj. 值得注意的
+- notably adv. 特别是
+- notebook n. 笔记本
+- notify v. 通知
+- notorious adj. 臭名昭著的
+- novel adj. 小说
+- novelist n. 小说家
+- nowadays adv. 当今
+- nursery n. 苗圃
+- nursing adj. 护理
+- nutrition n. 营养
 
 ### O
 
