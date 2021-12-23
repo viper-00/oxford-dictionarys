@@ -1315,56 +1315,56 @@
 
 ### O
 
-- obesity n. 
-- objection n. 
-- oblige v. 
-- observer n. 
-- obsess v. 
-- obsession n. 
-- obstacle n. 
-- occasional adj. 
-- occupation n. 
-- occupy v. 
-- occurrence n. 
-- odds n. 
-- offender n. 
-- offering n. 
-- offspring n. 
-- ongoing adj. 
-- openly adv. 
-- opera n. 
-- operational adj. 
-- operator n. 
-- opt v. 
-- optical adj. 
-- optimism n. 
-- optimistic adj. 
-- oral adj. 
-- orchestra n. 
-- organic adj. 
-- organizational adj. 
-- orientation n. 
-- originate v. 
-- outbreak n. 
-- outfit n. 
-- outing n. 
-- outlet n. 
-- outlook n. 
-- output n. 
-- outrage n., v. 
-- outsider n. 
-- outstanding adj. 
-- overcome v. 
-- overlook v. 
-- overly adv. 
-- overnight adv. 
-- overseas adv., adj. 
-- oversee v. 
-- overturn v. 
-- overwhelm v. 
-- overwhelming adj. 
-- ownership n. 
-- oxygen n. 
+- obesity n. 肥胖症
+- objection n. 反对
+- oblige v. 迫使
+- observer n. 观察者
+- obsess v. 痴迷
+- obsession n. 痴迷
+- obstacle n. 障碍物
+- occasional adj. 偶尔
+- occupation n. 职业
+- occupy v. 占据
+- occurrence n. 发生
+- odds n. 赔率
+- offender n. 犯罪
+- offering n. 提供
+- offspring n. 后代
+- ongoing adj. 正在进行的
+- openly adv. 公开的
+- opera n. 歌剧
+- operational adj. 运作
+- operator n. 操作员
+- opt v. 选择
+- optical adj. 光学
+- optimism n. 乐观
+- optimistic adj. 乐观的
+- oral adj. 口头
+- orchestra n. 乐团
+- organic adj. 有机的
+- organizational adj. 组织
+- orientation n.方向 
+- originate v. 发起
+- outbreak n. 爆发
+- outfit n. 装备
+- outing n. 外面
+- outlet n. 出口
+- outlook n. 观点
+- output n. 输出
+- outrage n., v. 愤怒
+- outsider n. 外来者
+- outstanding adj. 优秀的
+- overcome v. 克服
+- overlook v. 俯瞰
+- overly adv. 过度
+- overnight adv. 过夜
+- overseas adv., adj. 海外
+- oversee v. 监督
+- overturn v. 翻倒
+- overwhelm v. 压倒性
+- overwhelming adj. 压倒性的
+- ownership n. 所有权
+- oxygen n. 氧气
 
 ### P
 
