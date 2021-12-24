@@ -1368,166 +1368,166 @@
 
 ### P
 
-- packet n. 
-- pad n. 
-- palm n. 
-- panic n. 
-- parade n. 
-- parallel adj., n. 
-- parameter n. 
-- parental adj. 
-- parish n. 
-- parliamentary adj. 
-- partial adj. 
-- partially adv. 
-- participation n. 
-- partnership n. 
-- part-time adj./adv. 
-- passing n. 
-- passionate adj. 
-- passive adj. 
-- password n. 
-- pastor n. 
-- patch n. 
-- patent n. 
-- pathway n. 
-- patience n. 
-- patrol n., v. 
-- patron n. 
-- pause v., n. 
-- peak n. 
-- peasant n. 
-- peculiar adj. 
-- peer n. 
-- penalty n. 
-- perceive v. 
-- perception n. 
-- permanently adv. 
-- persist v. 
-- persistent adj. 
-- personnel n. 
-- petition n. 
-- philosopher n. 
-- philosophical adj. 
-- physician n. 
-- pill n. 
-- pioneer n., v. 
-- pipeline n. 
-- pirate n. 
-- pit n. 
-- pity n. 
-- placement n. 
-- plea n. 
-- plead v. 
-- pledge v., n. 
-- plug v., n. 
-- plunge v. 
-- pole n. 
-- poll n. 
-- pond n. 
-- pop v. 
-- portfolio n. 
-- portion n. 
-- portray v. 
-- postpone v. 
-- post-war adj. 
-- potentially adv. 
-- practitioner n. 
-- preach v. 
-- precede v. 
-- precedent n. 
-- precious adj. 
-- precise adj. 
-- precisely adv. 
-- precision n. 
-- predator n. 
-- predecessor n. 
-- predictable adj. 
-- predominantly adv. 
-- preference n. 
-- pregnancy n. 
-- prejudice n. 
-- preliminary adj. 
-- premier n. 
-- premise n. 
-- premium n. 
-- prescribe v. 
-- prescription n. 
-- presently adv. 
-- preservation n. 
-- preside v. 
-- presidency n. 
-- presidential adj. 
-- prestigious adj. 
-- presumably adv. 
-- presume v. 
-- prevail v. 
-- prevalence n. 
-- prevention n. 
-- prey n. 
-- pride n. 
-- primarily adv. 
-- principal adj. , n. 
-- prior adj. 
-- privatization n. 
-- privilege n. 
-- probability n. 
-- probable adj. 
-- probe n., v. 
-- problematic adj. 
-- proceed v. 
-- proceedings n. 
-- proceeds n. 
-- processing n. 
-- processor n. 
-- proclaim v. 
-- productive adj. 
-- productivity n. 
-- profitable adj. 
-- profound adj. 
-- programming n. 
-- progressive adj. 
-- prohibit v. 
-- projection n. 
-- prominent adj. 
-- promising adj. 
-- promotion n. 
-- prompt v. 
-- pronounced adj. 
-- propaganda n. 
-- proportion n. 
-- proposition n. 
-- prosecute v. 
-- prosecution n. 
-- prosecutor n. 
-- prospective adj. 
-- prosperity n. 
-- protective adj. 
-- protein n. 
-- protester n. 
-- protocol n. 
-- province n. 
-- provincial adj. 
-- provision n. 
-- provoke v. 
-- psychiatric adj. 
-- psychological adj. 
-- publicity n. 
-- publishing n. 
-- pulse n. 
-- pump v., n. 
-- punch n., v. 
-- punk n. 
-- purely adv. 
-- pursuit n. 
-- puzzle n. 
+- packet n. 包
+- pad n. 垫
+- palm n. 棕榈
+- panic n. 恐慌
+- parade n. 游行
+- parallel adj., n. 平行
+- parameter n. 参数
+- parental adj. 父母
+- parish n. 教区
+- parliamentary adj. 议会
+- partial adj. 部分
+- partially adv. 部分
+- participation n. 参与
+- partnership n. 伙伴关系
+- part-time adj./adv. 兼职
+- passing n. 通过
+- passionate adj. 热情的
+- passive adj. 被动
+- password n. 密码
+- pastor n. 牧师
+- patch n. 补丁
+- patent n. 专利
+- pathway n. 路径
+- patience n. 耐心
+- patrol n., v. 巡逻
+- patron n. 赞助人
+- pause v., n. 暂停
+- peak n. 峰值
+- peasant n. 农民
+- peculiar adj. 特殊的
+- peer n. 同行
+- penalty n. 惩罚
+- perceive v. 感知
+- perception n. 知觉
+- permanently adv. 永久
+- persist v. 坚持
+- persistent adj. 持久的
+- personnel n. 人员
+- petition n. 请愿书
+- philosopher n. 哲学家
+- philosophical adj. 哲学的
+- physician n. 医师
+- pill n. 药丸
+- pioneer n., v. 先驱
+- pipeline n. 管道
+- pirate n. 海盗
+- pit n. 坑
+- pity n. 可惜
+- placement n. 安置
+- plea n. 恳求
+- plead v. 辩护
+- pledge v., n. 承诺
+- plug v., n. 插头
+- plunge v. 暴跌
+- pole n. 极点
+- poll n. 民意调查
+- pond n. 池塘
+- pop v. 流行
+- portfolio n. 投资组合
+- portion n. 部分
+- portray v. 描绘
+- postpone v. 推迟
+- post-war adj. 战后
+- potentially adv. 潜在的
+- practitioner n. 实践者
+- preach v. 说教
+- precede v. 在...之前
+- precedent n. 先例
+- precious adj. 珍贵的
+- precise adj. 精确的
+- precisely adv. 准确地说
+- precision n. 精度
+- predator n. 捕食者
+- predecessor n. 前任
+- predictable adj. 可预测的
+- predominantly adv. 主要是
+- preference n. 偏好
+- pregnancy n. 怀孕
+- prejudice n. 偏见
+- preliminary adj. 初步
+- premier n. 总理
+- premise n. 前提
+- premium n. 溢价
+- prescribe v. 规定
+- prescription n. 处方
+- presently adv. 目前
+- preservation n. 保存
+- preside v. 主持
+- presidency n. 总统
+- presidential adj. 总统
+- prestigious adj. 有声望的
+- presumably adv. 大概是
+- presume v. 假设
+- prevail v. 盛行
+- prevalence n. 流行率
+- prevention n. 预防
+- prey n. 猎物
+- pride n. 骄傲
+- primarily adv. 主要是
+- principal adj. , n. 校长
+- prior adj. 先前
+- privatization n. 私有化
+- privilege n. 特权
+- probability n. 概率
+- probable adj. 可能是
+- probe n., v. 探针
+- problematic adj. 有问题的
+- proceed v. 继续
+- proceedings n. 诉讼程序
+- proceeds n. 收益
+- processing n. 处理
+- processor n. 处理器
+- proclaim v. 宣告
+- productive adj. 生产性的
+- productivity n. 生产力
+- profitable adj. 有利可图的
+- profound adj. 深刻的
+- programming n. 编程
+- progressive adj. 进步的
+- prohibit v. 禁止
+- projection n. 投影
+- prominent adj. 突出的
+- promising adj. 有希望的
+- promotion n. 促销
+- prompt v. 提示
+- pronounced adj. 发音
+- propaganda n. 宣传
+- proportion n. 比例
+- proposition n. 命题
+- prosecute v. 起诉
+- prosecution n. 起诉
+- prosecutor n. 检察官
+- prospective adj. 预期的
+- prosperity n. 繁荣
+- protective adj. 保护性的
+- protein n. 蛋白质
+- protester n. 抗议者
+- protocol n. 协议
+- province n. 省
+- provincial adj. 省级
+- provision n. 规定
+- provoke v. 挑起
+- psychiatric adj. 精神病
+- psychological adj. 心理
+- publicity n. 宣传
+- publishing n. 出版
+- pulse n. 脉冲
+- pump v., n. 泵、抽水
+- punch n., v. 冲孔
+- punk n. 朋克
+- purely adv. 纯粹的
+- pursuit n. 追求
+- puzzle n. 拼图
 
 ### Q
 
-- query n. 
-- quest n. 
-- questionnaire n. 
-- quota n. 
+- query n. 查询
+- quest n. 追求
+- questionnaire n. 问卷
+- quota n. 配额
 
 ### R
 
