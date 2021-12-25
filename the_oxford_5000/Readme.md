@@ -1531,136 +1531,136 @@
 
 ### R
 
-- racial adj. 
-- racism n. 
-- racist adj., n. 
-- radar n. 
-- radiation n. 
-- radical adj. 
-- rage n. 
-- raid n., v. 
-- rail n. 
-- rally n., v. 
-- random adj. 
-- ranking n. 
-- rape n., v. 
-- rat n. 
-- rating n. 
-- ratio n. 
-- rational adj. 
-- ray n. 
-- readily adv. 
-- realization n. 
-- realm n. 
-- rear adj., n. 
-- reasonably adv. 
-- reasoning n. 
-- reassure v. 
-- rebel n. 
-- rebellion n. 
-- rebuild v. 
-- receiver n. 
-- recession n. 
-- recipient n. 
-- reckon v. 
-- recognition n. 
-- reconstruction n. 
-- recount1 v. 
-- recovery n. 
-- recruit v., n. 
-- recruitment n. 
-- referee n. 
-- referendum n. 
-- reflection n. 
-- reform n., v. 
-- refuge n. 
-- refugee n. 
-- refusal n. 
-- regain v. 
-- regardless adv. 
-- regime n. 
-- registration n. 
-- regulate v. 
-- regulator n. 
-- regulatory adj. 
-- rehabilitation n. 
-- reign n., v. 
-- reinforce v. 
-- rejection n. 
-- relevance n. 
-- reliability n. 
-- relieve v. 
-- relieved adj. 
-- reluctant adj. 
-- remainder n. 
-- remains n. 
-- remarkable adj. 
-- remarkably adv. 
-- remedy n. 
-- reminder n. 
-- removal n. 
-- render v. 
-- renew v. 
-- renowned adj. 
-- rental n. 
-- replacement n. 
-- reportedly adv. 
-- reporting n. 
-- representation n. 
-- reproduce v. 
-- reproduction n. 
-- republic n. 
-- resemble v. 
-- reside v. 
-- residence n. 
-- residential adj. 
-- residue n. 
-- resign v. 
-- resignation n. 
-- resistance n. 
-- resolution n. 
-- respective adj. 
-- respectively adv. 
-- restoration n. 
-- restore v. 
-- restraint n. 
-- restrict v. 
-- restriction n. 
-- resume v. 
-- retail n. 
-- retirement n. 
-- retreat n., v. 
-- retrieve v. 
-- revelation n. 
-- revenge n. 
-- revenue n. 
-- reverse v., n., adj. 
-- revision n. 
-- revival n. 
-- revive v. 
-- revolutionary adj. 
-- rhetoric n. 
-- ridiculous adj. 
-- rifle n. 
-- riot n. 
-- rip v. 
-- risky adj. 
-- ritual n. 
-- rival n., adj. 
-- rob v. 
-- robbery n. 
-- robust adj. 
-- rock v. 
-- rocket n. 
-- rod n. 
-- romance n. 
-- rose n. 
-- rotate v. 
-- rotation n. 
-- roughly adv. 
-- ruin v., n. 
-- ruling n. 
-- rumour n. 
+- racial adj. 种族
+- racism n. 种族主义
+- racist adj., n. 种族主义的
+- radar n. 雷达
+- radiation n. 辐射
+- radical adj. 激进的
+- rage n. 愤怒
+- raid n., v. 袭击
+- rail n. 铁路
+- rally n., v. 拉力赛
+- random adj. 随机
+- ranking n. 排名
+- rape n., v. 强奸
+- rat n. 老鼠
+- rating n. 评级
+- ratio n. 比率
+- rational adj. 理性的
+- ray n. 射线
+- readily adv. 容易地
+- realization n. 实现
+- realm n. 领域
+- rear adj., n. 后部
+- reasonably adv. 合理的
+- reasoning n. 推理
+- reassure v. 放心
+- rebel n. 反叛者
+- rebellion n. 叛乱
+- rebuild v. 重建
+- receiver n. 接收者
+- recession n. 衰退
+- recipient n. 收件人
+- reckon v. 估计
+- recognition n. 承认
+- reconstruction n. 重建
+- recount1 v. 叙事
+- recovery n. 恢复
+- recruit v., n. 招募
+- recruitment n. 招聘
+- referee n. 裁判员
+- referendum n. 公投
+- reflection n. 反射
+- reform n., v. 改革
+- refuge n. 避难所
+- refugee n. 难民
+- refusal n. 拒绝
+- regain v. 重新获得
+- regardless adv. 不管
+- regime n. 制度
+- registration n. 注册
+- regulate v. 调节
+- regulator n. 调节器
+- regulatory adj. 监管
+- rehabilitation n. 康复
+- reign n., v. 统治
+- reinforce v. 加强
+- rejection n. 拒绝
+- relevance n. 相关性
+- reliability n. 可靠性
+- relieve v. 解除
+- relieved adj. 释然的
+- reluctant adj. 不情愿的
+- remainder n. 余数
+- remains n. 仍然是
+- remarkable adj. 非凡的
+- remarkably adv. 不平凡
+- remedy n. 补救措施
+- reminder n. 提醒
+- removal n. 去除
+- render v. 渲染
+- renew v. 更新
+- renowned adj. 著名的
+- rental n. 出租
+- replacement n. 替换
+- reportedly adv. 报道
+- reporting n. 报告
+- representation n. 代表
+- reproduce v. 复制
+- reproduction n. 繁殖
+- republic n. 共和国
+- resemble v. 类似于
+- reside v. 居住
+- residence n. 居住地
+- residential adj. 住宅
+- residue n. 残留物
+- resign v. 辞职
+- resignation n. 辞职
+- resistance n. 阻力
+- resolution n. 决议
+- respective adj. 各自的
+- respectively adv. 各别
+- restoration n. 恢复
+- restore v. 恢复
+- restraint n. 克制
+- restrict v. 限制
+- restriction n. 限制
+- resume v. 简历
+- retail n. 零售
+- retirement n. 退休
+- retreat n., v. 撤退
+- retrieve v. 检索
+- revelation n. 启示
+- revenge n. 报复
+- revenue n. 收入
+- reverse v., n., adj. 反向
+- revision n. 修订版
+- revival n. 复兴
+- revive v. 复兴
+- revolutionary adj. 革命的
+- rhetoric n. 修辞
+- ridiculous adj. 荒谬的
+- rifle n. 步枪
+- riot n. 暴动
+- rip v. 裂痕
+- risky adj. 危险的
+- ritual n. 仪式的
+- rival n., adj. 竞争者
+- rob v. 罗布
+- robbery n. 抢劫
+- robust adj. 健壮的
+- rock v. 岩石
+- rocket n. 火箭
+- rod n. 杆
+- romance n. 浪漫
+- rose n. 玫瑰
+- rotate v. 旋转
+- rotation n. 旋转
+- roughly adv. 大致
+- ruin v., n. 毁灭
+- ruling n. 裁决
+- rumour n. 谣言
 
 ### S
 
