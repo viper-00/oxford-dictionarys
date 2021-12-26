@@ -1664,211 +1664,220 @@
 
 ### S
 
-- sack v. 
-- sacred adj. 
-- sacrifice n., v. 
-- saint n. 
-- sake n. 
-- sanction n. 
-- satisfaction n. 
-- say n.
-- scandal n. 
-- scare v., n. 
-- scattered adj.  scenario n.  sceptical adj. 
-- scholar n. 
-- scholarship n. 
-- scope n. 
-- scratch v., n. 
-- screening n. 
-- screw v., n. 
-- scrutiny n. 
-- seal v., n.  secular adj.  seeker n.  seemingly adv.  segment n. 
-- seize v. 
-- seldom adv. 
-- selective adj.
-- seminar n. 
-- senator n. 
-- sensation n. 
-- sensitivity n. 
-- sentiment n. 
-- separation n. 
-- serial adj. 
-- settlement n. 
-- settler n.  set-up n. 
-- severely adv. 
-- sexuality n.
-- sexy adj. 
-- shaped adj. 
-- shareholder n.
-- shatter v. 
-- shed v. 
-- sheer adj. 
-- shipping n.
-- shocking
-- adj. 
-- shoot n. 
-- shore n. 
-- shortage n. 
-- shortly adv.  short-term adj. 
-- shrink v. 
-- shrug v.
-- sibling n.  sigh v., n. 
-- signature n. 
-- significance n. 
-- simulate v. 
-- simulation n. 
-- simultaneously adv. 
-- sin n.  situated adj. 
-- sketch n. 
-- skilled adj. 
-- skip v. 
-- skull n. 
-- slam v. 
-- slap v. 
-- slash v.
-- slavery n. 
-- slogan n. 
-- slot n. 
-- smash v. 
-- snap v. 
-- soak v. 
-- soar v. 
-- so-called adj. 
-- socialist adj. 
-- sole adj. 
-- solely adv. 
-- solicitor n. 
-- solidarity n. 
-- solo adj., n. 
-- somehow adv. 
-- sometime adv. 
-- sophisticated adj. 
-- sound adj. 
-- sovereignty n. 
-- spam n. 
-- span v., n. 
-- spare adj. , v. 
-- spark v. 
-- specialize v. 
-- specialized adj. 
-- specification n. 
-- specify v. 
-- specimen n. 
-- spectacle n. 
-- spectacular adj. 
-- spectator n. 
-- spectrum n. 
-- speculate v. 
-- speculation n. 
-- spell n. 
-- sphere n. 
-- spice n. 
-- spill v. 
-- spin v., n. 
-- spine n. 
-- spite n. 
-- spoil v. 
-- spokesman n. 
-- spokesperson n. 
-- spokeswoman n. 
-- sponsorship n. 
-- sporting adj. 
-- spotlight n. 
-- spouse n. 
-- spy n., v. 
-- squad n. 
-- squeeze v. 
-- stab v. 
-- stability n. 
-- stabilize v. 
-- stake n. 
-- stall n. 
-- stance n. 
-- standing adj. 
-- stark adj. 
-- starve v. 
-- statistical adj. 
-- steadily adv. 
-- steam n. 
-- steer v. 
-- stem n., v. 
-- stereotype n. 
-- stimulate v. 
-- stimulus n. 
-- stir v. 
-- storage n. 
-- straightforward adj. 
-- strain n. 
-- strand n. 
-- strategic adj. 
-- strengthen v. 
-- strictly adv. 
-- striking adj. 
-- strip (long narrow piece) n. 
-- strip (remove clothes/a layer) v. 
-- strive v. 
-- stroke n. 
-- structural adj. 
-- stumble v. 
-- stun v.
-- stunning adj. 
-- submission n. 
-- subscriber n. 
-- subscription n. 
-- subsequent adj. 
-- subsequently adv. 
-- subsidy n. 
-- substantial adj. 
-- substantially adv. 
-- substitute n., v. 
-- substitution n. 
-- subtle adj. 
-- suburb n.
-- suburban adj. 
-- succession n. 
-- successive adj. 
-- successor n. 
-- suck v. 
-- sue v. 
-- suffering n. 
-- sufficient adj. 
-- sufficiently adv. 
-- suicide n. 
-- suite n. 
-- summit n. 
-- super adj. 
-- superb adj. 
-- superior adj. 
-- supervise v. 
-- supervision n. 
-- supervisor n. 
-- supplement n., v. 
-- supportive adj. 
-- supposedly adv. 
-- suppress v. 
-- supreme adj. 
-- surge n., v. 
-- surgeon n. 
-- surgical adj. 
-- surplus n. 
-- surrender v. 
-- surveillance n. 
-- survival n. 
-- survivor n. 
-- suspend v. 
-- suspension n. 
-- suspicion n. 
-- suspicious adj. 
-- sustain v. 
-- sustainable adj. 
-- swallow v. 
-- swing v., n. 
-- sword n. 
-- symbolic adj. 
-- sympathetic adj. 
-- syndrome n. 
-- synthesis n. 
-- systematic adj. 
+- sack v. 解雇
+- sacred adj. 神圣的
+- sacrifice n., v. 牺牲
+- saint n. 圣人
+- sake n. 清酒
+- sanction n. 制裁
+- satisfaction n. 满意
+- say n.说
+- scandal n. 丑闻
+- scare v., n. 恐吓
+- scattered adj. 分散的
+- scenario n.  情景
+- sceptical adj. 怀疑的
+- scholar n. 学者
+- scholarship n. 奖学金
+- scope n. 范围
+- scratch v., n. 划痕
+- screening n. 筛选
+- screw v., n. 螺丝
+- scrutiny n. 审查
+- seal v., n.  密封
+- secular adj. 世俗的 
+- seeker n. 寻求着
+- seemingly adv. 似乎
+- segment n. 段
+- seize v. 抓住
+- seldom adv. 很少
+- selective adj. 选择性的
+- seminar n. 研讨会
+- senator n. 参议员
+- sensation n. 感觉
+- sensitivity n. 敏感性
+- sentiment n. 情绪
+- separation n. 分离
+- serial adj. 系列
+- settlement n. 定居点
+- settler n. 定居者
+- set-up n. 设置
+- severely adv. 严重的
+- sexuality n. 性行为
+- sexy adj. 性感的
+- shaped adj. 成形的
+- shareholder n. 股东
+- shatter v. 粉碎
+- shed v. 棚
+- sheer adj. 纯粹的
+- shipping n. 航运
+- shocking adj. 令人震惊的 
+- shoot n. 射击
+- shore n. 海岸
+- shortage n. 短缺
+- shortly adv. 不久
+- short-term adj. 短期
+- shrink v. 收缩
+- shrug v. 耸
+- sibling n. 兄弟
+- sigh v., n.叹气
+- signature n. 签名
+- significance n. 重要性
+- simulate v. 模拟
+- simulation n. 模拟
+- simultaneously adv. 同时
+- sin n. 罪过
+- situated adj. 位于的
+- sketch n. 草图
+- skilled adj. 熟练的
+- skip v. 跳过
+- skull n. 头骨
+- slam v. 大满贯
+- slap v. 巴掌
+- slash v. 斜线
+- slavery n. 奴隶制
+- slogan n. 口号
+- slot n. 插槽
+- smash v. 粉碎
+- snap v. 快照
+- soak v. 浸泡
+- soar v. 翱翔
+- so-called adj. 所谓的
+- socialist adj. 社会主义
+- sole adj. 唯一的
+- solely adv. 纯粹的
+- solicitor n. 律师
+- solidarity n. 团结一致
+- solo adj., n. 独奏
+- somehow adv. 不知何故
+- sometime adv. 有时
+- sophisticated adj. 复杂的 
+- sound adj. 声音
+- sovereignty n. 主权
+- spam n. 垃圾邮件
+- span v., n. 跨度
+- spare adj., v. 备用
+- spark v. 火花
+- specialize v. 专门
+- specialized adj. 专门的
+- specification n. 规范
+- specify v. 指定
+- specimen n. 标本
+- spectacle n. 奇观
+- spectacular adj. 壮观的
+- spectator n. 傍观者
+- spectrum n. 频谱
+- speculate v. 推测
+- speculation n. 投机
+- spell n. 拼写
+- sphere n. 球体
+- spice n. 香料
+- spill v. 溢出
+- spin v., n. 旋转
+- spine n. 脊柱
+- spite n. 尽管
+- spoil v. 破坏
+- spokesman n. 发言人
+- spokesperson n. 发言人
+- spokeswoman n. 女发言人
+- sponsorship n. 赞助
+- sporting adj. 运动
+- spotlight n. 聚光灯
+- spouse n. 配偶
+- spy n., v. 间谍
+- squad n. 小队
+- squeeze v. 挤压
+- stab v. 刺
+- stability n. 稳定性
+- stabilize v. 稳定
+- stake n. 堵住
+- stall n. 失速
+- stance n. 立场
+- standing adj. 站立
+- stark adj. 鲜明的
+- starve v. 饿死
+- statistical adj. 统计
+- steadily adv. 稳步
+- steam n. 蒸汽
+- steer v. 转向
+- stem n., v. 干
+- stereotype n. 刻板印象
+- stimulate v. 刺激
+- stimulus n. 刺激
+- stir v. 搅拌
+- storage n. 存储
+- straightforward adj. 直接的
+- strain n. 应变
+- strand n. 链
+- strategic adj. 战略
+- strengthen v. 加强
+- strictly adv. 严格的
+- striking adj. 惊人的
+- strip (long narrow piece) n. 条状
+- strip (remove clothes/a layer) v. 剥离
+- strive v. 努力
+- stroke n. 中风
+- structural adj. 结构性的
+- stumble v. 绊倒
+- stun v.晕眩
+- stunning adj. 惊人的
+- submission n. 提交
+- subscriber n. 订户
+- subscription n. 订阅
+- subsequent adj. 随后的
+- subsequently adv. 随后
+- subsidy n. 补贴
+- substantial adj. 大量的
+- substantially adv. 实质上
+- substitute n., v. 替换
+- substitution n. 替代
+- subtle adj. 微妙的
+- suburb n. 郊区
+- suburban adj. 郊区 
+- succession n. 继承
+- successive adj. 连续的
+- successor n. 继任者
+- suck v. 吮吸
+- sue v. 起诉
+- suffering n. 痛苦的
+- sufficient adj. 足够的
+- sufficiently adv. 充分
+- suicide n. 自杀
+- suite n. 套房
+- summit n. 首脑
+- super adj. 超级的
+- superb adj. 极好的
+- superior adj. 优越的
+- supervise v. 监督
+- supervision n. 监督
+- supervisor n. 主管
+- supplement n., v. 补充
+- supportive adj. 支持
+- supposedly adv. 据说
+- suppress v. 压制
+- supreme adj. 至高无上的
+- surge n., v. 浪涌
+- surgeon n. 外科医生
+- surgical adj. 外科手术
+- surplus n. 多余的
+- surrender v. 投降
+- surveillance n. 监视
+- survival n. 生存
+- survivor n. 幸存者
+- suspend v. 暂停
+- suspension n. 暂停
+- suspicion n. 怀疑
+- suspicious adj. 可疑的
+- sustain v. 维持
+- sustainable adj. 可持续的
+- swallow v. 吞下
+- swing v., n. 摇摆
+- sword n. 剑
+- symbolic adj. 象征性的
+- sympathetic adj. 同情的
+- syndrome n. 综合征
+- synthesis n. 综合
+- systematic adj. 系统的
 
 ### T
 
