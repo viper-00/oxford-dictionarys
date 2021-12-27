@@ -1881,142 +1881,142 @@
 
 ### T
 
-- tackle v. , n. 
-- tactic n. 
-- tactical adj. 
-- tag n., v. 
-- tap v., n. 
-- taxpayer n. 
-- technological adj. 
-- teens n. 
-- temple n. 
-- temporarily adv. 
-- tempt v. 
-- tenant n. 
-- tendency n. 
-- tender adj. 
-- tension n. 
-- tenure n. 
-- terminal n , adj. 
-- terminate v. 
-- terms n. 
-- terrain n. 
-- terribly adv. 
-- terrific adj. 
-- terrify v. 
-- territory n. 
-- terror n. 
-- terrorism n. 
-- terrorist n. 
-- testify v. 
-- testimony n. 
-- testing n. 
-- textbook n. 
-- texture n. 
-- thankfully adv. 
-- theatrical adj. 
-- theft n.
-- theology n. 
-- theoretical adj. 
-- therapist n. 
-- thereafter adv. 
-- thereby adv. 
-- thesis n. 
-- thorough adj. 
-- thoroughly adv. 
-- thoughtful adj. 
-- thought-provoking adj. 
-- thread n. 
-- threshold n. 
-- thrilled adj. 
-- thrive v. 
-- thumb n. 
-- tide n. 
-- tighten v. 
-- timber n. 
-- timely adj. 
-- timing n. 
-- tissue n. 
-- tobacco n. 
-- tolerance n. 
-- tolerate v. 
-- toll n. 
-- ton n. 
-- tonne n. 
-- top v. 
-- torture n., v. 
-- toss v. 
-- total v. 
-- tournament n. 
-- toxic adj. 
-- trace v. , n. 
-- trademark n. 
-- trading n. 
-- tragedy n. 
-- tragic adj., 
-- trail n., v. 
-- trailer n. 
-- trait n. 
-- transaction n. 
-- transcript n. 
-- transformation n. 
-- transit n. 
-- transmission n. 
-- transmit v. 
-- transparency n. 
-- transparent adj. 
-- transportation n. 
-- trap v., n. 
-- trauma n. 
-- treasure n. 
-- treaty n. 
-- tremendous adj. 
-- tribal adj. 
-- tribe n. 
-- tribunal n. 
-- tribute n. 
-- trigger v. , n. 
-- trillion number 
-- trio n. 
-- triumph n. 
-- troop n. 
-- trophy n. 
-- troubled adj. 
-- trustee n. 
-- tsunami n. 
-- tuition n. 
-- turnout n. 
-- turnover n. 
-- twist v., n. 
+- tackle v., n. 抓住
+- tactic n. 战术
+- tactical adj. 战术
+- tag n., v. 标签
+- tap v., n. 点击
+- taxpayer n. 纳税人
+- technological adj. 技术
+- teens n. 青少年
+- temple n. 寺庙
+- temporarily adv. 临时
+- tempt v. 诱惑
+- tenant n. 租户
+- tendency n. 趋势
+- tender adj. 投标
+- tension n. 张力
+- tenure n. 任期
+- terminal n , adj. 终端
+- terminate v. 终止
+- terms n. 术语
+- terrain n. 地形
+- terribly adv. 可怕的
+- terrific adj. 了不起的
+- terrify v. 吓坏了
+- territory n. 领土
+- terror n. 恐怖
+- terrorism n. 恐怖分子
+- terrorist n. 恐怖分子
+- testify v. 作证
+- testimony n. 证词
+- testing n. 测试
+- textbook n. 教科书
+- texture n. 质地
+- thankfully adv. 谢天谢地
+- theatrical adj. 戏剧性的
+- theft n.盗窃
+- theology n. 神学
+- theoretical adj. 理论
+- therapist n. 治疗师
+- thereafter adv. 此后
+- thereby adv. 从而
+- thesis n. 论文
+- thorough adj. 彻底的
+- thoroughly adv. 彻底
+- thoughtful adj. 周到的
+- thought-provoking adj. 发人深省的
+- thread n. 线程
+- threshold n. 阈值
+- thrilled adj. 激动的
+- thrive v. 茁壮成长
+- thumb n. 拇指
+- tide n. 潮汐
+- tighten v. 收紧
+- timber n. 木材
+- timely adj. 及时的
+- timing n. 计时
+- tissue n. 组织
+- tobacco n. 烟草
+- tolerance n. 宽容
+- tolerate v. 容忍
+- toll n. 通行费
+- ton n. 吨
+- tonne n. 吨
+- top v. 顶部
+- torture n., v. 酷刑
+- toss v. 扔
+- total v. 总
+- tournament n. 锦标赛
+- toxic adj. 有毒的
+- trace v., n. 跟踪
+- trademark n. 商标
+- trading n. 交易
+- tragedy n. 悲剧
+- tragic adj., 悲惨的
+- trail n., v. 踪迹
+- trailer n. 拖车
+- trait n. 特性
+- transaction n. 交易
+- transcript n. 成绩单
+- transformation n. 转换
+- transit n. 过境
+- transmission n. 传播
+- transmit v. 传播
+- transparency n. 透明度
+- transparent adj. 透明的
+- transportation n. 运输
+- trap v., n. 陷阱
+- trauma n. 创伤
+- treasure n. 珍宝
+- treaty n. 条约
+- tremendous adj. 巨大的
+- tribal adj. 部落的
+- tribe n. 部落
+- tribunal n. 法庭
+- tribute n. 贡品
+- trigger v., n. 触发
+- trillion number 万亿数
+- trio n. 三重奏
+- triumph n. 胜利
+- troop n. 部队
+- trophy n. 奖杯
+- troubled adj. 麻烦的
+- trustee n. 受托人
+- tsunami n. 海啸
+- tuition n. 学费
+- turnout n. 投票率
+- turnover n. 营业额
+- twist v., n. 扭曲
 
 ### U
 
-- ultimate adj. 
-- unacceptable adj. 
-- uncertainty n. 
-- undergo v. 
-- undergraduate n. 
-- underlying adj. 
-- undermine v. 
-- undertake v. 
-- undoubtedly adv. 
-- unfold v. 
-- unfortunate adj. 
-- unify v. 
-- unite v. 
-- unity n. 
-- universal adj. 
-- unprecedented adj. 
-- unveil v. 
-- upcoming adj. 
-- upgrade v., n. 
-- uphold v. 
-- urgent adj. 
-- usage n. 
-- useless adj. 
-- utility n. 
-- utilize v. 
-- utterly adv. 
+- ultimate adj. 终极
+- unacceptable adj. 不可接受的
+- uncertainty n. 不确定性
+- undergo v. 经历
+- undergraduate n. 本科生
+- underlying adj. 基础
+- undermine v. 破坏
+- undertake v. 承担
+- undoubtedly adv. 毫无疑问
+- unfold v. 展开
+- unfortunate adj. 不幸的
+- unify v. 统一
+- unite v. 团结
+- unity n. 统一
+- universal adj. 普遍的
+- unprecedented adj. 前所未有的
+- unveil v. 揭开
+- upcoming adj. 即将带来的
+- upgrade v., n. 升级
+- uphold v. 坚持
+- urgent adj. 紧急的
+- usage n. 用法
+- useless adj. 无用的
+- utility n. 效用
+- utilize v. 利用
+- utterly adv. 完全
 
 ### V
 
