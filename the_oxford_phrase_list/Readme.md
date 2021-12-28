@@ -1,0 +1,1025 @@
+# The Oxford Phrase List
+
+这是哈佛学院提供的750个常用语句，在A1到C1等级之间，涵盖了习语、动词短语、化合物、搭配、介词短语和其他常用固定短语。
+
+以下是中英文对照，方便学生日常记忆。
+
+## A1
+
+- a few 一些
+- a few minutes 几分钟
+- a few times 几次
+- a few years 一些年
+- a good idea 一个好主意
+- Good idea! 好主意
+- It’s a good idea to… 这是个好主意
+- That’s a good idea! 这是一个好主意
+- agree with sb 同意某人
+- a little 一点
+- a little help 一点帮助
+- a little money 一些钱
+- a little sugar 少许糖
+- a lot 很多
+- a lot to do 很多事情需要完成
+- a lot of sth 很多...
+- all day 一整天
+- all night 整夜
+- all over the world 世界各地的
+- anything else 还要别的吗
+- anyone else 还有谁
+- a period of time 一段时间
+- around the world 世界各地
+- arrive at… 到达
+- arrive in… 到达
+- ask for sth 求某事
+- at home 在家
+- at school 在学校
+- at the beginning of sth 在某事开始时
+- at the end 在最后
+- at the end of sth 在某事结束后
+- at the moment 眼下
+- at the same time 同时
+- at the weekend 在周末
+- at university 在大学
+- at work 工作中
+- away from sb/sth 远离某人/某事
+- bad for sb/sth 对某人/某事不利
+- bad news 坏消息
+- bad thing 坏事
+- the bad things about sth 关于某事的坏事
+- because of 因为
+- begin with sth 从某事开始
+- be going to do sth 要做某事
+- best friend 最好的朋友
+- black and white 黑和白
+- car park 停车场
+- cell phone 手机
+- city centre 市中心
+- in the city centre 在市中心
+- come from… 来自
+- come into sth 进入某事
+- He came into the room 他进入了房间
+- differences between A and B A和B之间的差异
+- difficult for sb 对某人来说很难
+- it is difficult for sb to do sth 某人很难做某事
+- each other 彼此
+- end in sth 以某事结束
+- every day 每天
+- every week 每周
+- every year 每年
+- excuse me 打扰一下
+- family member 家庭成员
+- find out 查出
+- find out about sth 了解某事
+- find out more 了解更多
+- for a long time 需要很长时间
+- a long time 很长时间
+- for a moment 一会儿
+- for example 例如
+- for lunch 午餐
+- for many years 很多年了
+- for the first time 第一次
+- get home 回家
+- get married 结婚了
+- get off 下车
+- get off the bus 下巴士
+- I’m getting off here 我要下车了
+- get on 进行
+- get on the bus 坐上大巴
+- Are you getting on? 你要乘车吗？
+- get ready 做好准备
+- get ready for sth 为某事做好准备
+- get ready to do sth 准备做某事
+- get there 到达那里
+- get to… 到达
+- get up 起床
+- go back 回去
+- go back to… 回到...
+- go home 回家
+- go into sth 进入某事
+- She went into her room 她走进她的房间
+- good at sth
+- good for sb/sth
+- Good morning
+- Good afternoon
+- Good evening
+- good news
+- good thing
+- the good things about sth
+- go out
+- go to bed
+- go to school
+- go to work
+- grow up
+- Guess what…
+- half an hour
+- hard work
+- have fun
+- have got
+- have time
+- have time for sth
+- have time to do sth
+- he or she
+- high school
+- his or her
+- How about…?
+- How are you?
+- How long…?
+- How many…?
+- How much…?
+- How often…?
+- important for sb/sth
+- It is important for sb/sth to do
+- sth
+- I’m sorry
+- in April
+- in July, etc.
+- in bed
+- in class
+- in fact
+- in front of
+- in my opinion
+- in school
+- in space
+- in summer
+- in winter
+- in the centre
+- in the centre of sth
+- in the country
+- I live in the country.
+- the best… in the country
+- in the future
+- in the morning
+- in the afternoon
+- in the evening
+- in the north
+- in the south
+- in the east
+- in the west
+- in the past
+- in the street
+- in the summer
+- in the winter
+- in town
+- it is important to do sth
+- It takes…
+- It takes an hour to get there.
+- kind of sb/sth
+- What kind of music do you
+- like?
+- know how
+- know how to do sth
+- last time
+- the last time
+- last year
+- last month
+- last summer
+- last week
+- last weekend
+- learn how to do sth
+- listen to sb/sth
+- live with sb
+- living room
+- look at sb/sth
+- look for sb/sth
+- look like sb/sth
+- lots of…
+- millions of…
+- mobile phone
+- more than…
+- next time
+- next year
+- next month
+- next week
+- No problem
+- of course
+- Oh no!
+- Oh yes
+- old friend
+- once a…
+- once a month
+- once a week
+- once a year
+- one day
+- on holiday
+- on Monday
+- on Tuesday, etc.
+- on television
+- on the television
+- on the beach
+- on the floor
+- on the internet
+- on the left
+- on the right
+- on the phone
+- be on the phone
+- talk on the phone
+- on TV
+- out of sth
+- over there
+- pay for sth
+- phone call
+- phone number
+- plan for sth
+- make plans for sth
+- What are your plans for
+- next year?
+- play with sb/sth
+- post office
+- pretty good
+- really enjoy
+- I really enjoyed it.
+- really good
+- really like
+- I’d really like to…
+- right now
+- See you
+- See you around
+- See you later
+- See you soon
+- sit down
+- someone else
+- something else
+- speak to sb
+- spend time
+- spend time doing sth
+- spend time with sb
+- stand up
+- stay in
+- stay in a hotel
+- stay in bed
+- I’m staying in tonight.
+- such as
+- swimming pool
+- talk about sb/sth
+- thank you
+- thank you very much
+- that day
+- the 20th century
+- the 21st century
+- the 19th century
+- the next day
+- there is
+- there are
+- there was
+- there were
+- think about sb/sth
+- think of sb/sth
+- This is…
+- This is my dad.
+- this kind of…
+- this morning
+- this afternoon
+- this evening
+- this time
+- this year
+- this summer
+- this weekend
+- thousands of…
+- too long
+- too far
+- too hard
+- too much
+- too many
+- town centre
+- in the town centre
+- TV show
+- wait for sb/sth
+- wake up
+- welcome to sth
+- What about…?
+- work as sth
+- work for sb/sth
+- work hard
+- work together
+- work together for sth
+- work together to do sth
+- work with sb
+- would like
+- I would like…
+- I would like to…
+- Would you like…?
+- X hours a day
+- X times a…
+- X times a day
+- X times a week
+- X years ago
+- X days ago
+- X months ago
+- X weeks ago
+- X years later
+- X days later
+- X minutes later
+- X years old
+- You’re welcome
+
+## A2
+
+- a bit
+- able to do sth
+- a couple of sth
+- add to sth
+- again and again
+- all about…
+- Tell me all about it.
+- all kinds of…
+- all over…
+- all over the world
+- all sorts of…
+- all the time
+- a long time ago
+- a long way
+- a number of sth
+- a large number of sth
+- apply for sth
+- art gallery
+- as a result
+- as a result of sth
+- as part of sth
+- as part of a team
+- as soon as
+- as well
+- as well as sb/sth
+- at first
+- at least
+- at the age of…
+- at the start of sth
+- at the time
+- at that time
+- at the time of sth
+- at the top
+- at the top of sth
+- based on sth
+- be allowed to do sth
+- believe in sb/sth
+- belong to sb
+- belong to sth
+- be made of sth
+- by the end of sth
+- care about sth
+- carry on
+- carry on with sth
+- carry sth out
+- check in
+- check in at…
+- check sth in
+- check out
+- check out of sth
+- climate change
+- close to sb/sth
+- come back
+- Come on!
+- connected to sth
+- connected with sb/sth
+- credit card
+- deal with sb
+- deal with sth
+- depend on sb/sth
+- depend on sb/sth for sth
+- depend on sth
+- do well
+- each one
+- end with sth
+- even more…
+- even more difficult
+- even more exciting
+- everyone else
+- except for
+- fall in love
+- fall in love with sb
+- fall off
+- fall off sth
+- far away
+- feel good
+- feel like sth
+- fill sth in
+- find it difficult to do sth
+- first of all
+- focus on sb/sth
+- followed by sb/sth
+- for the rest of sth
+- for this reason
+- get back
+- get better
+- get lost
+- get out
+- get out of sth
+- give up
+- give sth up
+- go and…
+- go and get help
+- go away
+- go down
+- Prices are going down.
+- go down sth
+- Go down the road.
+- go for sth
+- go for a walk
+- go up
+- Prices are going up.
+- good luck
+- happen to sb/sth
+- happy with sb/sth
+- have a look
+- have a look at sth
+- have got to
+- Have you ever…?
+- health problems
+- hear about sb/sth
+- I don’t care
+- if necessary
+- if you want to
+- I guess
+- I’m afraid…
+- I mean
+- in business
+- in danger
+- in history
+- the first time in history
+- in hospital
+- in love
+- in love with sb
+- in prison
+- in some cases
+- instead of
+- in the air
+- in the end
+- in the middle
+- in the middle of sth
+- in the same way
+- in this way
+- it depends
+- it all depends
+- I think so
+- I don’t think so
+- lead to sth
+- less than…
+- Let me…
+- Let me help you.
+- let me know
+- look after sb/sth/yourself
+- look back at sth
+- Look back at your notes.
+- look sth up
+- make a mistake
+- make money
+- make sense
+- make sure
+- make sure of sth
+- make sure that…
+- much better
+- not at all
+- I didn’t enjoy it at all.
+- no way
+- No way!
+- There is no way (that)…
+- Oh dear
+- Oh well
+- on earth
+- on the ground
+- on the other side
+- on the other side of sth
+- on the wall
+- on time
+- on top of sth/sb
+- one or two
+- ordinary people
+- pay attention
+- pay attention to sb/sth
+- per hour
+- kilometres per hour
+- miles per hour
+- pick sb/sth up
+- police officer
+- police station
+- public transport
+- put sth on
+- quite a lot
+- quite a lot of sth
+- reasons why
+- refer to sb/sth
+- refer to sb/sth as sth
+- report on sth
+- respond to sth/sb
+- save money
+- science fiction
+- search for sth/sb
+- so that…
+- solution to sth
+- sort of sth
+- What sorts of things do you
+- do?
+- sound like sb/sth
+- start with sb/sth
+- such a/an…
+- such a good idea
+- take care of sb/sth/yourself
+- take off
+- take sth off
+- take part
+- take part in sth
+- take place
+- the best thing
+- the best thing to do
+- the first thing
+- the first thing I did
+- the following…
+- the following day
+- the important thing
+- the most important thing
+- the other side of sth
+- the other side of the world
+- the rest of sth
+- the rest of the world
+- these days
+- they say…
+- They say you can’t buy
+- happiness.
+- throw sth away
+- turn sth off
+- turn sth on
+- up and down
+- Why not…?
+- work out
+- worried about sb/sth
+- would love to do sth
+- write sth down
+
+## B1
+
+- a bit more
+- a bit of sth
+- access to sth
+- after all
+- a great deal
+- a great deal better
+- a great deal of sth
+- aim to do sth
+- a kind of…
+- I had a kind of feeling this
+- might happen.
+- a little bit
+- a little more
+- along with sb/sth
+- a lot more
+- alternative to sth
+- and so on
+- apart from
+- a range of sth
+- a wide range of sth
+- as if…
+- as if nothing had happened
+- as much as
+- as soon as possible
+- at last
+- at risk
+- at times
+- attached to sb/sth
+- a variety of sth
+- be about to do sth
+- be going on
+- What’s going on?
+- be known as sb/sth
+- benefit from sth
+- be supposed to do sth
+- be supposed to be sth
+- break up
+- break up with sb
+- by the time (that)…
+- can’t afford sth
+- can’t afford to do sth
+- care for sb
+- caused by sth
+- check sb/sth out
+- choose to do sth
+- clean up
+- clean sth up
+- click on sth
+- come up with sth
+- compared with sth
+- concentrate on sth
+- consist of sb/sth
+- decide on sth
+- depending on
+- developing countries
+- due to sb/sth
+- economic growth
+- end up
+- even if
+- even though
+- exactly the same
+- experience in sth
+- fail to do sth
+- fall asleep
+- far more
+- far more important
+- far more opportunities
+- far too
+- far too much homework
+- fed up
+- for a while
+- for free
+- for instance
+- for life
+- a job for life
+- for long
+- for some time
+- get on with sb
+- get to know sb
+- get used to sth
+- get used to doing sth
+- global warming
+- go ahead
+- go ahead with sth
+- go wrong
+- growth in sth
+- have no idea
+- have sth in common
+- have sth in common with sb
+- have sth in common with sth
+- hear of sb/sth
+- heart disease
+- high street
+- higher education
+- if I were you
+- in addition
+- in addition to sb/sth
+- in a way that...
+- in case…
+- just in case…
+- in charge of sb/sth
+- in contrast
+- in contrast to sb/sth
+- in favour of sb/sth
+- in general
+- in order of sth
+- in order to do sth
+- in other words
+- in particular
+- in public
+- in recent years
+- in response to sth
+- in terms of sth
+- in the case of sth
+- in the form of sb/sth
+- in the way (that)…
+- in this case
+- in time
+- in time for sth
+- in time to do sth
+- in touch
+- be in touch
+- get in touch
+- keep in touch
+- in touch with sb
+- I wonder if…
+- leave sb/sth out
+- likely to do sth
+- look forward to sth
+- look out
+- make a difference
+- make sth up
+- manage to do sth
+- mean to do sth
+- I didn’t mean to.
+- more and more
+- move on
+- move on to sth
+- no longer
+- not any longer
+- no more than…
+- not even
+- I didn’t even see it.
+- not necessarily
+- not only
+- not only… but also…
+- on a regular basis
+- on my own
+- on their own
+- on your own
+- on the other hand
+- on the street
+- on the streets
+- on the way
+- or something
+- or somebody
+- or somewhere
+- or two
+- a day or two
+- a moment or two
+- a pound or two
+- ought to
+- out there
+- over the years
+- over time
+- participate in sth
+- point of view
+- point out
+- point sth out
+- point out that…
+- prepared to do sth
+- primary school
+- prime minister
+- put sth up
+- quite a…
+- quite a good player
+- quite a long time
+- raise money
+- raise money for sth
+- rather than
+- reaction to sth
+- relate to sth/sb
+- relating to sth/sb
+- related to sth/sb
+- respect for sb/sth
+- result in sth
+- rise in sth
+- a rise in the number of visitors
+- run out
+- run out of sth
+- search engine
+- secondary school
+- set sth up
+- slow down
+- so far
+- some kind of…
+- succeed in doing sth
+- suffer from sth
+- sure to do sth
+- take sb/sth on
+- take up sth
+- take up too much room
+- take sth up
+- take up golf
+- tell the truth
+- tend to do sth
+- tend to be sth
+- thanks to sb/sth
+- that’s it
+- the case
+- be the case that…
+- the fact that…
+- those who…
+- There are those who say…
+- to do with sb/sth
+- be to do with sb/sth
+- have to do with sb/sth
+- together with
+- too bad
+- try and…
+- turn out
+- turn out to be sth
+- turn sth up
+- unable to do sth
+- up to sth
+- up to 60 miles per hour
+- way of life
+- well known
+- work on sth
+- work sth out
+- wrong with sb/sth
+- you see
+
+## B2
+
+- a bit of a…
+- account for sth
+- accused of sth
+- act as sth
+- aimed at sb
+- aimed at doing sth
+- all the way
+- a means of sth
+- a means of communication
+- a means of transport
+- appeal to sb
+- apply to sb/sth
+- as a whole
+- as far as I am concerned
+- as follows…
+- as for sb/sth
+- as long as…
+- associated with sth
+- associated with doing sth
+- as though…
+- at once
+- at present
+- at some point
+- at the end of the day
+- at this point
+- at this stage
+- awareness of sth
+- back sb/sth up
+- be charged with sth
+- be charged with doing sth
+- be derived from sth
+- be expected to do sth
+- be known to do sth
+- be made up of sth
+- be surrounded by sb/sth
+- be to blame
+- be to blame for sth
+- both sides
+- both sides of the argument
+- on both sides
+- bound to do sth
+- bound to be sth
+- bring sb up
+- by now
+- call for sth
+- case study
+- come across sb/sth
+- come true
+- a dream come true
+- concerned about sth
+- concerned with sth
+- confidence in sb/sth
+- contribute to sth
+- control over sb/sth
+- cope with sth
+- decline in sth
+- a decline in student numbers
+- dependent on sb/sth
+- despite the fact that…
+- draw attention to sb/sth
+- engage in sth
+- engaged in sth
+- ever since(…)
+- exposure to sth
+- far from sth
+- far from doing sth
+- figure sb/sth out
+- find yourself doing sth
+- get in
+- get into sth
+- The train got in late.
+- get over sth/sb
+- You’ll get over it.
+- get rid of sb/sth
+- go off
+- She went off to get a drink.
+- A bomb went off.
+- The alarm went off.
+- The lights went off.
+- go on to do sth
+- go through sth
+- had better
+- hang on
+- human being
+- human rights
+- if only…
+- I have to say…
+- in action
+- in advance
+- in an attempt to do sth
+- in part
+- in place
+- in relation to sb/sth
+- in spite of sth
+- in the first place
+- in the near future
+- in turn
+- investment in sth
+- I would say...
+- loads of sb/sth
+- mental health
+- more or less
+- no doubt
+- no matter…
+- no matter how…
+- no matter what…
+- nothing but
+- on board
+- once again
+- one another
+- on the basis of sth
+- on the one hand
+- opposed to sth
+- or so
+- other than
+- potential for sth
+- pretty much
+- prior to
+- prove to be sth
+- put sth forward
+- put sth together
+- quality of life
+- ranging from
+- prices ranging from €25 to €60
+- regarded as sth
+- relevant to sb/sth
+- rely on sb/sth
+- role model
+- set out
+- short of sth
+- so as to do sth
+- something like…
+- sort sb/sth/yourself out
+- stick to sth
+- subject to sth
+- sum up
+- sum sth up
+- take advantage of sb/sth
+- take sth into account
+- take over
+- take over from sb
+- that is
+- the vast majority of sth
+- turn into sth
+- up to sb
+- when it comes to sth
+- when it comes to doing sth
+- whether or not…
+- would rather…
+
+## C1
+
+- above all
+- all but
+- all the more
+- as far as sb/sth is concerned
+- as of…
+- as opposed to
+- as such
+- as to sth
+- as to how…
+- as to whether…
+- at the expense of sb/sth
+- at the hands of sb
+- back and forth
+- bear sb/sth in mind
+- bear in mind that…
+- keep sb/sth in mind
+- keep in mind that…
+- be attributed to sb
+- be entitled to sth
+- be found to do sth
+- be meant to do sth
+- be reported to be sth
+- be reported to have sth
+- be said to be sth
+- be said to have sth
+- bring sth about
+- bring sth up
+- by means of sth
+- by no means
+- call on sb
+- call on sb to do sth
+- consistent with sth
+- dedicated to sth
+- deprive sb/sth of sth
+- dispose of sb/sth
+- follow sth up
+- for that matter
+- for the benefit of sb
+- for the sake of sb/sth
+- get away with sth
+- given that…
+- have sb/sth in mind
+- have sb/sth in mind for sth
+- have nothing to do with sb/sth
+- be nothing to do with sb/sth
+- in accordance with sth
+- in any case
+- in a position to do sth
+- in conjunction with sb/sth
+- in connection with sb/sth
+- in effect
+- in full
+- in line with sth
+- in practice
+- in respect of sth
+- in such a way (that)…
+- in the absence of sb/sth
+- in the course of…
+- in the event of sth
+- in the face of sth
+- in the hands of sb
+- in the light of sth
+- in light of sth
+- in the meantime
+- in the midst of sth
+- in the presence of sb
+- in the presence of sth
+- in the wake of sb/sth
+- involvement in sth
+- let alone
+- little more than…
+- live on sth
+- may well
+- nothing like
+- not to mention
+- on behalf of sb
+- on the part of sb
+- over the course of…
+- put it
+- How shall I put it?
+- seek to do sth
+- set to do sth
+- the extent to which…
+- to date
+- his best work to date
+- up against sth
+- with regard to sb/sth
+- with respect to sth
+- with the exception of sb/sth
