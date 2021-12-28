@@ -2020,88 +2020,88 @@
 
 ### V
 
-- vacuum n. 
-- vague adj. 
-- valid adj. 
-- validity n. 
-- vanish v. 
-- variable n., adj. 
-- variation n. 
-- varied adj. 
-- vein n. 
-- venture n., v. 
-- verbal adj. 
-- verdict n. 
-- verify v. 
-- verse n. 
-- versus prep. 
-- vertical adj. 
-- vessel n. 
-- veteran n. 
-- viable adj., 
-- vibrant adj. 
-- vice n. 
-- vicious adj. 
-- viewpoint n. 
-- villager n. 
-- violate v. 
-- violation n. 
-- virtue n. 
-- visa n. 
-- visible adj. 
-- vocal adj. 
-- voluntary adj. 
-- voting n. 
-- vow v. 
-- vulnerability n. 
-- vulnerable adj. 
+- vacuum n. 真空
+- vague adj. 模糊的
+- valid adj. 有效的
+- validity n. 有效性
+- vanish v. 消失
+- variable n., adj. 变量
+- variation n. 变化
+- varied adj. 变化的
+- vein n. 静脉
+- venture n., v. 冒险
+- verbal adj. 口诀
+- verdict n. 判决
+- verify v. 验证
+- verse n. 诗句
+- versus prep. 相对
+- vertical adj. 垂直
+- vessel n. 船只
+- veteran n. 退伍军人
+- viable adj., 可行的
+- vibrant adj. 充满活力的
+- vice n. 副
+- vicious adj. 恶毒的
+- viewpoint n. 观点
+- villager n. 村民
+- violate v. 违反
+- violation n. 违反
+- virtue n. 美德
+- visa n. 签证
+- visible adj. 可见的
+- vocal adj. 声乐
+- voluntary adj. 自愿的
+- voting n. 投票
+- vow v. 誓言
+- vulnerability n. 脆弱性
+- vulnerable adj. 脆弱的
 
 ### W
 
-- wander v. 
-- ward n. 
-- warehouse n. 
-- warfare n. 
-- warming n. 
-- warrant n., v. 
-- warrior n. 
-- weaken v. 
-- weave v. 
-- weed n. 
-- weekly adj. 
-- weird adj. 
-- welfare n. 
-- well n. 
-- well-being n. 
-- whatsoever adv. 
-- wheat n. 
-- whereby adv. 
-- whilst conj. 
-- whip v. 
-- whoever pron. 
-- wholly adv. 
-- widen v. 
-- widespread adj. 
-- widow n. 
-- width n. 
-- willingness n. 
-- wipe v. 
-- wisdom n. 
-- wit n. 
-- withdraw v. 
-- withdrawal n. 
-- workforce n. 
-- workout n. 
-- workplace n. 
-- workshop n. 
-- worm n. 
-- worship n., v. 
-- worthwhile adj. 
-- worthy adj. 
-- wrist n.
+- wander v. 流浪
+- ward n. 病房
+- warehouse n. 仓库
+- warfare n. 战争
+- warming n. 变暖
+- warrant n., v. 保证
+- warrior n. 战士
+- weaken v. 削弱
+- weave v. 编织
+- weed n. 杂草
+- weekly adj. 每周
+- weird adj. 奇怪的
+- welfare n. 福利
+- well n. 好吧
+- well-being n. 幸福
+- whatsoever adv. 任何地
+- wheat n. 小麦
+- whereby adv. 由此
+- whilst conj. 同时
+- whip v. 鞭子
+- whoever pron. 无论是谁
+- wholly adv. 完全
+- widen v. 扩大
+- widespread adj. 广泛的
+- widow n. 寡妇
+- width n. 宽度
+- willingness n. 意愿
+- wipe v. 擦拭
+- wisdom n. 智慧
+- wit n. 机智
+- withdraw v. 撤回
+- withdrawal n. 撤回
+- workforce n. 劳动力
+- workout n. 锻炼
+- workplace n. 工作场所
+- workshop n. 车间
+- worm n. 蠕虫
+- worship n., v. 崇拜
+- worthwhile adj. 值得的
+- worthy adj. 值得的
+- wrist n. 手腕
  
 ### Y
  
-- yell v. 
-- yield n., v. 
-- youngster n. 
+- yell v. 大喊
+- yield n., v. 产量
+- youngster n. 年轻人
