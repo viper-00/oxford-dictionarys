@@ -98,220 +98,217 @@
 - go home 回家
 - go into sth 进入某事
 - She went into her room 她走进她的房间
-- good at sth
-- good for sb/sth
-- Good morning
-- Good afternoon
-- Good evening
-- good news
-- good thing
-- the good things about sth
-- go out
-- go to bed
-- go to school
-- go to work
-- grow up
-- Guess what…
-- half an hour
-- hard work
-- have fun
-- have got
-- have time
-- have time for sth
-- have time to do sth
-- he or she
-- high school
-- his or her
-- How about…?
-- How are you?
-- How long…?
-- How many…?
-- How much…?
-- How often…?
-- important for sb/sth
-- It is important for sb/sth to do
-- sth
-- I’m sorry
-- in April
-- in July, etc.
-- in bed
-- in class
-- in fact
-- in front of
-- in my opinion
-- in school
-- in space
-- in summer
-- in winter
-- in the centre
-- in the centre of sth
-- in the country
-- I live in the country.
-- the best… in the country
-- in the future
-- in the morning
-- in the afternoon
-- in the evening
-- in the north
-- in the south
-- in the east
-- in the west
-- in the past
-- in the street
-- in the summer
-- in the winter
-- in town
-- it is important to do sth
-- It takes…
-- It takes an hour to get there.
-- kind of sb/sth
-- What kind of music do you
-- like?
-- know how
-- know how to do sth
-- last time
-- the last time
-- last year
-- last month
-- last summer
-- last week
-- last weekend
-- learn how to do sth
-- listen to sb/sth
-- live with sb
-- living room
-- look at sb/sth
-- look for sb/sth
-- look like sb/sth
-- lots of…
-- millions of…
-- mobile phone
-- more than…
-- next time
-- next year
-- next month
-- next week
-- No problem
-- of course
-- Oh no!
-- Oh yes
-- old friend
-- once a…
-- once a month
-- once a week
-- once a year
-- one day
-- on holiday
-- on Monday
-- on Tuesday, etc.
-- on television
-- on the television
-- on the beach
-- on the floor
-- on the internet
-- on the left
-- on the right
-- on the phone
-- be on the phone
-- talk on the phone
-- on TV
-- out of sth
-- over there
-- pay for sth
-- phone call
-- phone number
-- plan for sth
-- make plans for sth
-- What are your plans for
-- next year?
-- play with sb/sth
-- post office
-- pretty good
-- really enjoy
-- I really enjoyed it.
-- really good
-- really like
-- I’d really like to…
-- right now
-- See you
-- See you around
-- See you later
-- See you soon
-- sit down
-- someone else
-- something else
-- speak to sb
-- spend time
-- spend time doing sth
-- spend time with sb
-- stand up
-- stay in
-- stay in a hotel
-- stay in bed
-- I’m staying in tonight.
-- such as
-- swimming pool
-- talk about sb/sth
-- thank you
-- thank you very much
-- that day
-- the 20th century
-- the 21st century
-- the 19th century
-- the next day
-- there is
-- there are
-- there was
-- there were
-- think about sb/sth
-- think of sb/sth
-- This is…
-- This is my dad.
-- this kind of…
-- this morning
-- this afternoon
-- this evening
-- this time
-- this year
-- this summer
-- this weekend
-- thousands of…
-- too long
-- too far
-- too hard
-- too much
-- too many
-- town centre
-- in the town centre
-- TV show
-- wait for sb/sth
-- wake up
-- welcome to sth
-- What about…?
-- work as sth
-- work for sb/sth
-- work hard
-- work together
-- work together for sth
-- work together to do sth
-- work with sb
-- would like
-- I would like…
-- I would like to…
-- Would you like…?
-- X hours a day
-- X times a…
-- X times a day
-- X times a week
-- X years ago
-- X days ago
-- X months ago
-- X weeks ago
-- X years later
-- X days later
-- X minutes later
-- X years old
-- You’re welcome
+- good at sth 擅长...
+- good for sb/sth 适合某人/某事
+- Good morning 早上好
+- Good afternoon 下午好
+- Good evening 晚上好
+- good news 好消息
+- good thing 好东西
+- the good things about sth 关于某事的好事
+- go out 出去
+- go to bed 睡觉
+- go to school 上学
+- go to work 去工作
+- grow up 长大
+- Guess what… 你猜怎么着...
+- half an hour 半小时
+- hard work 努力工作
+- have fun 玩得开心
+- have got 有
+- have time 有时间
+- have time for sth 有时间做某事
+- have time to do sth 有时间做某事
+- he or she 他还是她
+- high school 中学
+- his or her 他的还是她的
+- How about…? 怎么样
+- How are you? 你好吗
+- How long…? 多久
+- How many…? 多少
+- How much…? 多少
+- How often…? 多常
+- important for sb/sth 多某人很重要
+- It is important for sb/sth to do sth 做某事很很重要
+- I’m sorry 抱歉
+- in April 在四月份
+- in July, etc. 在七月
+- in bed 在床上
+- in class 在班上
+- in fact 实际上
+- in front of 在...前面
+- in my opinion 在我看来
+- in school 在学校
+- in space 在太空
+- in summer 在夏天
+- in winter 冬天里
+- in the centre 在中心
+- in the centre of sth 在某处的中心
+- in the country 在国内
+- I live in the country. 我住在乡下
+- the best… in the country 国内最好的...
+- in the future 将来
+- in the morning 在早晨
+- in the afternoon 下午
+- in the evening 晚上
+- in the north 在北方
+- in the south 在南方
+- in the east 在东方
+- in the west 在西方
+- in the past 在过去
+- in the street 在街上
+- in the summer 在夏天
+- in the winter 冬天里
+- in town 城里
+- it is important to do sth 做某事很重要
+- It takes… 它需要
+- It takes an hour to get there. 到达那里需要一个小时
+- kind of sb/sth 某种某人/某事
+- What kind of music do you like? 你喜欢哪种音乐？
+- know how 知识
+- know how to do sth 知道如何做某事
+- last time 上次
+- the last time 最后一次
+- last year 去年
+- last month 上个月
+- last summer 上个夏天
+- last week 上星期
+- last weekend 上周末
+- learn how to do sth 学习如何做某事
+- listen to sb/sth 听某人/某事
+- live with sb 和某人住在一起
+- living room 客厅
+- look at sb/sth 看着某人/某事
+- look for sb/sth 寻找某人/某事
+- look like sb/sth 看起来像某人/某事
+- lots of… 很多
+- millions of… 数百万
+- mobile phone 移动电话
+- more than… 多于
+- next time 下次
+- next year 明年
+- next month 写个月
+- next week 下周
+- No problem 没问题
+- of course 当然
+- Oh no! 不好了！
+- Oh yes 哦是的
+- old friend 老朋友
+- once a… 一旦
+- once a month 每月一次
+- once a week 一星期一次
+- once a year 一年一次
+- one day 一天
+- on holiday 在假期
+- on Monday 周一
+- on Tuesday, etc. 周二
+- on television 在电视上
+- on the television 在电视上
+- on the beach 在沙滩上
+- on the floor 在地上
+- on the internet 在互联网上
+- on the left 在左侧
+- on the right 在右侧
+- on the phone 通话中
+- be on the phone 打电话
+- talk on the phone 在电话上说
+- on TV 在电视上
+- out of sth 出于...
+- over there 在那边
+- pay for sth 付钱
+- phone call 电话
+- phone number 电话号码
+- plan for sth 计划某事
+- make plans for sth 为某事做计划
+- What are your plans for next year? 你明年的计划是什么？
+- play with sb/sth 玩某人/某事
+- post office 邮政局
+- pretty good 非常好
+- really enjoy 真的很享受
+- I really enjoyed it. 我真的很喜欢
+- really good 真的很好
+- really like 很喜欢
+- I’d really like to… 我真的很想...
+- right now 现在
+- See you 再见
+- See you around 再见
+- See you later 回头见
+- See you soon 再见
+- sit down 坐下
+- someone else 其他人
+- something else 别的东西
+- speak to sb 与某人交谈
+- spend time 花时间
+- spend time doing sth 花时间做某事
+- spend time with sb 与某人共度时光
+- stand up 站起来
+- stay in 留在
+- stay in a hotel 住旅馆
+- stay in bed 卧床休息
+- I’m staying in tonight. 我今晚住
+- such as 例如
+- swimming pool 游泳池
+- talk about sb/sth 谈论某人/某事
+- thank you 谢谢
+- thank you very much 非常感谢你
+- that day 那天
+- the 20th century 20世纪
+- the 21st century 21世纪
+- the 19th century 19世纪
+- the next day 第二天
+- there is 有
+- there are 有
+- there was 有
+- there were 有
+- think about sb/sth 想想某人/某事
+- think of sb/sth 想想某人/某事
+- This is… 这是...
+- This is my dad. 这是我爸爸
+- this kind of… 这种...
+- this morning 今天早上
+- this afternoon 今天下午
+- this evening 今晚
+- this time 这次
+- this year 今年
+- this summer 这个夏天
+- this weekend 这周末
+- thousands of… 上千的...
+- too long 太长
+- too far 太远
+- too hard 太难
+- too much 太多了
+- too many 太多
+- town centre 镇中心
+- in the town centre 在市中心
+- TV show 电视节目
+- wait for sb/sth 等待某人/某事
+- wake up 醒来
+- welcome to sth 欢迎来到...
+- What about…? 关于什么...?
+- work as sth 做某事
+- work for sb/sth 为某人你/某事工作
+- work hard 努力工作
+- work together 一起工作
+- work together for sth 齐心协力
+- work together to do sth 齐心协力
+- work with sb 与某人合作
+- would like 愿意
+- I would like… 我想...
+- I would like to… 我想...
+- Would you like…? 你愿意吗...?
+- X hours a day 每天几小时
+- X times a… 几次
+- X times a day 每天几次
+- X times a week 每周几次
+- X years ago 几年前
+- X days ago 几天前
+- X months ago 几月前
+- X weeks ago 几周前
+- X years later 几年后
+- X days later 几天后
+- X minutes later 几分钟后
+- X years old 几岁
+- You’re welcome 别客气
 
 ## A2
 
