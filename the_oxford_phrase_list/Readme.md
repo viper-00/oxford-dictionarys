@@ -312,235 +312,233 @@
 
 ## A2
 
-- a bit
-- able to do sth
-- a couple of sth
-- add to sth
-- again and again
-- all about…
-- Tell me all about it.
-- all kinds of…
-- all over…
-- all over the world
-- all sorts of…
-- all the time
-- a long time ago
-- a long way
-- a number of sth
-- a large number of sth
-- apply for sth
-- art gallery
-- as a result
-- as a result of sth
-- as part of sth
-- as part of a team
-- as soon as
-- as well
-- as well as sb/sth
-- at first
-- at least
-- at the age of…
-- at the start of sth
-- at the time
-- at that time
-- at the time of sth
-- at the top
-- at the top of sth
-- based on sth
-- be allowed to do sth
-- believe in sb/sth
-- belong to sb
-- belong to sth
-- be made of sth
-- by the end of sth
-- care about sth
-- carry on
-- carry on with sth
-- carry sth out
-- check in
-- check in at…
-- check sth in
-- check out
-- check out of sth
-- climate change
-- close to sb/sth
-- come back
-- Come on!
-- connected to sth
-- connected with sb/sth
-- credit card
-- deal with sb
-- deal with sth
-- depend on sb/sth
-- depend on sb/sth for sth
-- depend on sth
-- do well
-- each one
-- end with sth
-- even more…
-- even more difficult
-- even more exciting
-- everyone else
-- except for
-- fall in love
-- fall in love with sb
-- fall off
-- fall off sth
-- far away
-- feel good
-- feel like sth
-- fill sth in
-- find it difficult to do sth
-- first of all
-- focus on sb/sth
-- followed by sb/sth
-- for the rest of sth
-- for this reason
-- get back
-- get better
-- get lost
-- get out
-- get out of sth
-- give up
-- give sth up
-- go and…
-- go and get help
-- go away
-- go down
-- Prices are going down.
-- go down sth
-- Go down the road.
-- go for sth
-- go for a walk
-- go up
-- Prices are going up.
-- good luck
-- happen to sb/sth
-- happy with sb/sth
-- have a look
-- have a look at sth
-- have got to
-- Have you ever…?
-- health problems
-- hear about sb/sth
-- I don’t care
-- if necessary
-- if you want to
-- I guess
-- I’m afraid…
-- I mean
-- in business
-- in danger
-- in history
-- the first time in history
-- in hospital
-- in love
-- in love with sb
-- in prison
-- in some cases
-- instead of
-- in the air
-- in the end
-- in the middle
-- in the middle of sth
-- in the same way
-- in this way
-- it depends
-- it all depends
-- I think so
-- I don’t think so
-- lead to sth
-- less than…
-- Let me…
-- Let me help you.
-- let me know
-- look after sb/sth/yourself
-- look back at sth
-- Look back at your notes.
-- look sth up
-- make a mistake
-- make money
-- make sense
-- make sure
-- make sure of sth
-- make sure that…
-- much better
-- not at all
-- I didn’t enjoy it at all.
-- no way
-- No way!
-- There is no way (that)…
-- Oh dear
-- Oh well
-- on earth
-- on the ground
-- on the other side
-- on the other side of sth
-- on the wall
-- on time
-- on top of sth/sb
-- one or two
-- ordinary people
-- pay attention
-- pay attention to sb/sth
-- per hour
-- kilometres per hour
-- miles per hour
-- pick sb/sth up
-- police officer
-- police station
-- public transport
-- put sth on
-- quite a lot
-- quite a lot of sth
-- reasons why
-- refer to sb/sth
-- refer to sb/sth as sth
-- report on sth
-- respond to sth/sb
-- save money
-- science fiction
-- search for sth/sb
-- so that…
-- solution to sth
-- sort of sth
-- What sorts of things do you
-- do?
-- sound like sb/sth
-- start with sb/sth
-- such a/an…
-- such a good idea
-- take care of sb/sth/yourself
-- take off
-- take sth off
-- take part
-- take part in sth
-- take place
-- the best thing
-- the best thing to do
-- the first thing
-- the first thing I did
-- the following…
-- the following day
-- the important thing
-- the most important thing
-- the other side of sth
-- the other side of the world
-- the rest of sth
-- the rest of the world
-- these days
-- they say…
-- They say you can’t buy
-- happiness.
-- throw sth away
-- turn sth off
-- turn sth on
-- up and down
-- Why not…?
-- work out
-- worried about sb/sth
-- would love to do sth
-- write sth down
+- a bit 一点点
+- able to do sth 能做某事
+- a couple of sth 一些...
+- add to sth 添加到某物
+- again and again 一次又一次
+- all about… 所有关于
+- Tell me all about it. 告诉我一切
+- all kinds of… 各类...
+- all over… 周遍
+- all over the world 世界各地的
+- all sorts of… 各种...
+- all the time 每时每刻
+- a long time ago 很久以前
+- a long way 很长的路
+- a number of sth 一些...
+- a large number of sth 大量的...
+- apply for sth 申请某事
+- art gallery 艺术画廊
+- as a result 因此
+- as a result of sth 由于某事
+- as part of sth 作为某事的一部分
+- as part of a team 作为团队的一部分
+- as soon as 立刻
+- as well 还有
+- as well as sb/sth 以及某人/某事
+- at first 首先
+- at least 至少
+- at the age of… 在...的年龄
+- at the start of sth 在某事开始时
+- at the time 当时
+- at that time 当时
+- at the time of sth 在某事的时候
+- at the top 在顶部
+- at the top of sth 在某事的顶部
+- based on sth 基于...
+- be allowed to do sth 被允许做某事
+- believe in sb/sth 相信某人/某事
+- belong to sb 属于某人
+- belong to sth 属于...
+- be made of sth 由某物制成
+- by the end of sth 在某事结束时
+- care about sth 关系某事
+- carry on 继续
+- carry on with sth 继续
+- carry sth out 执行某事
+- check in 登记
+- check in at… 登记在...
+- check sth in 检查某事
+- check out 查看
+- check out of sth 看看某事
+- climate change 气候变化
+- close to sb/sth 接近某人/某事
+- come back 回来
+- Come on! 来吧
+- connected to sth 连接到某事
+- connected with sb/sth 与某人/某事有关
+- credit card 信用卡
+- deal with sb 对付某人
+- deal with sth 对付某事
+- depend on sb/sth 取决于某人/某事
+- depend on sb/sth for sth 依赖某人/某事
+- depend on sth 依赖某人/某事
+- do well 做得好
+- each one 每一个
+- end with sth 以某事结束
+- even more… 还有更多...
+- even more difficult 更难
+- even more exciting 更精彩
+- everyone else 其他所有人
+- except for 除了
+- fall in love 坠入爱河
+- fall in love with sb 爱上某人
+- fall off 脱落
+- fall off sth 掉下来
+- far away 离着很远
+- feel good 感觉不错
+- feel like sth 感觉像
+- fill sth in 填写某事
+- find it difficult to do sth 觉得做某事很困难
+- first of all 首先
+- focus on sb/sth 专注于某人/某事
+- followed by sb/sth 其他是某人/某事
+- for the rest of sth 剩下的
+- for this reason 为此原因
+- get back 回来
+- get better 好转
+- get lost 迷路
+- get out 出去
+- get out of sth 滚出去
+- give up 放弃
+- give sth up 放弃某事
+- go and… 去和...
+- go and get help 去寻求帮助
+- go away 离开
+- go down 下去
+- Prices are going down. 价格正在下降
+- go down sth 下去...
+- Go down the road. 走在路上
+- go for sth 去做某事
+- go for a walk 出去走走
+- go up 上去
+- Prices are going up. 价格正在上涨
+- good luck 祝你好运
+- happen to sb/sth 发生在某人/某事上
+- happy with sb/sth 对某人/某事感到满意
+- have a look 看一看
+- have a look at sth 看看...
+- have got to 必须
+- Have you ever…? 你有没有...?
+- health problems 健康问题
+- hear about sb/sth 听说某人/某事
+- I don’t care 我不在乎
+- if necessary 如有必要
+- if you want to 如果你想
+- I guess 我猜
+- I’m afraid… 我害怕...
+- I mean 我是说
+- in business 在业务
+- in danger 在危险之中
+- in history 在历史上
+- the first time in history 历史上的第一次
+- in hospital 在医院
+- in love 恋爱
+- in love with sb 爱上某人
+- in prison 在狱中
+- in some cases 在某些情况下
+- instead of 代替
+- in the air 在空中
+- in the end 到底
+- in the middle 在中间
+- in the middle of sth 在某事的中间
+- in the same way 以同样的方式
+- in this way 这样
+- it depends 这取决于
+- it all depends 这一切都取决于
+- I think so 我认同
+- I don’t think so 我不这么认为
+- lead to sth 导致某事
+- less than… 少于...
+- Let me… 让我...
+- Let me help you 我来帮你
+- let me know 让我知道
+- look after sb/sth/yourself 照顾某人/某事/你自己
+- look back at sth 回头看看
+- Look back at your notes 回顾你的笔记
+- look sth up 抬头看看
+- make a mistake 犯了一个错误
+- make money 挣钱
+- make sense 说得通
+- make sure 确保
+- make sure of sth 确保某事
+- make sure that… 确保...
+- much better 好多了
+- not at all 一点也不
+- I didn’t enjoy it at all 我一点也不喜欢
+- no way 没门
+- No way! 没门
+- There is no way (that)… 没有办法
+- Oh dear 亲爱的
+- Oh well 好吧
+- on earth 在地球上
+- on the ground 在地上
+- on the other side 另一方面
+- on the other side of sth 在某事的另一边
+- on the wall 在墙壁上
+- on time 准时
+- on top of sth/sb 在某事/某人之上
+- one or two 一个或两个
+- ordinary people 普通人
+- pay attention 注意
+- pay attention to sb/sth 注意某人/某事
+- per hour 每小时
+- kilometres per hour 每小时公里
+- miles per hour 英里每小时
+- pick sb/sth up 接某人/某事
+- police officer 警察
+- police station 警察局
+- public transport 公共交通
+- put sth on 穿上某事
+- quite a lot 非常多
+- quite a lot of sth 相当多的...
+- reasons why 原因
+- refer to sb/sth 指某人/某事
+- refer to sb/sth as sth 将某人/某事作为某事
+- report on sth 报道某事
+- respond to sth/sb 回应某人/某事
+- save money 存钱
+- science fiction 科幻小说
+- search for sth/sb 搜索某人/某事
+- so that… 以便...
+- solution to sth 解决某事
+- sort of sth 某种东西
+- What sorts of things do you do? 你做了什么样的事情？
+- sound like sb/sth 听起来像某人/某事
+- start with sb/sth 从某人/某事开始
+- such a/an… 这样一个...
+- such a good idea 好主意
+- take care of sb/sth/yourself 照顾某人/某事/你自己
+- take off 脱掉
+- take sth off 脱掉某事
+- take part 参与
+- take part in sth 参与某事
+- take place 发生
+- the best thing 最好的东西
+- the best thing to do 最好的事情
+- the first thing 第一件事
+- the first thing I did 我做的第一件事
+- the following… 下列...
+- the following day 第二天
+- the important thing 重要的事情
+- the most important thing 最重要的事情
+- the other side of sth 某事的另一边
+- the other side of the world 世界的另一边
+- the rest of sth 剩下的...
+- the rest of the world 剩下的世界
+- these days 这些日子
+- they say… 他们说...
+- They say you can’t buy happiness 他们说你买不到幸福
+- throw sth away 扔掉某物
+- turn sth off 关掉某事
+- turn sth on 开启某物
+- up and down 上和下
+- Why not…? 为什么不...？
+- work out 锻炼
+- worried about sb/sth 担心某人/某事
+- would love to do sth 很想做某事
+- write sth down 写下来
 
 ## B1
 
