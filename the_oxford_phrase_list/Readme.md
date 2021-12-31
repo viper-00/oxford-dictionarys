@@ -542,238 +542,238 @@
 
 ## B1
 
-- a bit more
-- a bit of sth
-- access to sth
-- after all
-- a great deal
-- a great deal better
-- a great deal of sth
-- aim to do sth
-- a kind of…
-- I had a kind of feeling this
-- might happen.
-- a little bit
-- a little more
-- along with sb/sth
-- a lot more
-- alternative to sth
-- and so on
-- apart from
-- a range of sth
-- a wide range of sth
-- as if…
-- as if nothing had happened
-- as much as
-- as soon as possible
-- at last
-- at risk
-- at times
-- attached to sb/sth
-- a variety of sth
-- be about to do sth
-- be going on
-- What’s going on?
-- be known as sb/sth
-- benefit from sth
-- be supposed to do sth
-- be supposed to be sth
-- break up
-- break up with sb
-- by the time (that)…
-- can’t afford sth
-- can’t afford to do sth
-- care for sb
-- caused by sth
-- check sb/sth out
-- choose to do sth
-- clean up
-- clean sth up
-- click on sth
-- come up with sth
-- compared with sth
-- concentrate on sth
-- consist of sb/sth
-- decide on sth
-- depending on
-- developing countries
-- due to sb/sth
-- economic growth
-- end up
-- even if
-- even though
-- exactly the same
-- experience in sth
-- fail to do sth
-- fall asleep
-- far more
-- far more important
-- far more opportunities
-- far too
-- far too much homework
-- fed up
-- for a while
-- for free
-- for instance
-- for life
-- a job for life
-- for long
-- for some time
-- get on with sb
-- get to know sb
-- get used to sth
-- get used to doing sth
-- global warming
-- go ahead
-- go ahead with sth
-- go wrong
-- growth in sth
-- have no idea
-- have sth in common
-- have sth in common with sb
-- have sth in common with sth
-- hear of sb/sth
-- heart disease
-- high street
-- higher education
-- if I were you
-- in addition
-- in addition to sb/sth
-- in a way that...
-- in case…
-- just in case…
-- in charge of sb/sth
-- in contrast
-- in contrast to sb/sth
-- in favour of sb/sth
-- in general
-- in order of sth
-- in order to do sth
-- in other words
-- in particular
-- in public
-- in recent years
-- in response to sth
-- in terms of sth
-- in the case of sth
-- in the form of sb/sth
-- in the way (that)…
-- in this case
-- in time
-- in time for sth
-- in time to do sth
-- in touch
-- be in touch
-- get in touch
-- keep in touch
-- in touch with sb
-- I wonder if…
-- leave sb/sth out
-- likely to do sth
-- look forward to sth
-- look out
-- make a difference
-- make sth up
-- manage to do sth
-- mean to do sth
-- I didn’t mean to.
-- more and more
-- move on
-- move on to sth
-- no longer
-- not any longer
-- no more than…
-- not even
-- I didn’t even see it.
-- not necessarily
-- not only
-- not only… but also…
-- on a regular basis
-- on my own
-- on their own
-- on your own
-- on the other hand
-- on the street
-- on the streets
-- on the way
-- or something
-- or somebody
-- or somewhere
-- or two
-- a day or two
-- a moment or two
-- a pound or two
-- ought to
-- out there
-- over the years
-- over time
-- participate in sth
-- point of view
-- point out
-- point sth out
-- point out that…
-- prepared to do sth
-- primary school
-- prime minister
-- put sth up
-- quite a…
-- quite a good player
-- quite a long time
-- raise money
-- raise money for sth
-- rather than
-- reaction to sth
-- relate to sth/sb
-- relating to sth/sb
-- related to sth/sb
-- respect for sb/sth
-- result in sth
-- rise in sth
-- a rise in the number of visitors
-- run out
-- run out of sth
-- search engine
-- secondary school
-- set sth up
-- slow down
-- so far
-- some kind of…
-- succeed in doing sth
-- suffer from sth
-- sure to do sth
-- take sb/sth on
-- take up sth
-- take up too much room
-- take sth up
-- take up golf
-- tell the truth
-- tend to do sth
-- tend to be sth
-- thanks to sb/sth
-- that’s it
-- the case
-- be the case that…
-- the fact that…
-- those who…
-- There are those who say…
-- to do with sb/sth
-- be to do with sb/sth
-- have to do with sb/sth
-- together with
-- too bad
-- try and…
-- turn out
-- turn out to be sth
-- turn sth up
-- unable to do sth
-- up to sth
-- up to 60 miles per hour
-- way of life
-- well known
-- work on sth
-- work sth out
-- wrong with sb/sth
-- you see
+- a bit more 多一点
+- a bit of sth 有点...
+- access to sth 接触某物
+- after all 毕竟
+- a great deal 好的折扣
+- a great deal better 好多了
+- a great deal of sth 大量的...
+- aim to do sth 旨在做某事
+- a kind of… 一种...
+- I had a kind of feeling this 我有一种感觉
+- might happen 可能发生
+- a little bit 一点点
+- a little more 再来一点
+- along with sb/sth 与某人/某事一起
+- a lot more 多很多
+- alternative to sth 某物的替代品
+- and so on 等等
+- apart from 除了
+- a range of sth 一系列...
+- a wide range of sth 广泛的...
+- as if… 好像...
+- as if nothing had happened 仿佛什么都没发生
+- as much as 尽可能
+- as soon as possible 尽早
+- at last 最后
+- at risk 有风险
+- at times 有时
+- attached to sb/sth 附在某人/某事上
+- a variety of sth 各种...
+- be about to do sth 即将做某事
+- be going on 继续
+- What’s going on? 这是怎么回事？
+- be known as sb/sth 被称为某人/某事
+- benefit from sth 受益于某事
+- be supposed to do sth 应该做某事
+- be supposed to be sth 应该是...
+- break up 拆散
+- break up with sb 与某人分手
+- by the time (that)… 到时候（那个）...
+- can’t afford sth 买不起某事
+- can’t afford to do sth 不能做某事
+- care for sb 照顾某人
+- caused by sth 由某事引起
+- check sb/sth out 检查某人/某事
+- choose to do sth 选择做某事
+- clean up 清理
+- clean sth up 打扫卫生
+- click on sth 点击某事
+- come up with sth 想办法
+- compared with sth 与某事相比
+- concentrate on sth 专心做某事
+- consist of sb/sth 由某事/某人组成
+- decide on sth 决定某事
+- depending on 根据
+- developing countries 发展中国家
+- due to sb/sth 由于某人/某事
+- economic growth 经济增长
+- end up 结果
+- even if 即使
+- even though 虽然
+- exactly the same 一摸一样
+- experience in sth 某事经验
+- fail to do sth 做某事
+- fall asleep 睡着了
+- far more 更多
+- far more important 更重要
+- far more opportunities 更多的机会
+- far too 太远了
+- far too much homework 作业太多
+- fed up 受够了
+- for a while 一阵子
+- for free 免费
+- for instance 例如
+- for life 终身
+- a job for life 一份终身的工作
+- for long 很长时间
+- for some time 一段时间
+- get on with sb 与某事相识
+- get to know sb 认识某人
+- get used to sth 习惯...
+- get used to doing sth 习惯做某事
+- global warming 全球暖化
+- go ahead 前进
+- go ahead with sth 继续...
+- go wrong 出问题
+- growth in sth 某事的成长
+- have no idea 不知道
+- have sth in common 有共同点
+- have sth in common with sb 与某人的共同之处
+- have sth in common with sth 与某事的共同之处
+- hear of sb/sth 听说某人/某事
+- heart disease 心脏疾病
+- high street 大街
+- higher education 高等教育
+- if I were you 如果我是你
+- in addition 此外
+- in addition to sb/sth 除了某人/某事
+- in a way that... 在某种程度上...
+- in case… 以防万一...
+- just in case… 以防万一...
+- in charge of sb/sth 负责某人/某事
+- in contrast 相比之下
+- in contrast to sb/sth 与某人/某事相反
+- in favour of sb/sth 赞成某人/某事
+- in general 一般来说
+- in order of sth 按顺序
+- in order to do sth 为了做某事
+- in other words 换句话说
+- in particular 特别是
+- in public 在公众场合
+- in recent years 最近几年
+- in response to sth 回应某事
+- in terms of sth 就某事而言
+- in the case of sth 在某事的情况下
+- in the form of sb/sth 以某人/某事的形式
+- in the way (that)… 顺便（那个）...
+- in this case 在这种情况下
+- in time 及时
+- in time for sth 赶时间
+- in time to do sth 及时做某事
+- in touch 联系
+- be in touch 保持联系
+- get in touch 保持联系
+- keep in touch 保持联系
+- in touch with sb 与某人联系
+- I wonder if… 我怀疑是否
+- leave sb/sth out 离开某人/某事
+- likely to do sth 可能会做某事
+- look forward to sth 期待...
+- look out 小心
+- make a difference 做出改变
+- make sth up 弥补
+- manage to do sth 设法做某事
+- mean to do sth 意思是做某事
+- I didn’t mean to 我不是故意的
+- more and more 越来越多
+- move on 继续
+- move on to sth 继续做某事
+- no longer 不再
+- not any longer 不再
+- no more than… 不超过...
+- not even 甚至不...
+- I didn’t even see it 我甚至没有看到它
+- not necessarily 不必要
+- not only 不仅
+- not only… but also… 不仅...而且...
+- on a regular basis 定期
+- on my own 靠我自己
+- on their own 靠他们自己
+- on your own 靠你自己
+- on the other hand 另一方面
+- on the street 在街上
+- on the streets 在街上
+- on the way 在途中
+- or something 或其他东西
+- or somebody 或某人
+- or somewhere 或某处
+- or two 或两个
+- a day or two 一两天
+- a moment or two 一两分钟
+- a pound or two 一两磅
+- ought to 应该
+- out there 在那里
+- over the years 这些年来
+- over time 随着时间的推移
+- participate in sth 参加某事
+- point of view 观点看法
+- point out 指出
+- point sth out 指出某事
+- point out that… 指出...
+- prepared to do sth 准备做某事
+- primary school 小学
+- prime minister 总理
+- put sth up 放起来
+- quite a… 相当...
+- quite a good player 相当不错的球员
+- quite a long time 相当长的时间
+- raise money 筹集资金
+- raise money for sth 筹钱
+- rather than 而不是
+- reaction to sth 对某事的反应
+- relate to sth/sb 与某事/某人有关
+- relating to sth/sb 与某事/某人有关
+- related to sth/sb 与某事/某人有关
+- respect for sb/sth 尊重某人/某事
+- result in sth 结果...
+- rise in sth 上升
+- a rise in the number of visitors 访客人数增加
+- run out 用完
+- run out of sth 用完某事
+- search engine 搜索引擎
+- secondary school 中学
+- set sth up 设置某事
+- slow down 减速
+- so far 迄今为止
+- some kind of… 一些...
+- succeed in doing sth 某事成功
+- suffer from sth 遭受某事
+- sure to do sth 一定要做某事
+- take sb/sth on 拿某人/某事
+- take up sth 占用某物
+- take up too much room 占用太多空间
+- take sth up 拿起东西
+- take up golf 打高尔夫球
+- tell the truth 说实话
+- tend to do sth 倾向于做某事
+- tend to be sth 倾向于某事
+- thanks to sb/sth 感谢某人/某事
+- that’s it 而已
+- the case 案子
+- be the case that… 这样的话...
+- the fact that… 事实是...
+- those who… 那些人...
+- There are those who say… 有人说...
+- to do with sb/sth 与某人/某事有关
+- be to do with sb/sth 与某人/某事有关
+- have to do with sb/sth 与某人/某事有关
+- together with 和...一起
+- too bad 太糟糕了
+- try and… 尝试...
+- turn out 结果发现
+- turn out to be sth 原来是...
+- turn sth up 转起来
+- unable to do sth 不能做某事
+- up to sth 直到某事
+- up to 60 miles per hour 高达每小时60英里
+- way of life 生活方式
+- well known 众所周知
+- work on sth 在某事上工作
+- work sth out 努力工作
+- wrong with sb/sth 某人/某事错误
+- you see 你看
 
 ## B2
 
