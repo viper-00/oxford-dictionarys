@@ -777,244 +777,244 @@
 
 ## B2
 
-- a bit of a…
-- account for sth
-- accused of sth
-- act as sth
-- aimed at sb
-- aimed at doing sth
-- all the way
-- a means of sth
-- a means of communication
-- a means of transport
-- appeal to sb
-- apply to sb/sth
-- as a whole
-- as far as I am concerned
-- as follows…
-- as for sb/sth
-- as long as…
-- associated with sth
-- associated with doing sth
-- as though…
-- at once
-- at present
-- at some point
-- at the end of the day
-- at this point
-- at this stage
-- awareness of sth
-- back sb/sth up
-- be charged with sth
-- be charged with doing sth
-- be derived from sth
-- be expected to do sth
-- be known to do sth
-- be made up of sth
-- be surrounded by sb/sth
-- be to blame
-- be to blame for sth
-- both sides
-- both sides of the argument
-- on both sides
-- bound to do sth
-- bound to be sth
-- bring sb up
-- by now
-- call for sth
-- case study
-- come across sb/sth
-- come true
-- a dream come true
-- concerned about sth
-- concerned with sth
-- confidence in sb/sth
-- contribute to sth
-- control over sb/sth
-- cope with sth
-- decline in sth
-- a decline in student numbers
-- dependent on sb/sth
-- despite the fact that…
-- draw attention to sb/sth
-- engage in sth
-- engaged in sth
-- ever since(…)
-- exposure to sth
-- far from sth
-- far from doing sth
-- figure sb/sth out
-- find yourself doing sth
-- get in
-- get into sth
-- The train got in late.
-- get over sth/sb
-- You’ll get over it.
-- get rid of sb/sth
-- go off
-- She went off to get a drink.
-- A bomb went off.
-- The alarm went off.
-- The lights went off.
-- go on to do sth
-- go through sth
-- had better
-- hang on
-- human being
-- human rights
-- if only…
-- I have to say…
-- in action
-- in advance
-- in an attempt to do sth
-- in part
-- in place
-- in relation to sb/sth
-- in spite of sth
-- in the first place
-- in the near future
-- in turn
-- investment in sth
-- I would say...
-- loads of sb/sth
-- mental health
-- more or less
-- no doubt
-- no matter…
-- no matter how…
-- no matter what…
-- nothing but
-- on board
-- once again
-- one another
-- on the basis of sth
-- on the one hand
-- opposed to sth
-- or so
-- other than
-- potential for sth
-- pretty much
-- prior to
-- prove to be sth
-- put sth forward
-- put sth together
-- quality of life
-- ranging from
-- prices ranging from €25 to €60
-- regarded as sth
-- relevant to sb/sth
-- rely on sb/sth
-- role model
-- set out
-- short of sth
-- so as to do sth
-- something like…
-- sort sb/sth/yourself out
-- stick to sth
-- subject to sth
-- sum up
-- sum sth up
-- take advantage of sb/sth
-- take sth into account
-- take over
-- take over from sb
-- that is
-- the vast majority of sth
-- turn into sth
-- up to sb
-- when it comes to sth
-- when it comes to doing sth
-- whether or not…
-- would rather…
+- a bit of a… 有点...
+- account for sth 交账某事
+- accused of sth 被指控某事
+- act as sth 充当某事
+- aimed at sb 针对某事
+- aimed at doing sth 旨在做某事
+- all the way 一路
+- a means of sth 一种手段
+- a means of communication 一种通讯方式
+- a means of transport 一种交通工具
+- appeal to sb 呼吁某人
+- apply to sb/sth 适用于某人/某事
+- as a whole 作为一个整体
+- as far as I am concerned 就我而言
+- as follows… 如下...
+- as for sb/sth 至于某人/某事
+- as long as… 只要...
+- associated with sth 与某事有关
+- associated with doing sth 与做某事有关
+- as though… 好像...
+- at once 立刻
+- at present 现在
+- at some point 在某一点
+- at the end of the day 在这一天结束时
+- at this point 这一点
+- at this stage 在这个阶段
+- awareness of sth 对某事的认识
+- back sb/sth up 支持某人/某事
+- be charged with sth 被控某事
+- be charged with doing sth 被指控做某事
+- be derived from sth 来自某事
+- be expected to do sth 期望做某事
+- be known to do sth 知道做某事
+- be made up of sth 由某物组成
+- be surrounded by sb/sth 被某人/某事包围
+- be to blame 受到责备
+- be to blame for sth 为某事负责
+- both sides 双方
+- both sides of the argument 争论的双方
+- on both sides 两边
+- bound to do sth 一定要做某事
+- bound to be sth 一定是某事
+- bring sb up 提起某人
+- by now 目前为止
+- call for sth 呼唤某物
+- case study 案例分析
+- come across sb/sth 遇到某人/某事
+- come true 成真
+- a dream come true 梦想成真
+- concerned about sth 关心某事
+- concerned with sth 关心某事
+- confidence in sb/sth 对某人/某事的信心
+- contribute to sth 有所贡献
+- control over sb/sth 控制某人/某事
+- cope with sth 应付某事
+- decline in sth 下降...
+- a decline in student numbers 学生人数下降
+- dependent on sb/sth 依赖某人/某事
+- despite the fact that… 尽管事实上...
+- draw attention to sb/sth 提请注意某人/某事
+- engage in sth 从事某事
+- engaged in sth 从事某事
+- ever since(…) 自从...
+- exposure to sth 接触某物
+- far from sth 远离...
+- far from doing sth 远非做某事
+- figure sb/sth out 搞清楚某人/某事
+- find yourself doing sth 发现自己在做某事
+- get in 进来
+- get into sth 进入某事
+- The train got in late 火车晚点了
+- get over sth/sb 克服某事
+- You’ll get over it 你会克服的
+- get rid of sb/sth 摆脱某人/某事
+- go off 走开
+- She went off to get a drink 她去喝酒了
+- A bomb went off 炸弹爆炸了
+- The alarm went off 闹钟响了
+- The lights went off 灯灭了
+- go on to do sth 继续做某事
+- go through sth 经历某事
+- had better 最好
+- hang on 不挂断
+- human being 人类
+- human rights 人权
+- if only… 要是...
+- I have to say… 我不得不说...
+- in action 在行动
+- in advance 提前
+- in an attempt to do sth 试图做某事
+- in part 部分
+- in place 到位
+- in relation to sb/sth 关于某人/某事
+- in spite of sth 尽管
+- in the first place 首先
+- in the near future 在不远的将来
+- in turn 反过来
+- investment in sth 投资...
+- I would say... 我会说
+- loads of sb/sth 大量的某人/某事
+- mental health 精神健康
+- more or less 或多或少
+- no doubt 毫无疑问
+- no matter… 不管...
+- no matter how… 不管怎样...
+- no matter what… 无论如何...
+- nothing but 无外乎
+- on board 在船上
+- once again 再次
+- one another 另一个
+- on the basis of sth 在某事的基础上
+- on the one hand 一方面
+- opposed to sth 反对某事
+- or so 或者
+- other than 以外
+- potential for sth 某事的潜力
+- pretty much 差不多
+- prior to 之前
+- prove to be sth 证明是...
+- put sth forward 提出某事
+- put sth together 把某事放在一起
+- quality of life 生活质量
+- ranging from 范围从
+- prices ranging from €25 to €60 价格从25欧元到60欧元
+- regarded as sth 视为某事
+- relevant to sb/sth 与某人/某事有关
+- rely on sb/sth 依靠某人/某事
+- role model 榜样
+- set out 出发
+- short of sth 短暂的事情
+- so as to do sth 以便做某事
+- something like… 就像是...
+- sort sb/sth/yourself out 就像某人/某事/你自己排除在外
+- stick to sth 坚持某事
+- subject to sth 服从某事
+- sum up 总结
+- sum sth up 总结一下
+- take advantage of sb/sth 利用某人/某事
+- take sth into account 考虑做某事
+- take over 接管
+- take over from sb 接替某人
+- that is 那是
+- the vast majority of sth 绝大多数...
+- turn into sth 变成某事
+- up to sb 直到某人
+- when it comes to sth 说到某事
+- when it comes to doing sth 说到做某事
+- whether or not… 不管是不是
+- would rather… 更乐于...
 
 ## C1
 
-- above all
-- all but
-- all the more
-- as far as sb/sth is concerned
-- as of…
-- as opposed to
-- as such
-- as to sth
-- as to how…
-- as to whether…
-- at the expense of sb/sth
-- at the hands of sb
-- back and forth
-- bear sb/sth in mind
-- bear in mind that…
-- keep sb/sth in mind
-- keep in mind that…
-- be attributed to sb
-- be entitled to sth
-- be found to do sth
-- be meant to do sth
-- be reported to be sth
-- be reported to have sth
-- be said to be sth
-- be said to have sth
-- bring sth about
-- bring sth up
-- by means of sth
-- by no means
-- call on sb
-- call on sb to do sth
-- consistent with sth
-- dedicated to sth
-- deprive sb/sth of sth
-- dispose of sb/sth
-- follow sth up
-- for that matter
-- for the benefit of sb
-- for the sake of sb/sth
-- get away with sth
-- given that…
-- have sb/sth in mind
-- have sb/sth in mind for sth
-- have nothing to do with sb/sth
-- be nothing to do with sb/sth
-- in accordance with sth
-- in any case
-- in a position to do sth
-- in conjunction with sb/sth
-- in connection with sb/sth
-- in effect
-- in full
-- in line with sth
-- in practice
-- in respect of sth
-- in such a way (that)…
-- in the absence of sb/sth
-- in the course of…
-- in the event of sth
-- in the face of sth
-- in the hands of sb
-- in the light of sth
-- in light of sth
-- in the meantime
-- in the midst of sth
-- in the presence of sb
-- in the presence of sth
-- in the wake of sb/sth
-- involvement in sth
-- let alone
-- little more than…
-- live on sth
-- may well
-- nothing like
-- not to mention
-- on behalf of sb
-- on the part of sb
-- over the course of…
-- put it
-- How shall I put it?
-- seek to do sth
-- set to do sth
-- the extent to which…
-- to date
-- his best work to date
-- up against sth
-- with regard to sb/sth
-- with respect to sth
-- with the exception of sb/sth
+- above all 首先
+- all but 所有但
+- all the more 更重要的是
+- as far as sb/sth is concerned 就某人/某事而言
+- as of… 作为...
+- as opposed to 而不是
+- as such 像这样
+- as to sth 至于...
+- as to how… 至于如何...
+- as to whether… 关于是否...
+- at the expense of sb/sth 以牺牲某人/某事为代价
+- at the hands of sb 在某人手中
+- back and forth 来回
+- bear sb/sth in mind 记住某人/某事
+- bear in mind that… 请记住...
+- keep sb/sth in mind 记住某人/某事
+- keep in mind that… 请记住...
+- be attributed to sb 归因于某人
+- be entitled to sth 有权享受某事
+- be found to do sth 被发现做某事
+- be meant to do sth 打算做某事
+- be reported to be sth 被举报为某事
+- be reported to have sth 被举报有某事
+- be said to be sth 可以说是...
+- be said to have sth 据说有...
+- bring sth about 带来某事
+- bring sth up 提起某事
+- by means of sth 通过某事
+- by no means 绝不
+- call on sb 打电活给某人
+- call on sb to do sth 叫某人做某事
+- consistent with sth 符合...
+- dedicated to sth 致力于某事
+- deprive sb/sth of sth 剥夺某人/某事
+- dispose of sb/sth 处理某人/某事
+- follow sth up 跟进某事
+- for that matter 对于这个问题
+- for the benefit of sb 为了某人的利益
+- for the sake of sb/sth 为了某人/某事
+- get away with sth 摆脱某事
+- given that… 鉴于...
+- have sb/sth in mind 记住某人/某事
+- have sb/sth in mind for sth 为某事考虑到某人/某事
+- have nothing to do with sb/sth 与某人/某事无关
+- be nothing to do with sb/sth 与某人/某事无关
+- in accordance with sth 按照...
+- in any case 任何状况下
+- in a position to do sth 有能力做某事
+- in conjunction with sb/sth 结合某人/某事
+- in connection with sb/sth 与某人/某事有关
+- in effect 实际上
+- in full 在全
+- in line with sth 符合...
+- in practice 在实践中
+- in respect of sth 就某事而言
+- in such a way (that)… 以这样的方式...
+- in the absence of sb/sth 在没有某人/某事的情况下
+- in the course of… 在...的进程下
+- in the event of sth 在某事的情况下
+- in the face of sth 在某事面前
+- in the hands of sb 在某人手中
+- in the light of sth 根据某事
+- in light of sth 鉴于某事
+- in the meantime 同时
+- in the midst of sth 在某事中
+- in the presence of sb 在某人面前
+- in the presence of sth 在某物面前
+- in the wake of sb/sth 在某人/某事之后
+- involvement in sth 参与某事
+- let alone 更别说
+- little more than… 比...
+- live on sth 住在某处
+- may well 可能
+- nothing like 什么都不像
+- not to mention 更何况
+- on behalf of sb 代表某人
+- on the part of sb 在某事一部分
+- over the course of… 在...过程中
+- put it 放下它
+- How shall I put it? 我该怎么说？
+- seek to do sth 寻求做某事
+- set to do sth 准备做某事
+- the extent to which… 在何总程度上...
+- to date 迄今为止
+- his best work to date 他迄今为止最好的作品
+- up against sth 反对某事
+- with regard to sb/sth 对于某人/某事
+- with respect to sth 关于某事
+- with the exception of sb/sth 除了某人/某事
